@@ -1,0 +1,1501 @@
+species_name,category,region,latitude,longitude,year,population_count,habitat_loss_percent,avg_temperature,human_activity_index,protected_area,conservation_status
+Great Hornbill,Bird,Serengeti,-2.004,33.7681,2017,55000,7.9,22.5,1.5,Yes,Least Concern
+Harpy Eagle,Bird,Sundarbans,21.5474,90.3497,2023,55000,10.7,25.9,5.6,Yes,Least Concern
+Red-eyed Tree Frog,Amphibian,Madagascar,-18.37,47.7996,2017,2183,77.2,24.3,7.2,No,Endangered
+Sloth Bear,Mammal,Pantanal Wetlands,-16.1165,-55.9664,2016,3554,61.6,25.9,5.7,No,Endangered
+Spix's Macaw,Bird,Serengeti,-3.7578,33.8965,2022,3257,53.3,20.5,5.9,No,Vulnerable
+Fire Salamander,Amphibian,Borneo Rainforest,2.1616,113.9166,2019,12036,55.0,26.7,4.2,No,Vulnerable
+Sloth Bear,Mammal,Western Ghats,9.9431,76.5257,2019,8074,37.8,25.6,2.5,Yes,Least Concern
+Chinese Giant Salamander,Amphibian,Amazon Rainforest,-2.2223,-62.082,2024,17451,29.2,24.9,1.2,Yes,Least Concern
+Galapagos Giant Tortoise,Reptile,Congo Basin,-0.1227,20.8082,2022,6184,81.3,25.5,9.6,No,Endangered
+Great Indian Bustard,Bird,Serengeti,-3.6893,35.1287,2016,27206,21.4,26.4,3.6,Yes,Least Concern
+Nilgiri Tahr,Mammal,Western Ghats,11.1846,76.1033,2018,6548,71.9,23.3,6.9,No,Endangered
+Clouded Leopard,Mammal,Sundarbans,22.8285,88.446,2021,18422,9.6,28.5,2.8,Yes,Least Concern
+Golden Poison Frog,Amphibian,Amazon Rainforest,-3.311,-62.9744,2019,31940,32.4,27.6,9.2,No,Vulnerable
+Nilgiri Tahr,Mammal,Amazon Rainforest,-2.2043,-61.8807,2017,17308,17.3,26.5,5.8,Yes,Least Concern
+Nilgiri Tahr,Mammal,Serengeti,-1.2523,35.2728,2015,4757,73.0,22.2,9.7,No,Critically Endangered
+Great Indian Bustard,Bird,Western Ghats,9.5857,77.1674,2017,14762,56.2,25.1,8.3,No,Vulnerable
+Hawksbill Sea Turtle,Reptile,Western Ghats,9.226,75.9171,2021,17276,6.5,25.1,5.5,Yes,Least Concern
+Great Hornbill,Bird,Arctic Tundra,69.1321,-132.2777,2015,40884,16.6,-8.1,2.4,Yes,Least Concern
+Cheetah,Mammal,Sundarbans,21.414,88.5267,2016,28919,34.5,27.6,8.9,No,Least Concern
+Spix's Macaw,Bird,Congo Basin,-1.3854,22.8958,2021,44585,25.2,21.9,4.5,Yes,Least Concern
+Red-eyed Tree Frog,Amphibian,Sundarbans,21.7169,87.6354,2019,24360,24.3,26.4,5.4,Yes,Least Concern
+Black Rhino,Mammal,Congo Basin,-0.2852,21.5501,2019,5005,47.1,26.3,4.1,No,Vulnerable
+Sarus Crane,Bird,Arctic Tundra,67.9748,-133.0796,2015,2610,52.6,-6.0,5.5,No,Endangered
+Leatherback Turtle,Reptile,Amazon Rainforest,-3.0524,-60.8683,2016,23643,25.9,27.7,4.2,Yes,Least Concern
+Great Indian Bustard,Bird,Serengeti,-1.0839,33.8874,2016,36044,7.8,22.4,4.3,Yes,Least Concern
+Axolotl,Amphibian,Serengeti,-1.5948,35.7104,2023,2013,84.5,24.4,4.7,No,Endangered
+Hawksbill Sea Turtle,Reptile,Western Ghats,11.0395,77.2197,2017,28969,16.7,23.5,5.3,Yes,Least Concern
+Red Sandalwood,Plant,Amazon Rainforest,-3.1797,-61.8045,2019,12936,19.7,27.1,4.8,Yes,Least Concern
+Red-eyed Tree Frog,Amphibian,Pantanal Wetlands,-16.7155,-56.6453,2020,13125,16.1,28.1,1.6,Yes,Least Concern
+Rafflesia Arnoldii,Plant,Amazon Rainforest,-3.8493,-61.5755,2017,6609,25.4,25.3,6.9,No,Vulnerable
+Black Rhino,Mammal,Pantanal Wetlands,-16.7674,-56.4569,2023,37623,29.9,26.4,1.3,Yes,Least Concern
+Snow Leopard,Mammal,Sundarbans,23.3079,88.9693,2023,14596,9.7,25.4,5.6,Yes,Least Concern
+Sarus Crane,Bird,Amazon Rainforest,-3.5089,-62.6399,2016,34542,12.8,23.8,2.5,Yes,Least Concern
+Snow Leopard,Mammal,Borneo Rainforest,2.3494,114.6772,2023,15088,34.9,26.8,3.9,Yes,Least Concern
+Great Indian Bustard,Bird,Congo Basin,-2.0309,22.5942,2015,6387,59.3,24.2,8.4,No,Endangered
+Spoon-billed Sandpiper,Bird,Western Ghats,11.0151,76.8544,2022,35687,21.5,28.6,4.8,Yes,Least Concern
+Gharial,Reptile,Sundarbans,23.1125,88.4448,2020,8116,56.5,23.6,8.6,No,Endangered
+Indian Rhinoceros,Mammal,Eastern Himalayas,27.8624,88.0422,2017,4816,80.7,16.7,5.0,No,Endangered
+Orinoco Crocodile,Reptile,Eastern Himalayas,27.8058,87.6715,2019,32083,19.2,12.1,2.9,Yes,Least Concern
+Golden Poison Frog,Amphibian,Borneo Rainforest,-0.2547,115.1207,2015,24738,25.8,28.0,2.9,Yes,Least Concern
+Sarus Crane,Bird,Serengeti,-3.4006,35.3615,2021,3452,70.4,20.8,5.4,No,Endangered
+Philippine Eagle,Bird,Borneo Rainforest,0.4825,112.8593,2015,50634,14.8,24.6,3.9,Yes,Least Concern
+Gharial,Reptile,Pantanal Wetlands,-17.9877,-55.8011,2016,17334,30.1,25.7,2.2,Yes,Least Concern
+Cheetah,Mammal,Serengeti,-1.1097,33.5407,2017,34226,16.8,22.8,5.7,Yes,Least Concern
+Purple Frog,Amphibian,Serengeti,-2.3701,35.8157,2019,31189,24.3,17.6,1.7,Yes,Least Concern
+Red Panda,Mammal,Sundarbans,20.5555,88.4098,2024,4609,34.2,25.2,4.8,No,Vulnerable
+Komodo Dragon,Reptile,Western Ghats,11.5522,77.2379,2016,18450,12.2,23.7,5.1,Yes,Least Concern
+Indian Rhinoceros,Mammal,Congo Basin,0.2437,21.9956,2024,19256,47.2,27.0,8.1,No,Vulnerable
+Great Indian Bustard,Bird,Pantanal Wetlands,-17.9339,-57.3256,2016,2827,80.2,26.5,7.6,No,Critically Endangered
+Hawksbill Sea Turtle,Reptile,Madagascar,-18.4805,48.2931,2023,55000,12.2,23.7,2.8,Yes,Least Concern
+Panamanian Golden Frog,Amphibian,Amazon Rainforest,-2.7332,-61.5399,2017,9379,57.6,24.3,9.3,No,Endangered
+Ghost Orchid,Plant,Arctic Tundra,68.2587,-132.9823,2023,48947,12.9,-7.1,1.3,Yes,Least Concern
+Snow Leopard,Mammal,Serengeti,-1.2787,36.0321,2015,26385,16.4,20.7,1.5,Yes,Least Concern
+Komodo Dragon,Reptile,Borneo Rainforest,0.539,113.5409,2016,4806,53.0,25.7,7.4,No,Endangered
+Asian Elephant,Mammal,Congo Basin,-0.6545,22.9266,2023,12776,14.7,24.1,3.9,Yes,Least Concern
+Red Sandalwood,Plant,Western Ghats,9.1096,76.4162,2022,4291,76.4,23.4,6.8,No,Endangered
+Philippine Eagle,Bird,Madagascar,-17.9403,46.1169,2017,2510,55.6,21.7,7.8,No,Endangered
+Leatherback Turtle,Reptile,Serengeti,-3.4877,35.6997,2017,8632,67.5,22.0,7.5,No,Endangered
+Forest Owlet,Bird,Madagascar,-18.3003,47.5077,2019,15061,32.8,21.7,5.0,Yes,Least Concern
+Hawksbill Sea Turtle,Reptile,Amazon Rainforest,-3.0276,-62.4718,2023,7148,61.4,26.7,9.0,No,Endangered
+White-bellied Heron,Bird,Western Ghats,9.806,76.6249,2023,18018,23.4,24.4,2.0,Yes,Least Concern
+Great Indian Bustard,Bird,Congo Basin,-0.2457,22.4892,2021,36796,20.4,30.5,2.4,Yes,Least Concern
+Panamanian Golden Frog,Amphibian,Arctic Tundra,67.7661,-133.4384,2020,4421,68.6,-7.8,5.7,No,Endangered
+Gharial,Reptile,Madagascar,-18.209,48.1105,2019,6636,79.1,23.7,8.9,No,Endangered
+Bengal Florican,Bird,Pantanal Wetlands,-17.9454,-57.2616,2022,6068,70.3,24.7,5.6,No,Endangered
+Welwitschia Mirabilis,Plant,Western Ghats,11.8507,76.338,2022,11431,62.2,26.4,9.7,No,Endangered
+Clouded Leopard,Mammal,Arctic Tundra,68.2648,-131.5019,2024,16563,36.8,-5.9,9.5,No,Vulnerable
+Sarus Crane,Bird,Madagascar,-20.089,47.0888,2017,6557,67.4,23.3,6.3,No,Endangered
+Leatherback Turtle,Reptile,Eastern Himalayas,27.5605,88.2805,2016,27025,16.6,13.1,5.8,Yes,Least Concern
+Bengal Florican,Bird,Serengeti,-2.9849,34.4949,2023,28107,35.1,23.7,2.6,Yes,Least Concern
+California Condor,Bird,Pantanal Wetlands,-18.6716,-57.3251,2018,31412,24.2,28.1,3.4,Yes,Least Concern
+Gharial,Reptile,Eastern Himalayas,27.1523,87.1102,2024,15753,55.4,13.3,9.4,No,Vulnerable
+Hellbender,Amphibian,Western Ghats,9.4617,77.4475,2020,22063,42.0,23.9,4.3,No,Least Concern
+Baobab Tree,Plant,Eastern Himalayas,27.2254,88.1181,2022,10838,66.0,15.6,9.2,No,Endangered
+Orinoco Crocodile,Reptile,Eastern Himalayas,27.6313,89.5935,2015,15048,52.5,15.9,8.1,No,Endangered
+Galapagos Giant Tortoise,Reptile,Madagascar,-17.5551,48.1839,2023,48348,18.6,23.1,1.9,Yes,Least Concern
+Black Rhino,Mammal,Western Ghats,10.6795,75.3475,2016,9820,68.1,26.2,7.1,No,Vulnerable
+Welwitschia Mirabilis,Plant,Borneo Rainforest,2.3117,114.5637,2016,1960,69.2,25.9,4.3,No,Endangered
+Hawksbill Sea Turtle,Reptile,Madagascar,-20.0031,47.7645,2017,35947,27.3,24.5,3.6,Yes,Least Concern
+Chinese Giant Salamander,Amphibian,Borneo Rainforest,-0.106,115.1042,2022,18523,50.5,28.6,5.6,No,Vulnerable
+Black Rhino,Mammal,Sundarbans,20.4934,89.355,2016,9660,63.2,27.8,8.5,No,Endangered
+Orinoco Crocodile,Reptile,Congo Basin,0.5355,22.9025,2018,6368,47.9,24.2,6.5,No,Vulnerable
+Leatherback Turtle,Reptile,Eastern Himalayas,28.3927,87.9311,2015,35971,23.2,14.7,2.5,Yes,Least Concern
+Lion-tailed Macaque,Mammal,Sundarbans,20.7148,88.1261,2023,11633,62.7,27.1,8.5,No,Endangered
+Dragon Blood Tree,Plant,Western Ghats,11.4735,76.0734,2021,7994,32.5,26.5,2.0,Yes,Least Concern
+Lion-tailed Macaque,Mammal,Pantanal Wetlands,-18.8441,-56.8761,2016,11668,54.2,29.9,6.8,No,Endangered
+Red-eyed Tree Frog,Amphibian,Sundarbans,20.5223,87.892,2016,25565,17.4,27.9,5.7,Yes,Least Concern
+Komodo Dragon,Reptile,Eastern Himalayas,26.0626,88.9598,2019,2394,57.5,13.5,4.4,No,Vulnerable
+Venus Flytrap,Plant,Arctic Tundra,68.7281,-133.2235,2018,3922,43.2,-3.2,7.4,No,Vulnerable
+Hawksbill Sea Turtle,Reptile,Borneo Rainforest,1.465,115.4764,2024,5805,76.0,27.6,4.8,No,Endangered
+Kakapo,Bird,Serengeti,-2.0618,35.2879,2021,37273,24.7,19.7,2.7,Yes,Least Concern
+Cheetah,Mammal,Arctic Tundra,67.8463,-132.4918,2023,1213,77.8,-4.5,5.0,No,Critically Endangered
+Great Indian Bustard,Bird,Serengeti,-1.383,35.0561,2020,9047,20.8,22.3,5.5,Yes,Least Concern
+Welwitschia Mirabilis,Plant,Western Ghats,10.5217,75.1247,2024,17594,39.5,24.3,5.7,Yes,Least Concern
+Kakapo,Bird,Amazon Rainforest,-4.5228,-63.3019,2018,4213,74.5,26.2,7.9,No,Endangered
+Red-eyed Tree Frog,Amphibian,Madagascar,-17.3662,47.3497,2016,48190,21.5,24.1,4.9,Yes,Least Concern
+Fire Salamander,Amphibian,Congo Basin,-0.4684,21.0457,2016,8737,69.2,22.5,8.3,No,Endangered
+Galapagos Giant Tortoise,Reptile,Eastern Himalayas,28.2869,89.3934,2017,11291,53.3,10.4,7.7,No,Endangered
+King Cobra,Reptile,Western Ghats,10.6371,76.3333,2020,35159,29.0,19.5,2.9,Yes,Least Concern
+Clouded Leopard,Mammal,Pantanal Wetlands,-17.8594,-57.3035,2019,51569,6.4,25.5,4.5,Yes,Least Concern
+Welwitschia Mirabilis,Plant,Pantanal Wetlands,-17.0359,-57.3598,2018,6699,53.9,26.3,5.7,No,Endangered
+Spoon-billed Sandpiper,Bird,Eastern Himalayas,27.1997,89.9302,2024,7980,32.8,11.1,4.5,Yes,Least Concern
+Ghost Orchid,Plant,Borneo Rainforest,1.918,114.1507,2022,7766,40.1,28.3,7.8,No,Vulnerable
+Golden Poison Frog,Amphibian,Arctic Tundra,67.2669,-133.5938,2022,4548,78.4,-5.1,6.6,No,Endangered
+Venus Flytrap,Plant,Congo Basin,-1.9129,20.0709,2017,28088,38.7,26.2,6.9,No,Least Concern
+Kakapo,Bird,Madagascar,-18.0264,45.3475,2022,8993,27.0,21.0,1.6,Yes,Least Concern
+Spoon-billed Sandpiper,Bird,Western Ghats,11.4956,77.0088,2019,6940,30.2,21.3,2.1,Yes,Least Concern
+Venus Flytrap,Plant,Amazon Rainforest,-4.7196,-62.0131,2018,10515,62.3,26.5,6.5,No,Endangered
+Philippine Eagle,Bird,Sundarbans,20.8572,90.3775,2022,6700,76.4,27.3,8.6,No,Critically Endangered
+Black Rhino,Mammal,Amazon Rainforest,-3.9906,-62.9107,2016,55000,13.4,27.2,2.5,Yes,Least Concern
+Hawksbill Sea Turtle,Reptile,Arctic Tundra,68.0035,-133.3085,2020,3927,69.0,-6.3,8.6,No,Endangered
+Asian Elephant,Mammal,Sundarbans,21.4383,90.3268,2024,11095,49.5,25.1,5.0,No,Vulnerable
+Spix's Macaw,Bird,Congo Basin,-2.1226,20.4055,2018,23723,15.9,25.6,5.2,Yes,Least Concern
+White-bellied Heron,Bird,Congo Basin,0.1423,21.3794,2016,3758,50.6,24.2,5.0,No,Endangered
+Mountain Gorilla,Mammal,Western Ghats,10.5283,77.9901,2015,48065,18.0,27.1,4.5,Yes,Least Concern
+Great Hornbill,Bird,Borneo Rainforest,1.9826,114.7008,2020,10726,57.3,27.8,7.4,No,Vulnerable
+Sarus Crane,Bird,Eastern Himalayas,27.8879,87.5966,2019,4500,48.2,11.9,8.9,No,Endangered
+Harpy Eagle,Bird,Eastern Himalayas,27.4281,88.1277,2018,11093,64.1,14.6,7.8,No,Endangered
+Spix's Macaw,Bird,Congo Basin,0.2754,21.4864,2022,12670,54.4,29.1,4.9,No,Vulnerable
+Ganges River Dolphin,Mammal,Madagascar,-18.051,45.5163,2022,46126,24.1,21.1,5.8,Yes,Least Concern
+Galapagos Giant Tortoise,Reptile,Serengeti,-3.0049,33.3628,2015,37106,19.5,23.7,1.8,Yes,Least Concern
+Galapagos Giant Tortoise,Reptile,Eastern Himalayas,26.9666,87.3757,2022,7039,28.6,14.4,1.9,Yes,Least Concern
+Nilgiri Tahr,Mammal,Arctic Tundra,68.3388,-131.6708,2018,42243,23.7,-4.5,5.0,Yes,Least Concern
+Spix's Macaw,Bird,Serengeti,-2.1266,33.8418,2020,1494,79.0,22.5,8.0,No,Critically Endangered
+Mountain Gorilla,Mammal,Borneo Rainforest,1.1267,114.271,2022,5972,69.5,28.1,4.9,No,Endangered
+Ghost Orchid,Plant,Serengeti,-3.2181,35.9394,2016,28185,33.0,22.3,2.8,Yes,Least Concern
+Hellbender,Amphibian,Western Ghats,9.0331,77.2486,2019,29468,15.1,27.1,5.8,Yes,Least Concern
+Baobab Tree,Plant,Arctic Tundra,67.6746,-133.2621,2022,36144,24.0,-6.4,3.5,Yes,Least Concern
+Fire Salamander,Amphibian,Serengeti,-1.7706,35.715,2017,4307,73.7,21.7,7.0,No,Endangered
+Forest Owlet,Bird,Amazon Rainforest,-4.7124,-61.2959,2023,17661,31.9,25.8,4.7,No,Vulnerable
+Orinoco Crocodile,Reptile,Congo Basin,-1.6466,21.0867,2016,46270,18.8,24.4,5.5,Yes,Least Concern
+Spoon-billed Sandpiper,Bird,Western Ghats,10.3055,77.8121,2018,36568,25.0,24.6,4.6,Yes,Least Concern
+Bornean Orangutan,Mammal,Amazon Rainforest,-2.9291,-60.8302,2022,23081,16.3,26.0,2.3,Yes,Least Concern
+Chinese Giant Salamander,Amphibian,Pantanal Wetlands,-17.5373,-58.3992,2018,13029,30.2,26.6,4.5,No,Vulnerable
+Sloth Bear,Mammal,Congo Basin,-2.0432,21.2564,2023,23567,43.2,24.4,9.5,No,Endangered
+Lion-tailed Macaque,Mammal,Madagascar,-18.5647,48.2416,2016,30820,32.3,21.0,2.2,Yes,Least Concern
+King Cobra,Reptile,Eastern Himalayas,26.2927,89.586,2017,3440,50.2,12.9,6.7,No,Endangered
+Spoon-billed Sandpiper,Bird,Arctic Tundra,67.4906,-132.2297,2020,24039,29.8,-5.3,5.6,Yes,Least Concern
+Orinoco Crocodile,Reptile,Sundarbans,23.1277,89.0161,2018,2252,77.2,29.3,6.6,No,Endangered
+Spix's Macaw,Bird,Madagascar,-18.272,45.8875,2022,5134,84.9,23.0,6.1,No,Endangered
+Tuatara,Reptile,Serengeti,-1.118,35.2629,2019,19573,48.5,23.0,6.9,No,Vulnerable
+Leatherback Turtle,Reptile,Eastern Himalayas,26.4979,89.6458,2021,30599,14.6,14.9,2.2,Yes,Least Concern
+Mountain Gorilla,Mammal,Pantanal Wetlands,-17.5865,-56.0351,2023,29758,32.7,25.6,4.5,Yes,Least Concern
+Ganges River Dolphin,Mammal,Sundarbans,21.7511,89.6465,2023,1788,65.9,26.1,5.5,No,Endangered
+Spix's Macaw,Bird,Madagascar,-19.6986,47.2658,2015,2255,78.5,23.9,5.8,No,Endangered
+Venus Flytrap,Plant,Pantanal Wetlands,-16.6347,-56.505,2016,2486,68.4,28.4,6.2,No,Endangered
+Great Indian Bustard,Bird,Pantanal Wetlands,-17.7357,-58.4185,2020,10201,14.1,27.6,4.9,Yes,Least Concern
+Spoon-billed Sandpiper,Bird,Serengeti,-1.6889,34.9221,2022,15163,25.1,23.7,1.5,Yes,Least Concern
+Mountain Gorilla,Mammal,Serengeti,-1.1682,34.2912,2020,7911,71.4,21.2,9.8,No,Endangered
+Purple Frog,Amphibian,Western Ghats,11.2127,76.5757,2023,21524,40.4,25.6,6.5,No,Vulnerable
+Spix's Macaw,Bird,Congo Basin,-0.3061,21.7751,2017,55000,12.8,28.2,4.2,Yes,Least Concern
+Tuatara,Reptile,Borneo Rainforest,-0.2872,113.2632,2015,23376,26.9,26.0,3.3,Yes,Least Concern
+Spoon-billed Sandpiper,Bird,Serengeti,-2.0274,34.911,2015,19716,22.2,22.2,3.6,Yes,Least Concern
+Ganges River Dolphin,Mammal,Western Ghats,9.3415,76.0357,2021,8791,64.6,24.6,6.3,No,Endangered
+Great Indian Bustard,Bird,Arctic Tundra,69.3652,-132.0364,2022,4367,48.4,-4.0,7.8,No,Endangered
+Ghost Orchid,Plant,Arctic Tundra,67.4632,-132.2504,2016,30850,34.1,-4.3,7.7,No,Vulnerable
+Purple Frog,Amphibian,Congo Basin,0.5074,20.1993,2022,22369,43.2,24.5,6.3,No,Vulnerable
+Spix's Macaw,Bird,Pantanal Wetlands,-18.7978,-57.3378,2016,20229,26.7,29.9,2.2,Yes,Least Concern
+Red-eyed Tree Frog,Amphibian,Serengeti,-1.131,33.3369,2023,3848,46.0,22.9,4.2,Yes,Least Concern
+White-bellied Heron,Bird,Western Ghats,9.3038,77.5414,2022,15163,40.7,23.8,1.3,Yes,Least Concern
+Lion-tailed Macaque,Mammal,Arctic Tundra,67.6863,-133.5604,2019,55000,18.8,-8.8,5.0,Yes,Least Concern
+Spoon-billed Sandpiper,Bird,Congo Basin,-1.7376,21.6611,2016,11061,30.2,29.2,4.5,Yes,Least Concern
+Giant Panda,Mammal,Madagascar,-18.5655,45.7957,2022,4429,65.3,24.9,8.3,No,Endangered
+Philippine Eagle,Bird,Congo Basin,-1.756,22.5577,2019,12780,55.8,26.0,4.8,No,Vulnerable
+Sarus Crane,Bird,Borneo Rainforest,-0.0536,113.888,2018,18809,28.9,23.2,8.4,No,Endangered
+Komodo Dragon,Reptile,Congo Basin,0.7422,21.2228,2017,1567,65.1,23.0,4.3,No,Endangered
+Bornean Orangutan,Mammal,Borneo Rainforest,0.2681,112.5924,2021,10863,39.6,29.1,1.8,Yes,Least Concern
+Spix's Macaw,Bird,Pantanal Wetlands,-16.6198,-55.5284,2016,18296,44.0,26.8,8.8,No,Vulnerable
+Fire Salamander,Amphibian,Pantanal Wetlands,-16.7017,-55.9622,2016,10985,39.7,29.8,1.3,Yes,Least Concern
+Orinoco Crocodile,Reptile,Eastern Himalayas,26.0183,87.3028,2020,8856,25.9,11.1,1.4,Yes,Least Concern
+Sloth Bear,Mammal,Sundarbans,22.8104,90.1877,2021,4571,78.9,29.4,9.7,No,Endangered
+Bengal Tiger,Mammal,Madagascar,-18.6907,46.648,2024,4302,66.3,23.9,5.4,No,Vulnerable
+Giant Panda,Mammal,Madagascar,-18.038,46.5043,2016,36816,15.6,22.4,1.2,Yes,Least Concern
+Golden Poison Frog,Amphibian,Borneo Rainforest,0.2405,114.7227,2023,19060,30.9,26.6,5.3,Yes,Least Concern
+Welwitschia Mirabilis,Plant,Western Ghats,11.0611,76.4814,2015,5010,53.3,22.8,9.1,No,Endangered
+King Cobra,Reptile,Pantanal Wetlands,-18.6839,-56.1545,2019,14373,25.3,23.5,3.3,Yes,Least Concern
+Ganges River Dolphin,Mammal,Eastern Himalayas,27.6562,88.2474,2016,49320,11.1,12.7,4.3,Yes,Least Concern
+Gharial,Reptile,Sundarbans,21.3469,89.3345,2019,5359,81.6,27.4,7.9,No,Critically Endangered
+Clouded Leopard,Mammal,Congo Basin,0.5332,22.5148,2015,3876,40.4,26.5,3.9,Yes,Least Concern
+Galapagos Giant Tortoise,Reptile,Western Ghats,9.9356,77.322,2015,13408,53.9,20.1,5.7,No,Vulnerable
+Great Hornbill,Bird,Congo Basin,-0.2606,22.9226,2017,20991,21.0,25.3,3.0,Yes,Least Concern
+Red-eyed Tree Frog,Amphibian,Arctic Tundra,68.2466,-131.5294,2021,5110,56.1,-6.7,6.1,No,Vulnerable
+Gharial,Reptile,Sundarbans,20.8409,89.8334,2022,6448,73.3,25.7,6.0,No,Endangered
+Axolotl,Amphibian,Western Ghats,11.7918,76.4919,2023,10643,38.6,23.7,4.4,No,Vulnerable
+Leatherback Turtle,Reptile,Sundarbans,20.8972,88.7366,2015,37609,19.9,22.3,1.7,Yes,Least Concern
+Dragon Blood Tree,Plant,Pantanal Wetlands,-18.3426,-57.1231,2016,9502,67.6,26.8,8.6,No,Endangered
+Panamanian Golden Frog,Amphibian,Arctic Tundra,67.9307,-132.345,2015,6421,59.1,-3.5,8.5,No,Endangered
+Clouded Leopard,Mammal,Serengeti,-1.2559,35.4866,2020,5659,63.8,20.1,5.7,No,Vulnerable
+Purple Frog,Amphibian,Sundarbans,23.2528,89.1314,2015,2142,78.3,24.3,5.4,No,Endangered
+Clouded Leopard,Mammal,Western Ghats,9.5257,77.6003,2023,16147,27.2,25.4,8.4,No,Vulnerable
+Red Sandalwood,Plant,Congo Basin,-0.9417,22.3411,2024,4390,40.5,23.0,7.4,No,Endangered
+White-bellied Heron,Bird,Congo Basin,-0.82,20.2852,2022,25034,24.5,25.2,3.6,Yes,Least Concern
+King Cobra,Reptile,Pantanal Wetlands,-17.2287,-58.316,2020,55000,16.2,27.2,4.6,Yes,Least Concern
+Panamanian Golden Frog,Amphibian,Madagascar,-18.3711,47.9881,2019,19743,48.7,21.9,8.7,No,Endangered
+King Cobra,Reptile,Madagascar,-18.5665,47.428,2016,4877,62.3,24.7,7.5,No,Endangered
+Bengal Tiger,Mammal,Pantanal Wetlands,-18.4837,-55.5827,2022,9787,17.3,27.2,2.8,Yes,Least Concern
+Bengal Tiger,Mammal,Western Ghats,11.1812,76.6862,2021,1040,79.0,23.3,9.3,No,Critically Endangered
+Golden Poison Frog,Amphibian,Eastern Himalayas,27.313,87.7049,2017,3376,58.6,14.3,6.8,No,Endangered
+Hawksbill Sea Turtle,Reptile,Madagascar,-19.2504,47.7492,2023,1061,77.8,22.3,9.3,No,Critically Endangered
+Galapagos Giant Tortoise,Reptile,Congo Basin,-1.2797,21.0589,2015,2081,68.6,27.7,6.1,No,Endangered
+Cheetah,Mammal,Madagascar,-17.3667,47.2252,2020,4751,64.8,23.0,9.7,No,Endangered
+Titan Arum,Plant,Borneo Rainforest,1.1434,115.4369,2023,9719,36.2,23.9,5.5,No,Vulnerable
+Sarus Crane,Bird,Borneo Rainforest,2.4056,114.3109,2021,18086,41.0,25.4,3.7,Yes,Least Concern
+King Cobra,Reptile,Western Ghats,11.0162,76.7507,2018,6315,25.9,25.1,5.5,Yes,Least Concern
+Harpy Eagle,Bird,Western Ghats,9.0462,76.7488,2015,10529,50.8,22.5,7.9,No,Endangered
+Welwitschia Mirabilis,Plant,Pantanal Wetlands,-17.6979,-57.7239,2023,8553,68.1,25.9,7.8,No,Endangered
+Giant Panda,Mammal,Eastern Himalayas,26.1876,88.3768,2017,21207,25.3,10.7,5.3,Yes,Least Concern
+Purple Frog,Amphibian,Arctic Tundra,68.0408,-133.7399,2022,18440,28.5,-5.5,2.4,Yes,Least Concern
+Panamanian Golden Frog,Amphibian,Eastern Himalayas,27.8907,87.7452,2020,2731,78.6,13.3,8.8,No,Critically Endangered
+Philippine Eagle,Bird,Borneo Rainforest,-0.4151,113.1301,2015,1342,79.5,28.0,4.9,No,Endangered
+Welwitschia Mirabilis,Plant,Amazon Rainforest,-3.5614,-61.2825,2015,28509,34.0,25.3,2.8,Yes,Least Concern
+Red Sandalwood,Plant,Congo Basin,-1.2198,21.0633,2024,23991,19.9,28.1,5.0,Yes,Least Concern
+Ghost Orchid,Plant,Madagascar,-18.8145,46.5435,2020,43228,7.3,24.1,3.5,Yes,Least Concern
+Hawksbill Sea Turtle,Reptile,Eastern Himalayas,26.8904,88.6241,2015,11371,23.9,12.8,3.9,Yes,Least Concern
+Bornean Orangutan,Mammal,Borneo Rainforest,0.3028,113.507,2022,33351,25.6,27.0,8.0,No,Least Concern
+Kakapo,Bird,Western Ghats,10.8943,76.5975,2015,15393,49.7,26.0,4.7,No,Vulnerable
+Rafflesia Arnoldii,Plant,Western Ghats,10.834,77.5719,2017,7873,60.7,24.7,8.2,No,Endangered
+Baobab Tree,Plant,Sundarbans,21.2565,88.9947,2017,901,83.0,25.4,7.8,No,Critically Endangered
+Lion-tailed Macaque,Mammal,Pantanal Wetlands,-16.7708,-55.9562,2018,7175,64.3,24.1,9.8,No,Endangered
+Spix's Macaw,Bird,Madagascar,-19.0913,46.6927,2018,19339,27.4,21.6,5.1,Yes,Least Concern
+Ganges River Dolphin,Mammal,Amazon Rainforest,-2.6005,-61.9489,2019,5266,78.7,29.3,5.2,No,Endangered
+Kakapo,Bird,Arctic Tundra,69.2247,-132.2239,2017,6950,58.8,-7.4,5.8,No,Endangered
+King Cobra,Reptile,Serengeti,-2.0007,35.8845,2024,11953,35.1,20.5,8.6,No,Vulnerable
+Dragon Blood Tree,Plant,Western Ghats,10.5862,77.4778,2019,6068,76.7,22.7,8.7,No,Endangered
+Indian Rhinoceros,Mammal,Amazon Rainforest,-3.795,-62.403,2015,7738,72.1,25.9,7.7,No,Endangered
+Nilgiri Tahr,Mammal,Serengeti,-1.5913,34.6093,2020,43361,24.1,26.9,5.0,Yes,Least Concern
+Great Indian Bustard,Bird,Sundarbans,20.4673,88.4813,2017,55000,9.8,23.8,1.2,Yes,Least Concern
+Spoon-billed Sandpiper,Bird,Sundarbans,21.7269,89.5222,2023,14032,26.2,29.0,3.6,Yes,Least Concern
+Golden Poison Frog,Amphibian,Eastern Himalayas,27.0873,89.5909,2022,3197,73.0,14.7,7.8,No,Endangered
+Tuatara,Reptile,Serengeti,-1.6846,34.6655,2015,18534,49.9,20.7,8.7,No,Endangered
+Forest Owlet,Bird,Congo Basin,0.3014,21.9277,2020,8032,30.1,27.2,6.5,No,Vulnerable
+Dragon Blood Tree,Plant,Madagascar,-18.6953,48.2286,2022,55000,10.7,23.5,1.3,Yes,Least Concern
+California Condor,Bird,Amazon Rainforest,-3.8575,-62.3938,2015,5752,48.1,25.3,6.4,No,Vulnerable
+Red Sandalwood,Plant,Amazon Rainforest,-3.5846,-62.1104,2019,6892,52.6,25.6,5.9,No,Vulnerable
+Great Indian Bustard,Bird,Amazon Rainforest,-2.878,-63.5123,2019,11683,21.0,27.5,2.4,Yes,Least Concern
+Galapagos Giant Tortoise,Reptile,Congo Basin,-0.7645,22.3417,2022,6159,77.6,25.3,5.8,No,Endangered
+Bengal Florican,Bird,Eastern Himalayas,28.0016,89.3311,2024,11333,31.0,17.1,2.9,Yes,Least Concern
+Harpy Eagle,Bird,Borneo Rainforest,2.0147,113.5842,2017,8741,69.5,27.1,9.2,No,Endangered
+Chinese Giant Salamander,Amphibian,Arctic Tundra,69.1088,-133.2917,2021,24045,39.6,-10.6,5.0,No,Least Concern
+Red Sandalwood,Plant,Borneo Rainforest,2.4098,114.2138,2023,20656,47.5,31.5,6.0,No,Endangered
+Hawksbill Sea Turtle,Reptile,Arctic Tundra,68.8778,-132.618,2015,14363,7.7,-7.7,5.4,Yes,Least Concern
+Giant Panda,Mammal,Madagascar,-20.1807,47.6175,2021,10883,32.9,22.3,4.2,No,Least Concern
+King Cobra,Reptile,Amazon Rainforest,-3.3704,-62.1962,2021,20058,42.4,27.7,6.7,No,Vulnerable
+Gharial,Reptile,Sundarbans,22.6523,87.7765,2015,19519,24.0,27.4,2.9,Yes,Least Concern
+Bengal Tiger,Mammal,Sundarbans,21.6557,88.2775,2019,3698,71.5,27.4,7.9,No,Endangered
+Great Hornbill,Bird,Amazon Rainforest,-2.0099,-63.6691,2015,4181,69.5,26.1,5.5,No,Endangered
+Ghost Orchid,Plant,Pantanal Wetlands,-18.28,-56.3696,2022,29331,10.9,27.3,2.0,Yes,Least Concern
+Ghost Orchid,Plant,Arctic Tundra,68.6514,-131.9316,2016,4055,59.5,-8.0,5.1,No,Vulnerable
+Hellbender,Amphibian,Congo Basin,0.0048,21.5944,2020,16117,33.5,24.3,7.4,No,Vulnerable
+Sloth Bear,Mammal,Amazon Rainforest,-3.1557,-63.3824,2017,11613,59.6,28.0,4.1,No,Vulnerable
+Tuatara,Reptile,Congo Basin,-1.8439,22.9417,2019,34847,19.5,29.2,2.0,Yes,Least Concern
+Axolotl,Amphibian,Pantanal Wetlands,-18.9047,-56.1538,2022,37975,18.8,25.5,2.2,Yes,Least Concern
+California Condor,Bird,Western Ghats,9.2293,77.6877,2022,55000,12.4,24.4,2.8,Yes,Least Concern
+Bornean Orangutan,Mammal,Borneo Rainforest,1.7857,114.8445,2019,41002,26.6,27.4,4.0,Yes,Least Concern
+Gharial,Reptile,Eastern Himalayas,26.9963,89.7843,2021,31881,12.1,14.3,1.6,Yes,Least Concern
+Fire Salamander,Amphibian,Serengeti,-1.9645,34.4204,2016,24674,21.6,21.0,1.5,Yes,Least Concern
+Hellbender,Amphibian,Amazon Rainforest,-3.6425,-63.1954,2016,25868,38.4,26.5,5.3,No,Vulnerable
+Sarus Crane,Bird,Borneo Rainforest,1.0939,114.5323,2021,5271,67.5,26.6,8.9,No,Endangered
+Forest Owlet,Bird,Serengeti,-2.1576,34.1232,2024,10562,57.4,23.3,6.0,No,Endangered
+Great Hornbill,Bird,Arctic Tundra,66.5773,-132.6894,2021,5563,65.4,-7.1,9.1,No,Endangered
+Axolotl,Amphibian,Serengeti,-2.5456,35.5718,2024,9820,16.1,25.5,2.3,Yes,Least Concern
+Ghost Orchid,Plant,Pantanal Wetlands,-17.7411,-58.3481,2015,24799,19.8,27.9,4.4,Yes,Least Concern
+Giant Panda,Mammal,Serengeti,-1.0873,34.4242,2022,10174,23.7,21.5,2.4,Yes,Least Concern
+Philippine Eagle,Bird,Arctic Tundra,68.4884,-131.8881,2019,8099,47.8,-2.7,5.2,No,Vulnerable
+Red-eyed Tree Frog,Amphibian,Amazon Rainforest,-3.6769,-63.3233,2016,19500,20.3,25.0,4.2,Yes,Least Concern
+Kakapo,Bird,Amazon Rainforest,-2.8828,-61.2218,2023,3285,49.1,25.8,4.5,No,Vulnerable
+Clouded Leopard,Mammal,Sundarbans,22.1334,89.9983,2017,6911,68.6,26.9,6.9,No,Endangered
+Great Hornbill,Bird,Madagascar,-19.9014,47.1096,2016,22791,39.3,23.5,4.8,Yes,Least Concern
+Giant Panda,Mammal,Serengeti,-3.5202,36.1915,2017,27690,20.0,24.2,3.8,Yes,Least Concern
+Mountain Gorilla,Mammal,Arctic Tundra,67.2,-132.624,2023,1728,77.2,-8.9,8.1,No,Critically Endangered
+Clouded Leopard,Mammal,Pantanal Wetlands,-17.1318,-56.0797,2018,14120,53.4,28.3,7.7,No,Vulnerable
+Hawksbill Sea Turtle,Reptile,Madagascar,-18.6992,45.5082,2019,4196,66.4,26.4,8.1,No,Endangered
+Rafflesia Arnoldii,Plant,Western Ghats,11.5126,76.8435,2020,24485,35.3,26.1,1.3,Yes,Least Concern
+Tuatara,Reptile,Western Ghats,11.4946,77.7552,2016,8263,19.4,25.1,5.3,Yes,Least Concern
+Cheetah,Mammal,Madagascar,-17.7542,47.9832,2018,9345,49.0,22.4,7.5,No,Vulnerable
+Philippine Eagle,Bird,Madagascar,-17.238,46.6323,2020,18094,42.4,21.6,7.9,No,Vulnerable
+Komodo Dragon,Reptile,Congo Basin,-0.4645,22.0803,2018,3331,47.3,24.7,5.1,No,Vulnerable
+Galapagos Giant Tortoise,Reptile,Sundarbans,21.0781,89.0532,2024,4931,46.4,29.1,1.5,Yes,Least Concern
+Clouded Leopard,Mammal,Arctic Tundra,68.9602,-134.3753,2017,7680,63.3,-7.4,8.7,No,Endangered
+Leatherback Turtle,Reptile,Amazon Rainforest,-4.3302,-61.5948,2017,16493,36.0,27.7,8.4,No,Vulnerable
+Philippine Eagle,Bird,Eastern Himalayas,27.7536,89.908,2024,4256,50.7,13.8,6.9,No,Endangered
+Dragon Blood Tree,Plant,Arctic Tundra,68.3419,-132.6507,2020,10676,54.6,-9.2,6.8,No,Endangered
+Great Indian Bustard,Bird,Congo Basin,-0.1731,20.1143,2018,19384,25.8,25.8,3.9,Yes,Least Concern
+Giant Panda,Mammal,Pantanal Wetlands,-17.8111,-57.611,2017,13182,48.0,30.1,4.7,Yes,Least Concern
+Axolotl,Amphibian,Arctic Tundra,67.3312,-131.6774,2015,21449,46.6,-5.3,3.1,Yes,Least Concern
+Tuatara,Reptile,Pantanal Wetlands,-16.3784,-58.4613,2015,1896,81.6,28.9,4.7,No,Endangered
+Ghost Orchid,Plant,Arctic Tundra,67.8235,-133.9018,2018,40055,16.7,-5.1,4.8,Yes,Least Concern
+Hawksbill Sea Turtle,Reptile,Sundarbans,22.277,89.1148,2020,7967,29.8,24.8,4.3,Yes,Least Concern
+Mountain Gorilla,Mammal,Sundarbans,20.5535,88.5934,2017,9093,57.3,27.4,4.1,No,Vulnerable
+Cheetah,Mammal,Congo Basin,-2.0539,20.294,2020,10356,49.3,26.8,7.4,No,Vulnerable
+Ghost Orchid,Plant,Arctic Tundra,68.7703,-132.4583,2018,14818,46.7,-6.5,4.3,Yes,Least Concern
+Spoon-billed Sandpiper,Bird,Western Ghats,9.0667,77.9656,2017,2226,62.5,21.7,5.0,No,Endangered
+Leatherback Turtle,Reptile,Eastern Himalayas,26.996,89.3449,2016,9466,62.5,18.2,9.6,No,Endangered
+Hellbender,Amphibian,Madagascar,-20.15,45.8843,2021,55000,10.6,23.6,2.0,Yes,Least Concern
+Kakapo,Bird,Madagascar,-18.4943,45.4775,2017,22604,22.1,25.7,3.1,Yes,Least Concern
+Ganges River Dolphin,Mammal,Madagascar,-18.5396,47.0109,2016,28828,13.6,22.0,4.4,Yes,Least Concern
+Nilgiri Tahr,Mammal,Western Ghats,9.3995,75.784,2019,25438,11.5,23.5,5.4,Yes,Least Concern
+Snow Leopard,Mammal,Madagascar,-18.4784,45.4827,2017,6924,25.9,23.4,5.1,No,Vulnerable
+Titan Arum,Plant,Sundarbans,22.8252,89.2349,2020,10320,41.5,30.8,5.4,No,Vulnerable
+Bengal Florican,Bird,Madagascar,-18.0308,47.618,2023,34627,23.4,22.8,4.2,Yes,Least Concern
+Gharial,Reptile,Eastern Himalayas,28.4482,87.0568,2024,5206,30.4,13.3,1.8,Yes,Least Concern
+Harpy Eagle,Bird,Serengeti,-3.6791,34.8366,2020,33880,24.8,22.3,4.7,Yes,Least Concern
+Asian Elephant,Mammal,Pantanal Wetlands,-16.8121,-56.7748,2024,8471,52.3,26.0,7.7,No,Vulnerable
+Red Sandalwood,Plant,Serengeti,-1.3244,35.6852,2021,8167,71.8,23.9,8.6,No,Endangered
+Red Panda,Mammal,Sundarbans,23.0265,88.3074,2021,8667,48.0,31.0,8.0,No,Vulnerable
+Komodo Dragon,Reptile,Eastern Himalayas,26.1911,87.5314,2017,2806,79.1,15.9,9.5,No,Critically Endangered
+Hawksbill Sea Turtle,Reptile,Sundarbans,23.0191,87.9066,2022,6850,53.3,29.6,7.4,No,Endangered
+Baobab Tree,Plant,Amazon Rainforest,-2.0984,-62.4933,2015,16469,30.7,25.8,1.5,Yes,Least Concern
+Hellbender,Amphibian,Pantanal Wetlands,-18.6031,-55.5672,2018,8179,55.4,26.0,7.0,No,Endangered
+Galapagos Giant Tortoise,Reptile,Serengeti,-2.6097,34.722,2019,34632,28.2,20.7,5.1,No,Vulnerable
+Sarus Crane,Bird,Madagascar,-17.9437,46.8386,2016,5890,70.4,25.0,6.2,No,Endangered
+Giant Panda,Mammal,Amazon Rainforest,-3.3611,-62.8558,2016,21673,22.8,29.1,3.6,Yes,Least Concern
+Golden Poison Frog,Amphibian,Madagascar,-20.0932,48.283,2016,18349,35.4,23.5,4.3,Yes,Least Concern
+Sarus Crane,Bird,Madagascar,-17.9363,46.0458,2015,4007,69.7,20.6,9.0,No,Endangered
+Bengal Florican,Bird,Madagascar,-19.5282,46.3898,2020,11721,55.7,24.6,6.0,No,Vulnerable
+Baobab Tree,Plant,Serengeti,-2.9492,34.2788,2016,3597,67.7,22.1,9.5,No,Endangered
+Red Sandalwood,Plant,Arctic Tundra,68.0353,-132.1917,2024,12082,56.3,-2.2,9.5,No,Vulnerable
+Axolotl,Amphibian,Western Ghats,10.51,77.3893,2023,1449,73.2,23.8,6.4,No,Endangered
+Black Rhino,Mammal,Madagascar,-19.0233,48.1433,2016,2165,74.0,23.5,5.1,No,Endangered
+Red-eyed Tree Frog,Amphibian,Pantanal Wetlands,-17.9956,-57.5589,2020,11342,31.1,24.6,1.8,Yes,Least Concern
+Orinoco Crocodile,Reptile,Pantanal Wetlands,-17.4218,-56.2221,2015,23255,10.8,24.7,3.1,Yes,Least Concern
+Komodo Dragon,Reptile,Arctic Tundra,68.6759,-133.4188,2019,14577,17.3,-5.1,3.4,Yes,Least Concern
+Cheetah,Mammal,Serengeti,-1.6559,34.0207,2016,8217,49.3,24.9,9.3,No,Vulnerable
+Forest Owlet,Bird,Amazon Rainforest,-3.1506,-61.9631,2023,55000,9.5,27.8,3.4,Yes,Least Concern
+Purple Frog,Amphibian,Eastern Himalayas,28.7517,88.6607,2015,6263,76.2,11.0,9.7,No,Critically Endangered
+Orinoco Crocodile,Reptile,Borneo Rainforest,0.6852,112.6538,2024,15028,47.0,26.4,3.4,Yes,Least Concern
+King Cobra,Reptile,Arctic Tundra,66.5806,-133.3586,2017,2239,81.6,-7.9,8.1,No,Critically Endangered
+Red Panda,Mammal,Serengeti,-3.6822,36.2319,2021,29669,28.9,22.0,3.5,Yes,Least Concern
+Harpy Eagle,Bird,Borneo Rainforest,0.9918,113.0352,2016,25103,18.1,28.0,5.1,Yes,Least Concern
+Snow Leopard,Mammal,Arctic Tundra,68.7196,-132.1329,2023,11858,59.9,-7.3,7.2,No,Endangered
+Dragon Blood Tree,Plant,Arctic Tundra,69.2905,-132.9172,2016,43835,14.2,-6.7,3.8,Yes,Least Concern
+Hawksbill Sea Turtle,Reptile,Eastern Himalayas,28.1829,89.7678,2015,5467,65.3,12.8,5.4,No,Endangered
+Panamanian Golden Frog,Amphibian,Amazon Rainforest,-4.1276,-61.3767,2024,31856,33.7,26.5,6.0,No,Vulnerable
+Kakapo,Bird,Borneo Rainforest,-0.3899,113.9243,2024,12346,61.8,31.3,4.5,No,Vulnerable
+Nilgiri Tahr,Mammal,Western Ghats,10.2874,75.2247,2023,7759,70.1,21.4,6.7,No,Vulnerable
+Philippine Eagle,Bird,Serengeti,-0.9687,34.0527,2015,27830,27.8,22.0,2.8,Yes,Least Concern
+Great Indian Bustard,Bird,Eastern Himalayas,28.9102,89.5952,2022,4752,53.7,13.7,5.5,No,Vulnerable
+Asian Elephant,Mammal,Pantanal Wetlands,-17.358,-58.0062,2020,5353,32.2,25.8,1.7,Yes,Least Concern
+Gharial,Reptile,Congo Basin,-1.0177,22.5529,2021,18628,39.5,24.8,9.2,No,Vulnerable
+Bornean Orangutan,Mammal,Madagascar,-17.9188,47.3292,2018,13259,42.9,22.3,5.9,No,Vulnerable
+Black Rhino,Mammal,Amazon Rainforest,-2.3842,-61.2743,2024,30633,34.3,28.6,3.7,Yes,Least Concern
+Cheetah,Mammal,Eastern Himalayas,28.2543,89.824,2024,53681,18.7,15.1,4.7,Yes,Least Concern
+Panamanian Golden Frog,Amphibian,Sundarbans,21.1268,88.0105,2020,6678,60.9,26.6,8.7,No,Endangered
+Venus Flytrap,Plant,Pantanal Wetlands,-18.0213,-56.2314,2018,5005,61.1,28.6,5.3,No,Vulnerable
+Giant Panda,Mammal,Serengeti,-2.0501,35.953,2021,11481,35.2,22.6,3.9,Yes,Least Concern
+Fire Salamander,Amphibian,Sundarbans,21.9435,89.9705,2015,5201,65.6,25.6,6.8,No,Endangered
+Orinoco Crocodile,Reptile,Amazon Rainforest,-2.2668,-63.088,2021,33644,22.3,26.6,4.2,Yes,Least Concern
+Purple Frog,Amphibian,Madagascar,-20.1714,45.5259,2016,4700,60.6,25.4,6.6,No,Vulnerable
+King Cobra,Reptile,Western Ghats,9.8455,75.5529,2019,28012,25.5,24.5,2.5,Yes,Least Concern
+Komodo Dragon,Reptile,Western Ghats,11.9601,75.7526,2020,4395,43.0,25.8,9.4,No,Endangered
+California Condor,Bird,Eastern Himalayas,26.973,89.8564,2017,24592,13.6,13.0,3.5,Yes,Least Concern
+Philippine Eagle,Bird,Madagascar,-19.0213,46.0761,2015,12348,55.0,26.6,8.0,No,Endangered
+Spoon-billed Sandpiper,Bird,Borneo Rainforest,-0.1123,112.6732,2018,4935,77.0,29.3,9.7,No,Endangered
+Bengal Tiger,Mammal,Western Ghats,10.0409,76.2954,2022,26907,33.3,23.0,2.1,Yes,Least Concern
+Sloth Bear,Mammal,Borneo Rainforest,0.8366,115.4009,2016,9313,49.1,26.3,7.8,No,Vulnerable
+King Cobra,Reptile,Serengeti,-0.8998,36.1744,2019,3730,60.9,21.5,4.9,No,Vulnerable
+Sloth Bear,Mammal,Amazon Rainforest,-2.4347,-63.2831,2021,41721,7.4,30.3,5.7,Yes,Least Concern
+Ghost Orchid,Plant,Madagascar,-18.1562,47.448,2021,9426,61.2,22.4,6.3,No,Endangered
+White-bellied Heron,Bird,Borneo Rainforest,1.5314,112.8571,2015,10919,45.7,25.2,5.2,No,Vulnerable
+Spix's Macaw,Bird,Borneo Rainforest,2.4294,115.364,2017,1634,76.4,25.0,6.5,No,Endangered
+Bengal Tiger,Mammal,Pantanal Wetlands,-16.0212,-56.1668,2016,23349,25.7,27.7,2.6,Yes,Least Concern
+Rafflesia Arnoldii,Plant,Pantanal Wetlands,-17.013,-56.671,2022,5352,71.0,24.6,5.5,No,Endangered
+Hawksbill Sea Turtle,Reptile,Eastern Himalayas,27.3339,87.0812,2021,33030,16.2,13.1,2.6,Yes,Least Concern
+Galapagos Giant Tortoise,Reptile,Eastern Himalayas,28.6992,88.8852,2015,8172,63.6,13.8,4.2,No,Vulnerable
+Sarus Crane,Bird,Arctic Tundra,67.796,-131.5029,2021,54322,16.7,-5.2,4.2,Yes,Least Concern
+Clouded Leopard,Mammal,Arctic Tundra,67.2724,-134.093,2019,20806,34.4,-6.4,3.5,Yes,Least Concern
+Spix's Macaw,Bird,Amazon Rainforest,-2.9373,-60.7054,2015,13967,56.7,25.5,9.7,No,Endangered
+Forest Owlet,Bird,Arctic Tundra,66.6653,-133.2193,2020,15021,33.9,-9.9,9.6,No,Vulnerable
+Panamanian Golden Frog,Amphibian,Arctic Tundra,68.646,-133.6956,2022,55000,13.7,-6.0,4.5,Yes,Least Concern
+Baobab Tree,Plant,Borneo Rainforest,1.0031,114.2183,2020,17896,49.6,28.0,4.6,No,Vulnerable
+Clouded Leopard,Mammal,Eastern Himalayas,27.0272,88.6394,2024,6450,60.0,14.1,9.5,No,Endangered
+Bornean Orangutan,Mammal,Congo Basin,-1.2198,21.0488,2022,20960,44.6,23.5,8.0,No,Vulnerable
+Axolotl,Amphibian,Pantanal Wetlands,-16.7223,-56.6408,2021,17265,48.5,25.2,8.1,No,Vulnerable
+King Cobra,Reptile,Western Ghats,9.099,77.8618,2023,22990,12.1,24.8,5.4,Yes,Least Concern
+Orinoco Crocodile,Reptile,Serengeti,-3.3602,35.2378,2020,36226,29.9,19.5,9.3,No,Vulnerable
+Rafflesia Arnoldii,Plant,Congo Basin,0.6419,20.6169,2021,6524,34.4,24.5,3.4,Yes,Least Concern
+Orinoco Crocodile,Reptile,Arctic Tundra,68.0398,-134.1783,2017,55000,10.4,-3.6,5.4,Yes,Least Concern
+Leatherback Turtle,Reptile,Amazon Rainforest,-2.852,-61.8138,2021,18972,26.2,30.0,3.2,Yes,Least Concern
+Clouded Leopard,Mammal,Sundarbans,22.7957,87.7211,2017,15317,43.2,26.8,4.5,No,Least Concern
+Welwitschia Mirabilis,Plant,Arctic Tundra,68.7123,-133.7415,2018,4283,66.2,-7.6,7.9,No,Endangered
+Baobab Tree,Plant,Sundarbans,21.6156,89.1881,2020,22401,16.7,27.4,2.2,Yes,Least Concern
+Ghost Orchid,Plant,Eastern Himalayas,28.3853,87.4072,2023,23604,14.9,13.6,2.1,Yes,Least Concern
+Spoon-billed Sandpiper,Bird,Pantanal Wetlands,-16.8731,-55.7817,2017,14041,57.0,28.2,7.4,No,Vulnerable
+Harpy Eagle,Bird,Arctic Tundra,68.6956,-133.9781,2023,14690,46.7,-6.7,4.2,No,Vulnerable
+Great Indian Bustard,Bird,Arctic Tundra,68.9408,-132.3551,2021,4484,73.0,-7.8,5.6,No,Endangered
+Gharial,Reptile,Pantanal Wetlands,-16.1227,-57.923,2022,5268,74.2,28.1,4.1,No,Vulnerable
+Sloth Bear,Mammal,Pantanal Wetlands,-18.5634,-55.8661,2015,50155,17.9,23.2,4.1,Yes,Least Concern
+Rafflesia Arnoldii,Plant,Madagascar,-20.0413,47.4034,2019,16568,37.6,25.5,7.4,No,Vulnerable
+Lion-tailed Macaque,Mammal,Borneo Rainforest,0.8896,113.9605,2017,4177,58.4,26.7,6.7,No,Endangered
+Bengal Florican,Bird,Eastern Himalayas,28.1313,88.2568,2020,25943,21.9,15.7,4.5,Yes,Least Concern
+Black Rhino,Mammal,Eastern Himalayas,26.3014,88.5275,2019,22618,14.6,12.7,2.2,Yes,Least Concern
+Giant Panda,Mammal,Arctic Tundra,66.8109,-132.3928,2017,55000,7.7,-5.1,1.9,Yes,Least Concern
+Gharial,Reptile,Eastern Himalayas,27.1062,89.3092,2023,37034,21.6,12.0,1.6,Yes,Least Concern
+Sloth Bear,Mammal,Eastern Himalayas,26.6027,89.4154,2019,52939,19.9,16.1,1.3,Yes,Least Concern
+Venus Flytrap,Plant,Congo Basin,0.268,20.0398,2019,9426,53.4,24.6,8.4,No,Endangered
+Black Rhino,Mammal,Sundarbans,22.2393,87.8716,2017,6670,68.8,28.0,4.7,No,Endangered
+Hawksbill Sea Turtle,Reptile,Eastern Himalayas,26.782,87.8907,2024,8694,64.6,13.3,4.7,No,Endangered
+Forest Owlet,Bird,Amazon Rainforest,-4.6101,-62.8775,2023,5625,66.6,23.2,5.7,No,Endangered
+Venus Flytrap,Plant,Western Ghats,9.2368,75.575,2021,3888,78.1,25.4,6.9,No,Critically Endangered
+Axolotl,Amphibian,Pantanal Wetlands,-18.0001,-57.0242,2015,14686,51.3,30.3,9.7,No,Endangered
+Cheetah,Mammal,Western Ghats,9.1055,75.9694,2024,19853,14.1,21.8,2.5,Yes,Least Concern
+Golden Poison Frog,Amphibian,Congo Basin,-2.1366,21.2568,2020,12346,27.6,29.8,4.3,Yes,Least Concern
+Black Rhino,Mammal,Arctic Tundra,67.3026,-132.9424,2018,30780,27.9,-6.4,2.4,Yes,Least Concern
+Indian Rhinoceros,Mammal,Sundarbans,21.5502,89.9115,2015,12405,55.6,26.2,6.2,No,Vulnerable
+Bornean Orangutan,Mammal,Amazon Rainforest,-3.6685,-60.9004,2021,12672,55.0,26.5,4.7,No,Vulnerable
+Sloth Bear,Mammal,Serengeti,-3.238,33.3974,2019,15231,48.9,26.3,4.1,No,Least Concern
+Leatherback Turtle,Reptile,Arctic Tundra,67.4079,-133.1201,2015,23721,10.1,-3.6,2.0,Yes,Least Concern
+Sloth Bear,Mammal,Western Ghats,9.0471,76.0803,2022,55000,7.4,26.5,5.5,Yes,Least Concern
+Rafflesia Arnoldii,Plant,Serengeti,-1.6902,34.5076,2016,6786,76.7,22.2,8.0,No,Endangered
+Rafflesia Arnoldii,Plant,Western Ghats,9.8038,76.5606,2024,22169,34.7,25.1,1.7,Yes,Least Concern
+Hawksbill Sea Turtle,Reptile,Congo Basin,-0.5377,20.5235,2024,2329,77.8,22.2,7.9,No,Critically Endangered
+Komodo Dragon,Reptile,Eastern Himalayas,26.5076,87.5626,2023,5319,65.7,13.7,4.1,No,Endangered
+Tuatara,Reptile,Western Ghats,11.6485,76.419,2020,15870,29.0,26.2,1.6,Yes,Least Concern
+Titan Arum,Plant,Western Ghats,11.5066,77.8848,2022,25497,35.2,24.8,3.8,Yes,Least Concern
+Leatherback Turtle,Reptile,Western Ghats,10.2963,77.8998,2016,7915,21.3,21.8,2.9,Yes,Least Concern
+Leatherback Turtle,Reptile,Serengeti,-2.7114,35.1033,2015,5521,71.9,24.6,5.1,No,Endangered
+Purple Frog,Amphibian,Pantanal Wetlands,-17.92,-58.2698,2022,36267,23.7,21.7,1.4,Yes,Least Concern
+Sloth Bear,Mammal,Serengeti,-3.2953,33.8698,2018,6625,75.6,21.2,8.7,No,Endangered
+Axolotl,Amphibian,Madagascar,-18.6454,45.4126,2021,4093,61.2,22.9,5.8,No,Endangered
+Harpy Eagle,Bird,Serengeti,-2.2888,35.7906,2019,15633,25.7,24.1,1.3,Yes,Least Concern
+Leatherback Turtle,Reptile,Madagascar,-19.3607,46.9949,2022,55000,15.0,19.8,3.2,Yes,Least Concern
+Red Panda,Mammal,Western Ghats,10.981,76.5681,2022,28269,19.2,23.3,2.1,Yes,Least Concern
+Fire Salamander,Amphibian,Borneo Rainforest,2.4651,113.8958,2017,33391,17.6,26.1,4.8,Yes,Least Concern
+Bengal Florican,Bird,Congo Basin,0.124,21.6864,2019,49104,13.0,26.7,2.4,Yes,Least Concern
+Dragon Blood Tree,Plant,Serengeti,-2.507,34.1645,2016,44792,17.8,21.6,1.5,Yes,Least Concern
+Red Sandalwood,Plant,Western Ghats,11.8446,76.4603,2016,8764,58.1,25.3,8.6,No,Endangered
+Orinoco Crocodile,Reptile,Borneo Rainforest,1.7488,114.6827,2017,10773,58.3,27.0,6.5,No,Vulnerable
+Great Indian Bustard,Bird,Western Ghats,11.8981,75.3919,2022,39701,24.9,24.1,5.7,Yes,Least Concern
+Harpy Eagle,Bird,Pantanal Wetlands,-18.162,-57.4534,2019,53122,16.7,26.8,2.3,Yes,Least Concern
+Asian Elephant,Mammal,Madagascar,-20.0,48.2957,2017,19276,17.8,24.0,2.7,Yes,Least Concern
+Chinese Giant Salamander,Amphibian,Arctic Tundra,69.4117,-132.8231,2021,3696,71.5,-4.6,8.4,No,Endangered
+Bengal Florican,Bird,Western Ghats,9.1588,77.2648,2019,6911,74.2,27.0,5.1,No,Endangered
+Sarus Crane,Bird,Madagascar,-18.5507,46.6571,2022,14293,45.0,23.4,6.1,No,Vulnerable
+Galapagos Giant Tortoise,Reptile,Western Ghats,10.4121,75.1474,2024,26044,19.8,22.4,3.4,Yes,Least Concern
+California Condor,Bird,Pantanal Wetlands,-16.1666,-57.8632,2023,12335,59.1,24.1,5.8,No,Vulnerable
+Lion-tailed Macaque,Mammal,Eastern Himalayas,28.1855,87.599,2024,55000,17.7,14.6,4.7,Yes,Least Concern
+Forest Owlet,Bird,Madagascar,-18.8857,47.7534,2015,7173,57.5,21.6,5.5,No,Vulnerable
+Galapagos Giant Tortoise,Reptile,Sundarbans,20.6715,88.8926,2018,5287,66.3,28.7,6.5,No,Endangered
+Tuatara,Reptile,Borneo Rainforest,-0.3033,114.6882,2015,15836,30.8,25.6,8.4,No,Vulnerable
+Bengal Tiger,Mammal,Serengeti,-1.3769,34.039,2022,5394,57.1,26.8,4.3,No,Vulnerable
+Black Rhino,Mammal,Congo Basin,-0.6113,21.2026,2024,39811,21.8,23.6,3.8,Yes,Least Concern
+Axolotl,Amphibian,Western Ghats,10.7136,77.2362,2018,12496,30.7,24.8,2.3,Yes,Least Concern
+Forest Owlet,Bird,Arctic Tundra,69.0711,-133.2547,2017,39747,22.0,-7.5,9.2,No,Least Concern
+Fire Salamander,Amphibian,Western Ghats,11.5733,76.4223,2016,55000,14.8,22.3,2.0,Yes,Least Concern
+Golden Poison Frog,Amphibian,Sundarbans,22.9855,88.8313,2015,3430,63.4,27.6,7.4,No,Endangered
+Hawksbill Sea Turtle,Reptile,Borneo Rainforest,-0.3065,115.4176,2024,8672,61.8,28.4,9.0,No,Endangered
+Sarus Crane,Bird,Congo Basin,-0.8398,22.9678,2024,55000,7.8,27.6,3.0,Yes,Least Concern
+Spoon-billed Sandpiper,Bird,Western Ghats,9.3197,77.0651,2015,25379,19.2,26.6,4.1,Yes,Least Concern
+Golden Poison Frog,Amphibian,Arctic Tundra,68.9728,-132.8055,2016,21383,43.1,-6.3,9.4,No,Endangered
+Komodo Dragon,Reptile,Arctic Tundra,69.3973,-133.8542,2016,34051,12.0,-5.2,5.1,Yes,Least Concern
+White-bellied Heron,Bird,Borneo Rainforest,1.3574,112.9782,2018,9857,64.6,27.1,5.9,No,Vulnerable
+Spoon-billed Sandpiper,Bird,Arctic Tundra,67.7958,-133.3417,2017,29360,35.4,-9.4,4.4,No,Least Concern
+Forest Owlet,Bird,Eastern Himalayas,27.7342,89.8739,2017,8625,37.6,17.4,6.8,No,Vulnerable
+Bengal Tiger,Mammal,Pantanal Wetlands,-18.7746,-56.893,2024,55000,15.1,25.8,3.4,Yes,Least Concern
+Nilgiri Tahr,Mammal,Arctic Tundra,68.9046,-132.9118,2023,55000,9.1,-10.7,4.9,Yes,Least Concern
+Baobab Tree,Plant,Amazon Rainforest,-4.2539,-62.8244,2018,18050,18.9,30.1,1.4,Yes,Least Concern
+Ganges River Dolphin,Mammal,Amazon Rainforest,-2.9525,-61.6058,2024,19082,24.6,26.5,3.4,Yes,Least Concern
+Sarus Crane,Bird,Pantanal Wetlands,-16.3985,-56.481,2018,32539,29.1,26.6,5.7,Yes,Least Concern
+Black Rhino,Mammal,Amazon Rainforest,-3.8205,-62.0777,2019,32270,14.9,25.2,5.1,Yes,Least Concern
+Ghost Orchid,Plant,Pantanal Wetlands,-17.9393,-58.1026,2017,9272,33.5,27.5,3.4,Yes,Least Concern
+Cheetah,Mammal,Amazon Rainforest,-3.1608,-61.6989,2017,18072,42.7,24.4,6.1,No,Least Concern
+Red-eyed Tree Frog,Amphibian,Amazon Rainforest,-4.1538,-63.6535,2023,35407,9.2,26.5,1.6,Yes,Least Concern
+Red-eyed Tree Frog,Amphibian,Sundarbans,22.778,89.2114,2018,12122,44.4,28.7,3.9,Yes,Least Concern
+California Condor,Bird,Amazon Rainforest,-4.1019,-61.9276,2023,30640,19.8,25.2,2.1,Yes,Least Concern
+Venus Flytrap,Plant,Pantanal Wetlands,-17.5287,-58.1408,2015,3936,76.1,21.8,5.6,No,Endangered
+Spix's Macaw,Bird,Eastern Himalayas,26.7269,89.7735,2021,15062,43.7,14.3,2.0,Yes,Least Concern
+Red-eyed Tree Frog,Amphibian,Amazon Rainforest,-3.6017,-62.2474,2017,18290,49.3,28.2,1.6,Yes,Least Concern
+California Condor,Bird,Eastern Himalayas,27.9627,87.8263,2020,7739,23.6,14.8,1.5,Yes,Least Concern
+California Condor,Bird,Madagascar,-19.8847,47.3652,2019,12208,48.1,26.2,4.7,No,Vulnerable
+Kakapo,Bird,Western Ghats,10.4361,75.517,2016,26945,36.7,24.9,4.6,Yes,Least Concern
+Snow Leopard,Mammal,Sundarbans,20.7977,89.724,2018,17934,25.7,27.5,1.6,Yes,Least Concern
+Forest Owlet,Bird,Sundarbans,21.955,88.7854,2018,4509,51.7,27.0,4.1,Yes,Least Concern
+Baobab Tree,Plant,Sundarbans,21.535,89.6492,2017,33392,33.6,30.7,2.7,Yes,Least Concern
+Bengal Florican,Bird,Sundarbans,22.1777,88.5398,2015,55000,13.1,26.2,4.9,Yes,Least Concern
+Kakapo,Bird,Eastern Himalayas,28.2029,88.9078,2021,7771,57.6,11.3,8.6,No,Endangered
+Galapagos Giant Tortoise,Reptile,Pantanal Wetlands,-17.165,-56.8028,2023,55000,12.9,26.1,3.7,Yes,Least Concern
+King Cobra,Reptile,Serengeti,-2.5299,33.3279,2021,40474,18.7,18.7,5.2,Yes,Least Concern
+Venus Flytrap,Plant,Amazon Rainforest,-3.3042,-62.8465,2020,37372,26.4,26.7,3.2,Yes,Least Concern
+Great Indian Bustard,Bird,Amazon Rainforest,-1.9536,-60.7509,2019,2948,58.1,24.6,8.7,No,Endangered
+Sarus Crane,Bird,Congo Basin,-1.8215,20.3699,2021,47878,13.8,28.9,5.8,Yes,Least Concern
+Golden Poison Frog,Amphibian,Western Ghats,11.783,77.8495,2022,3942,78.4,24.0,4.9,No,Endangered
+Mountain Gorilla,Mammal,Amazon Rainforest,-3.7794,-61.6901,2018,39856,22.7,25.6,3.2,Yes,Least Concern
+Bengal Florican,Bird,Borneo Rainforest,0.1977,114.3231,2017,35845,28.4,28.1,2.2,Yes,Least Concern
+Sarus Crane,Bird,Madagascar,-17.434,45.8852,2023,7277,49.0,21.5,7.0,No,Vulnerable
+Purple Frog,Amphibian,Congo Basin,-0.2627,20.0406,2019,39898,25.0,21.4,3.7,Yes,Least Concern
+Great Hornbill,Bird,Eastern Himalayas,27.5575,87.8942,2024,44417,16.8,16.8,4.3,Yes,Least Concern
+Titan Arum,Plant,Eastern Himalayas,27.8568,87.8487,2015,47989,16.4,13.5,3.8,Yes,Least Concern
+Giant Panda,Mammal,Western Ghats,9.9042,76.878,2021,1581,74.9,23.8,5.9,No,Endangered
+Great Indian Bustard,Bird,Congo Basin,-1.2855,22.0637,2018,38529,19.8,25.8,2.1,Yes,Least Concern
+Hawksbill Sea Turtle,Reptile,Sundarbans,20.5653,90.0636,2021,24078,10.7,25.7,5.3,Yes,Least Concern
+Clouded Leopard,Mammal,Arctic Tundra,66.7254,-134.0974,2015,36508,16.9,-9.0,1.7,Yes,Least Concern
+King Cobra,Reptile,Madagascar,-18.3767,46.5141,2020,29011,26.5,20.3,4.2,Yes,Least Concern
+Bornean Orangutan,Mammal,Pantanal Wetlands,-17.2523,-56.4035,2018,8336,54.8,27.9,4.8,No,Least Concern
+King Cobra,Reptile,Serengeti,-0.9157,35.0978,2021,12332,16.4,19.1,1.6,Yes,Least Concern
+Hawksbill Sea Turtle,Reptile,Amazon Rainforest,-2.4013,-63.3247,2019,2407,74.5,28.0,7.3,No,Endangered
+Titan Arum,Plant,Madagascar,-18.7351,46.3132,2024,55000,9.6,22.0,3.8,Yes,Least Concern
+Orinoco Crocodile,Reptile,Pantanal Wetlands,-17.0786,-57.7217,2019,37181,7.5,26.0,4.8,Yes,Least Concern
+Asian Elephant,Mammal,Sundarbans,22.1727,90.3677,2024,15329,52.5,27.4,6.9,No,Vulnerable
+Komodo Dragon,Reptile,Amazon Rainforest,-3.3142,-61.2682,2022,30476,32.2,24.8,2.8,Yes,Least Concern
+Red Panda,Mammal,Amazon Rainforest,-3.0331,-61.5798,2018,3012,46.1,27.4,6.3,No,Vulnerable
+Orinoco Crocodile,Reptile,Eastern Himalayas,28.4739,88.8251,2020,16893,46.1,14.2,5.3,No,Vulnerable
+Red-eyed Tree Frog,Amphibian,Western Ghats,11.7433,77.5219,2021,46454,22.1,22.9,2.0,Yes,Least Concern
+Harpy Eagle,Bird,Western Ghats,11.7788,77.8849,2022,3178,63.0,26.3,6.2,No,Endangered
+Leatherback Turtle,Reptile,Western Ghats,10.582,77.6591,2019,11871,45.2,21.3,4.1,No,Least Concern
+Kakapo,Bird,Western Ghats,10.5437,75.6005,2023,9692,27.6,24.5,5.1,No,Least Concern
+Venus Flytrap,Plant,Serengeti,-1.2745,34.197,2023,4624,54.9,23.4,8.4,No,Endangered
+Rafflesia Arnoldii,Plant,Congo Basin,-1.9793,20.1603,2017,17574,16.3,26.2,2.5,Yes,Least Concern
+Hawksbill Sea Turtle,Reptile,Pantanal Wetlands,-18.5754,-55.8526,2015,6080,75.8,28.3,9.8,No,Endangered
+Red Panda,Mammal,Sundarbans,22.0625,89.6861,2017,5376,37.9,23.6,3.9,Yes,Least Concern
+Black Rhino,Mammal,Sundarbans,22.0622,90.1925,2022,22675,9.9,25.9,4.9,Yes,Least Concern
+Kakapo,Bird,Congo Basin,0.5438,20.626,2022,33311,22.0,24.2,3.3,Yes,Least Concern
+Great Indian Bustard,Bird,Amazon Rainforest,-4.4252,-61.6356,2023,20516,34.3,27.8,7.5,No,Vulnerable
+Venus Flytrap,Plant,Western Ghats,10.5835,77.3638,2017,28341,14.3,24.1,2.7,Yes,Least Concern
+Gharial,Reptile,Borneo Rainforest,-0.4075,115.1376,2022,19200,21.0,29.1,3.0,Yes,Least Concern
+Rafflesia Arnoldii,Plant,Sundarbans,20.8407,89.9675,2023,17053,21.5,27.8,1.3,Yes,Least Concern
+Hawksbill Sea Turtle,Reptile,Eastern Himalayas,28.8216,89.7178,2016,23875,19.3,17.1,5.5,Yes,Least Concern
+Asian Elephant,Mammal,Amazon Rainforest,-4.7927,-62.1153,2015,38243,22.6,28.7,2.3,Yes,Least Concern
+Red Sandalwood,Plant,Sundarbans,22.9993,87.5,2018,45496,12.0,26.1,1.8,Yes,Least Concern
+Venus Flytrap,Plant,Arctic Tundra,67.3696,-134.4565,2022,1900,64.3,-8.5,8.9,No,Critically Endangered
+Hawksbill Sea Turtle,Reptile,Borneo Rainforest,1.4417,112.6343,2020,9293,48.9,28.0,8.2,No,Vulnerable
+King Cobra,Reptile,Pantanal Wetlands,-18.1743,-58.2744,2020,4744,64.8,26.4,6.4,No,Endangered
+Great Indian Bustard,Bird,Sundarbans,21.3287,88.2769,2021,5459,29.3,28.7,1.4,Yes,Least Concern
+Giant Panda,Mammal,Amazon Rainforest,-4.5758,-62.3913,2020,21644,10.3,25.7,4.8,Yes,Least Concern
+Orinoco Crocodile,Reptile,Borneo Rainforest,0.8353,112.8394,2020,20456,45.6,28.5,4.8,No,Vulnerable
+White-bellied Heron,Bird,Madagascar,-19.9631,47.3799,2020,12845,58.2,23.9,4.2,No,Vulnerable
+Harpy Eagle,Bird,Congo Basin,-2.1215,22.065,2024,13909,56.9,24.9,4.2,No,Vulnerable
+Black Rhino,Mammal,Borneo Rainforest,0.101,113.133,2022,21773,7.2,26.1,4.2,Yes,Least Concern
+Gharial,Reptile,Pantanal Wetlands,-16.1166,-56.6178,2017,13718,57.5,25.0,4.6,No,Vulnerable
+Panamanian Golden Frog,Amphibian,Eastern Himalayas,28.0805,87.1191,2023,10684,61.3,9.6,5.7,No,Endangered
+Sloth Bear,Mammal,Sundarbans,21.4094,89.1675,2023,28939,14.8,28.1,4.9,Yes,Least Concern
+Bornean Orangutan,Mammal,Congo Basin,-1.9031,20.8141,2020,29609,34.1,25.3,1.3,Yes,Least Concern
+Kakapo,Bird,Serengeti,-3.0965,34.7419,2021,3076,83.1,22.1,7.3,No,Critically Endangered
+Red-eyed Tree Frog,Amphibian,Pantanal Wetlands,-18.2501,-56.6714,2024,39812,19.9,25.2,1.7,Yes,Least Concern
+Axolotl,Amphibian,Amazon Rainforest,-4.1809,-62.5822,2018,9779,50.3,26.6,5.1,No,Vulnerable
+Dragon Blood Tree,Plant,Pantanal Wetlands,-18.8578,-56.0965,2021,12549,56.2,23.8,4.7,No,Vulnerable
+Forest Owlet,Bird,Madagascar,-19.2617,47.7804,2020,1533,65.2,23.5,5.6,No,Endangered
+Axolotl,Amphibian,Borneo Rainforest,2.4127,113.6208,2020,33994,25.1,28.0,1.8,Yes,Least Concern
+Titan Arum,Plant,Borneo Rainforest,0.4112,115.2632,2023,19336,33.5,26.9,4.5,Yes,Least Concern
+Bengal Florican,Bird,Western Ghats,10.4428,76.1289,2021,29652,27.5,26.2,2.3,Yes,Least Concern
+Bornean Orangutan,Mammal,Madagascar,-19.3159,45.3054,2019,6444,27.5,23.2,2.7,Yes,Least Concern
+Clouded Leopard,Mammal,Western Ghats,10.0522,77.2732,2022,16419,53.0,22.3,6.5,No,Vulnerable
+Red-eyed Tree Frog,Amphibian,Serengeti,-1.0204,35.9944,2015,20240,18.5,22.8,2.0,Yes,Least Concern
+Komodo Dragon,Reptile,Borneo Rainforest,0.7702,112.5135,2022,9613,64.0,27.3,8.1,No,Endangered
+Axolotl,Amphibian,Serengeti,-3.7267,34.5352,2020,9416,64.9,22.7,8.6,No,Endangered
+Clouded Leopard,Mammal,Serengeti,-3.258,33.6901,2022,2114,58.4,21.2,8.7,No,Endangered
+Tuatara,Reptile,Amazon Rainforest,-3.8726,-63.3761,2021,17222,41.2,27.3,1.8,Yes,Least Concern
+Snow Leopard,Mammal,Madagascar,-17.7689,47.6905,2024,4279,77.5,19.9,4.5,No,Endangered
+Dragon Blood Tree,Plant,Eastern Himalayas,26.6233,87.0608,2024,24265,27.4,13.1,3.1,Yes,Least Concern
+Asian Elephant,Mammal,Sundarbans,21.5872,88.296,2021,16109,22.2,25.1,4.5,Yes,Least Concern
+Orinoco Crocodile,Reptile,Madagascar,-19.867,45.8314,2019,5305,68.8,25.6,6.8,No,Endangered
+Komodo Dragon,Reptile,Madagascar,-20.1627,47.9394,2020,33319,20.0,23.8,5.1,Yes,Least Concern
+California Condor,Bird,Borneo Rainforest,1.0834,115.4991,2022,55000,10.1,21.9,3.3,Yes,Least Concern
+Red Panda,Mammal,Pantanal Wetlands,-16.7694,-56.7578,2016,21432,36.9,29.1,2.0,Yes,Least Concern
+Harpy Eagle,Bird,Pantanal Wetlands,-17.5889,-55.6313,2020,2867,81.6,27.8,8.7,No,Critically Endangered
+Dragon Blood Tree,Plant,Madagascar,-17.7025,47.8523,2019,27023,21.8,19.2,2.8,Yes,Least Concern
+Purple Frog,Amphibian,Congo Basin,-0.7805,21.8912,2024,6968,39.1,24.9,2.6,Yes,Least Concern
+Nilgiri Tahr,Mammal,Serengeti,-2.5402,33.8755,2018,30506,16.6,21.4,4.2,Yes,Least Concern
+Orinoco Crocodile,Reptile,Western Ghats,11.357,77.0206,2022,11044,58.5,25.1,5.2,No,Endangered
+Galapagos Giant Tortoise,Reptile,Congo Basin,-1.442,21.3103,2017,27599,31.1,22.4,5.2,Yes,Least Concern
+Tuatara,Reptile,Borneo Rainforest,0.97,112.8312,2022,4749,54.7,27.3,5.3,No,Vulnerable
+Great Hornbill,Bird,Western Ghats,11.934,77.9829,2019,35823,22.3,25.9,5.5,Yes,Least Concern
+Mountain Gorilla,Mammal,Borneo Rainforest,2.4046,115.2688,2017,7311,75.5,29.1,9.5,No,Critically Endangered
+Philippine Eagle,Bird,Congo Basin,-0.2159,20.3234,2024,9413,16.4,27.4,5.4,Yes,Least Concern
+Tuatara,Reptile,Amazon Rainforest,-2.0324,-61.4977,2015,13316,55.0,28.5,7.0,No,Vulnerable
+Bornean Orangutan,Mammal,Western Ghats,10.2396,76.2169,2024,20233,45.3,24.7,7.8,No,Endangered
+Welwitschia Mirabilis,Plant,Congo Basin,-0.8555,20.8232,2023,21603,10.7,24.7,4.3,Yes,Least Concern
+White-bellied Heron,Bird,Sundarbans,23.055,88.0646,2015,5089,49.5,28.1,5.8,No,Vulnerable
+Leatherback Turtle,Reptile,Congo Basin,-2.0011,21.1004,2015,5824,63.5,26.3,6.6,No,Vulnerable
+Hawksbill Sea Turtle,Reptile,Pantanal Wetlands,-17.7456,-55.767,2015,8399,63.0,25.9,7.0,No,Endangered
+Hawksbill Sea Turtle,Reptile,Eastern Himalayas,28.3993,88.0364,2024,15664,28.5,15.2,3.1,Yes,Least Concern
+Great Hornbill,Bird,Arctic Tundra,68.9815,-133.225,2019,3057,81.9,-6.1,7.4,No,Critically Endangered
+Ghost Orchid,Plant,Eastern Himalayas,27.1144,88.3467,2018,23221,28.2,15.8,1.4,Yes,Least Concern
+Red-eyed Tree Frog,Amphibian,Madagascar,-19.4433,47.7322,2024,6319,43.2,22.2,3.7,Yes,Least Concern
+Harpy Eagle,Bird,Sundarbans,21.347,87.6608,2019,10923,60.1,22.8,7.6,No,Endangered
+Red Sandalwood,Plant,Borneo Rainforest,-0.2966,114.6707,2016,2227,59.7,28.3,4.4,No,Endangered
+Fire Salamander,Amphibian,Congo Basin,-0.0977,22.18,2017,15137,27.0,23.9,4.6,Yes,Least Concern
+Ghost Orchid,Plant,Eastern Himalayas,26.2399,87.2695,2019,39922,17.5,12.6,1.3,Yes,Least Concern
+Baobab Tree,Plant,Eastern Himalayas,28.2438,87.5908,2015,16268,38.1,15.0,2.2,Yes,Least Concern
+Lion-tailed Macaque,Mammal,Congo Basin,0.1759,20.3815,2023,13742,19.3,22.5,5.6,Yes,Least Concern
+Red Panda,Mammal,Amazon Rainforest,-3.9734,-61.7234,2017,9530,69.0,26.2,6.0,No,Endangered
+Spoon-billed Sandpiper,Bird,Serengeti,-3.3891,34.8203,2015,21864,39.3,22.3,3.7,Yes,Least Concern
+Gharial,Reptile,Madagascar,-18.9941,47.8372,2015,39313,18.3,25.0,2.3,Yes,Least Concern
+Kakapo,Bird,Serengeti,-3.0137,34.3291,2022,11283,61.2,23.4,7.3,No,Endangered
+Asian Elephant,Mammal,Congo Basin,0.5993,21.9716,2023,5451,67.0,24.0,9.3,No,Endangered
+Great Hornbill,Bird,Arctic Tundra,69.0067,-132.1482,2019,25440,32.3,-8.0,1.8,Yes,Least Concern
+Bengal Tiger,Mammal,Arctic Tundra,69.3151,-131.7575,2024,13734,23.8,-6.8,3.0,Yes,Least Concern
+Tuatara,Reptile,Pantanal Wetlands,-18.8444,-55.6733,2019,7144,67.0,28.4,7.5,No,Endangered
+Gharial,Reptile,Eastern Himalayas,28.1969,89.3308,2020,28062,25.8,13.0,3.2,Yes,Least Concern
+Orinoco Crocodile,Reptile,Pantanal Wetlands,-18.5275,-56.717,2021,5382,44.1,25.2,8.2,No,Vulnerable
+Fire Salamander,Amphibian,Serengeti,-2.6322,34.2401,2018,23838,30.7,23.9,2.3,Yes,Least Concern
+Sloth Bear,Mammal,Borneo Rainforest,0.5176,113.4681,2024,7634,66.1,27.3,7.7,No,Endangered
+Lion-tailed Macaque,Mammal,Madagascar,-19.8507,47.0894,2015,28086,16.7,24.6,4.4,Yes,Least Concern
+Axolotl,Amphibian,Sundarbans,23.2278,89.854,2015,13275,59.2,26.0,4.6,No,Endangered
+Orinoco Crocodile,Reptile,Congo Basin,-2.0763,20.7524,2015,22698,32.2,23.9,6.9,No,Least Concern
+Bengal Tiger,Mammal,Western Ghats,9.7604,75.2227,2020,4905,62.7,19.7,6.8,No,Endangered
+Galapagos Giant Tortoise,Reptile,Madagascar,-19.8248,45.4245,2018,7864,71.3,21.5,4.6,No,Endangered
+Nilgiri Tahr,Mammal,Congo Basin,0.7282,20.7705,2023,12482,48.0,25.4,5.0,Yes,Least Concern
+King Cobra,Reptile,Congo Basin,0.3774,20.6851,2021,14061,57.0,27.2,5.6,No,Vulnerable
+California Condor,Bird,Borneo Rainforest,1.4804,115.0082,2016,6562,55.9,25.6,6.7,No,Endangered
+Black Rhino,Mammal,Borneo Rainforest,2.4397,113.1776,2019,34663,28.0,29.8,5.4,Yes,Least Concern
+Tuatara,Reptile,Sundarbans,20.7742,87.9651,2016,21057,41.9,28.8,8.1,No,Endangered
+Great Hornbill,Bird,Serengeti,-2.1482,34.0517,2015,12142,48.3,24.5,5.4,No,Vulnerable
+Harpy Eagle,Bird,Western Ghats,11.3877,76.4252,2016,5062,68.1,22.7,7.7,No,Endangered
+Red-eyed Tree Frog,Amphibian,Western Ghats,9.5561,76.903,2018,6886,58.4,24.4,7.8,No,Endangered
+Fire Salamander,Amphibian,Western Ghats,11.88,77.4614,2015,13609,53.4,26.5,4.2,No,Vulnerable
+Tuatara,Reptile,Sundarbans,23.204,87.4257,2017,14079,51.1,27.8,8.2,No,Endangered
+Mountain Gorilla,Mammal,Amazon Rainforest,-4.4409,-62.1832,2024,3562,81.9,28.3,4.4,No,Endangered
+Leatherback Turtle,Reptile,Arctic Tundra,69.326,-134.307,2017,24306,32.3,-10.2,8.6,No,Vulnerable
+Spoon-billed Sandpiper,Bird,Borneo Rainforest,0.8542,114.0043,2020,2759,57.0,26.2,5.3,No,Endangered
+Orinoco Crocodile,Reptile,Congo Basin,-0.9566,20.0444,2020,8399,39.9,25.2,6.6,No,Vulnerable
+Tuatara,Reptile,Sundarbans,22.6722,88.4708,2023,26869,33.8,27.6,2.0,Yes,Least Concern
+Titan Arum,Plant,Eastern Himalayas,26.9293,88.5657,2021,44866,21.4,14.1,5.5,Yes,Least Concern
+Spoon-billed Sandpiper,Bird,Eastern Himalayas,27.5361,88.6465,2016,2806,60.6,16.6,7.1,No,Endangered
+Cheetah,Mammal,Arctic Tundra,67.9806,-131.858,2021,18127,8.6,-7.7,3.8,Yes,Least Concern
+Komodo Dragon,Reptile,Amazon Rainforest,-4.271,-61.046,2016,4220,71.1,27.1,6.0,No,Endangered
+Indian Rhinoceros,Mammal,Congo Basin,-0.0337,20.5226,2020,8238,26.1,29.1,4.7,Yes,Least Concern
+Red Sandalwood,Plant,Arctic Tundra,67.1852,-132.0334,2024,21611,31.2,-5.4,4.4,Yes,Least Concern
+Mountain Gorilla,Mammal,Sundarbans,22.808,89.8271,2019,1663,74.0,28.0,9.1,No,Critically Endangered
+Forest Owlet,Bird,Amazon Rainforest,-4.8116,-63.1652,2023,16133,37.0,26.7,5.5,No,Vulnerable
+Venus Flytrap,Plant,Pantanal Wetlands,-16.8191,-57.3659,2023,12382,58.2,24.0,5.0,No,Vulnerable
+Hawksbill Sea Turtle,Reptile,Pantanal Wetlands,-16.8949,-58.3421,2015,33110,18.9,24.7,3.6,Yes,Least Concern
+King Cobra,Reptile,Pantanal Wetlands,-16.6684,-57.6438,2024,14241,29.5,27.1,5.8,Yes,Least Concern
+Lion-tailed Macaque,Mammal,Borneo Rainforest,-0.1866,113.2125,2021,14734,51.8,30.7,4.9,No,Vulnerable
+Spix's Macaw,Bird,Arctic Tundra,67.6406,-131.8862,2015,3379,70.3,-2.4,6.7,No,Endangered
+Philippine Eagle,Bird,Borneo Rainforest,1.6753,112.863,2015,13824,32.2,28.1,1.7,Yes,Least Concern
+Venus Flytrap,Plant,Western Ghats,9.0081,76.2978,2019,23958,25.8,23.3,4.2,Yes,Least Concern
+Welwitschia Mirabilis,Plant,Serengeti,-2.25,35.5081,2015,35292,18.2,21.1,1.9,Yes,Least Concern
+Golden Poison Frog,Amphibian,Amazon Rainforest,-3.4917,-61.539,2015,25735,18.7,26.5,2.5,Yes,Least Concern
+Ganges River Dolphin,Mammal,Pantanal Wetlands,-16.8117,-55.6082,2018,6174,30.9,22.3,4.8,Yes,Least Concern
+Philippine Eagle,Bird,Eastern Himalayas,26.1323,88.182,2021,34119,17.5,16.4,1.7,Yes,Least Concern
+Fire Salamander,Amphibian,Western Ghats,11.0721,76.6021,2024,2597,59.5,24.0,4.6,No,Endangered
+Forest Owlet,Bird,Western Ghats,9.7568,75.4699,2019,43946,19.8,23.8,3.3,Yes,Least Concern
+Asian Elephant,Mammal,Western Ghats,11.1236,75.4599,2024,17833,28.9,24.2,3.5,Yes,Least Concern
+Welwitschia Mirabilis,Plant,Serengeti,-2.5873,34.6484,2015,4447,63.8,21.6,6.5,No,Endangered
+White-bellied Heron,Bird,Sundarbans,22.1861,90.0166,2018,14582,24.1,27.6,2.5,Yes,Least Concern
+Great Indian Bustard,Bird,Serengeti,-2.835,33.6965,2020,31534,18.6,19.0,5.6,Yes,Least Concern
+California Condor,Bird,Madagascar,-18.275,47.7518,2019,29652,17.2,20.0,1.5,Yes,Least Concern
+Galapagos Giant Tortoise,Reptile,Sundarbans,21.5639,87.8797,2019,16412,46.5,27.7,5.9,No,Least Concern
+Great Indian Bustard,Bird,Arctic Tundra,67.3244,-134.1718,2017,47495,9.2,-9.8,4.6,Yes,Least Concern
+Red Panda,Mammal,Serengeti,-1.3998,34.3383,2020,8175,63.9,24.5,5.3,No,Vulnerable
+Kakapo,Bird,Congo Basin,0.0017,20.2207,2023,27176,39.1,24.9,4.8,No,Least Concern
+Mountain Gorilla,Mammal,Amazon Rainforest,-4.4849,-61.4555,2019,15113,52.8,24.0,4.2,No,Vulnerable
+Hellbender,Amphibian,Pantanal Wetlands,-16.2017,-57.4645,2018,8352,27.2,26.1,1.6,Yes,Least Concern
+Ganges River Dolphin,Mammal,Madagascar,-17.3576,47.9537,2022,8367,68.0,25.1,6.4,No,Endangered
+Welwitschia Mirabilis,Plant,Amazon Rainforest,-3.8043,-62.5216,2024,4826,32.6,25.2,4.2,No,Vulnerable
+Orinoco Crocodile,Reptile,Pantanal Wetlands,-17.4579,-56.7806,2015,6891,61.5,25.0,9.6,No,Endangered
+Philippine Eagle,Bird,Arctic Tundra,68.2813,-134.4528,2023,55000,7.3,-7.3,4.4,Yes,Least Concern
+Sarus Crane,Bird,Congo Basin,-0.1644,20.5952,2017,2752,75.5,28.0,4.1,No,Endangered
+Ghost Orchid,Plant,Western Ghats,11.3677,76.0755,2017,2336,65.4,25.7,8.7,No,Critically Endangered
+Red-eyed Tree Frog,Amphibian,Borneo Rainforest,2.1081,113.9499,2021,8015,18.8,27.1,4.4,Yes,Least Concern
+Red Sandalwood,Plant,Arctic Tundra,68.0505,-133.7099,2020,7478,57.1,-7.0,7.2,No,Vulnerable
+Red Sandalwood,Plant,Sundarbans,22.4202,90.0738,2018,26006,34.2,25.9,4.9,Yes,Least Concern
+Welwitschia Mirabilis,Plant,Amazon Rainforest,-3.6571,-62.2793,2019,4664,50.3,29.8,4.1,No,Vulnerable
+Cheetah,Mammal,Borneo Rainforest,2.3435,113.6014,2016,20419,35.2,26.3,2.3,Yes,Least Concern
+Chinese Giant Salamander,Amphibian,Western Ghats,9.3091,75.6823,2021,9057,62.0,26.3,8.8,No,Endangered
+Asian Elephant,Mammal,Eastern Himalayas,27.3204,88.5373,2024,14462,52.6,16.5,8.2,No,Endangered
+Red Sandalwood,Plant,Borneo Rainforest,0.5873,114.7128,2016,35352,27.9,25.8,3.4,Yes,Least Concern
+Spoon-billed Sandpiper,Bird,Madagascar,-19.264,48.0295,2017,15310,43.6,22.6,4.5,No,Vulnerable
+Rafflesia Arnoldii,Plant,Western Ghats,9.4422,77.1245,2023,15720,38.4,22.0,4.0,Yes,Least Concern
+Purple Frog,Amphibian,Borneo Rainforest,1.6871,115.2834,2016,9649,67.2,26.2,4.2,No,Vulnerable
+King Cobra,Reptile,Western Ghats,11.9267,76.8488,2015,16234,54.5,22.7,7.0,No,Vulnerable
+Black Rhino,Mammal,Sundarbans,20.4763,89.3282,2023,4080,75.6,28.5,6.8,No,Endangered
+Bengal Florican,Bird,Eastern Himalayas,26.1132,88.7496,2022,9303,65.7,13.4,9.2,No,Endangered
+Sloth Bear,Mammal,Amazon Rainforest,-3.0009,-61.9651,2015,4211,39.2,24.9,6.4,No,Vulnerable
+Nilgiri Tahr,Mammal,Madagascar,-19.7157,46.416,2023,4428,77.0,22.0,5.6,No,Endangered
+Kakapo,Bird,Amazon Rainforest,-4.2322,-62.9164,2023,10294,56.5,23.7,4.1,No,Vulnerable
+Purple Frog,Amphibian,Congo Basin,0.0628,20.0615,2015,12327,43.4,25.1,7.7,No,Vulnerable
+Bengal Florican,Bird,Amazon Rainforest,-3.4407,-61.8243,2022,5879,62.7,26.6,9.4,No,Endangered
+Purple Frog,Amphibian,Serengeti,-1.2261,34.4741,2016,7212,55.2,19.2,2.4,Yes,Least Concern
+Philippine Eagle,Bird,Eastern Himalayas,27.423,88.175,2022,14448,19.2,10.1,3.6,Yes,Least Concern
+Indian Rhinoceros,Mammal,Eastern Himalayas,28.0689,88.408,2020,3371,83.2,12.9,7.7,No,Endangered
+Orinoco Crocodile,Reptile,Western Ghats,9.0557,77.6659,2019,3211,65.1,25.1,7.0,No,Endangered
+Ganges River Dolphin,Mammal,Serengeti,-1.4343,33.8016,2022,25571,41.1,24.1,9.2,No,Vulnerable
+Black Rhino,Mammal,Eastern Himalayas,26.8747,87.8488,2019,2678,72.1,13.3,8.6,No,Endangered
+Great Hornbill,Bird,Sundarbans,22.7987,89.1419,2017,47283,8.4,23.8,4.5,Yes,Least Concern
+Ganges River Dolphin,Mammal,Eastern Himalayas,28.0971,87.7587,2019,3365,67.1,15.3,5.1,No,Endangered
+Leatherback Turtle,Reptile,Western Ghats,11.7786,75.2653,2019,10217,23.7,22.4,5.7,Yes,Least Concern
+Gharial,Reptile,Congo Basin,-1.1186,21.2913,2024,4101,57.4,27.6,8.1,No,Endangered
+Bornean Orangutan,Mammal,Borneo Rainforest,2.1494,114.2311,2020,10440,65.0,28.6,8.9,No,Endangered
+Titan Arum,Plant,Pantanal Wetlands,-16.2759,-57.7929,2024,11517,19.3,25.7,3.8,Yes,Least Concern
+Hellbender,Amphibian,Western Ghats,11.3596,77.9216,2024,9277,26.5,24.0,3.9,Yes,Least Concern
+Axolotl,Amphibian,Borneo Rainforest,1.8416,113.3604,2020,6290,50.3,26.7,9.1,No,Endangered
+King Cobra,Reptile,Madagascar,-19.346,47.5955,2023,11141,62.3,25.3,7.7,No,Endangered
+Kakapo,Bird,Congo Basin,-1.1049,22.7134,2023,55000,11.5,27.7,2.3,Yes,Least Concern
+White-bellied Heron,Bird,Congo Basin,0.7268,22.605,2021,6060,66.9,29.2,8.3,No,Endangered
+Great Indian Bustard,Bird,Borneo Rainforest,0.3361,112.9766,2015,8107,68.9,24.2,4.9,No,Vulnerable
+Spix's Macaw,Bird,Amazon Rainforest,-2.423,-61.6066,2024,8072,41.5,27.0,4.6,Yes,Least Concern
+Red-eyed Tree Frog,Amphibian,Eastern Himalayas,27.1292,87.8899,2023,8945,33.3,15.5,6.5,No,Least Concern
+Cheetah,Mammal,Madagascar,-19.0172,47.3312,2023,9180,43.8,24.3,2.7,Yes,Least Concern
+Leatherback Turtle,Reptile,Pantanal Wetlands,-17.7261,-57.1171,2019,11603,58.8,24.1,6.1,No,Endangered
+Red Sandalwood,Plant,Pantanal Wetlands,-18.6034,-56.3583,2024,17124,46.8,25.6,4.4,Yes,Least Concern
+Sarus Crane,Bird,Sundarbans,20.427,88.1064,2019,17134,47.4,27.1,7.5,No,Vulnerable
+Panamanian Golden Frog,Amphibian,Pantanal Wetlands,-16.3549,-56.5813,2022,23707,18.7,24.4,2.7,Yes,Least Concern
+Mountain Gorilla,Mammal,Serengeti,-2.0026,36.2764,2018,2605,55.1,25.1,9.2,No,Endangered
+Ghost Orchid,Plant,Borneo Rainforest,0.7835,113.4919,2017,5287,60.9,27.8,5.0,No,Endangered
+King Cobra,Reptile,Borneo Rainforest,0.1338,113.646,2018,2786,51.5,27.4,8.1,No,Vulnerable
+Bornean Orangutan,Mammal,Arctic Tundra,69.3228,-132.9366,2023,12650,57.7,-6.2,7.7,No,Vulnerable
+Dragon Blood Tree,Plant,Serengeti,-1.8416,35.8684,2020,9871,43.7,23.0,7.1,No,Vulnerable
+Purple Frog,Amphibian,Congo Basin,-0.9726,20.7621,2020,17024,20.6,23.7,3.8,Yes,Least Concern
+Forest Owlet,Bird,Borneo Rainforest,1.745,115.1063,2017,12420,23.0,22.6,5.2,Yes,Least Concern
+Spix's Macaw,Bird,Serengeti,-1.0917,36.1869,2024,34900,12.2,21.3,4.0,Yes,Least Concern
+Rafflesia Arnoldii,Plant,Pantanal Wetlands,-16.2037,-56.3482,2018,14586,11.8,27.7,2.2,Yes,Least Concern
+Spoon-billed Sandpiper,Bird,Amazon Rainforest,-3.2772,-62.8761,2024,7369,67.0,29.7,6.5,No,Endangered
+Philippine Eagle,Bird,Pantanal Wetlands,-18.3549,-57.8862,2018,45229,13.2,25.0,5.6,Yes,Least Concern
+Black Rhino,Mammal,Eastern Himalayas,26.9257,89.9757,2024,54393,13.0,14.3,1.3,Yes,Least Concern
+White-bellied Heron,Bird,Madagascar,-19.221,47.4835,2022,5132,64.2,23.7,5.4,No,Endangered
+Forest Owlet,Bird,Arctic Tundra,67.1933,-132.973,2024,29976,23.2,-7.3,5.7,Yes,Least Concern
+Asian Elephant,Mammal,Pantanal Wetlands,-16.4303,-57.0537,2022,7770,60.7,25.2,5.3,No,Endangered
+Venus Flytrap,Plant,Pantanal Wetlands,-17.4535,-57.7155,2024,12241,55.8,26.8,5.1,No,Endangered
+Indian Rhinoceros,Mammal,Pantanal Wetlands,-16.8849,-57.8194,2017,29253,9.4,26.0,5.3,Yes,Least Concern
+Mountain Gorilla,Mammal,Arctic Tundra,67.9815,-133.5636,2017,48151,20.0,-3.4,5.3,Yes,Least Concern
+Spix's Macaw,Bird,Western Ghats,9.5201,76.0226,2020,42072,26.0,22.7,1.5,Yes,Least Concern
+Axolotl,Amphibian,Amazon Rainforest,-2.9669,-61.4275,2017,55000,9.6,27.4,4.5,Yes,Least Concern
+Spoon-billed Sandpiper,Bird,Arctic Tundra,68.9499,-132.5345,2023,21454,23.9,-3.9,1.8,Yes,Least Concern
+Venus Flytrap,Plant,Madagascar,-17.5302,47.2526,2018,20548,8.4,25.6,1.6,Yes,Least Concern
+Venus Flytrap,Plant,Eastern Himalayas,27.4797,89.572,2022,5423,65.7,13.3,7.2,No,Endangered
+Gharial,Reptile,Pantanal Wetlands,-18.4111,-57.8848,2022,26237,14.7,29.2,5.4,Yes,Least Concern
+Red Panda,Mammal,Sundarbans,21.7075,89.0675,2020,6187,37.0,27.2,8.8,No,Vulnerable
+King Cobra,Reptile,Pantanal Wetlands,-18.8015,-57.8522,2017,4863,62.6,29.6,6.9,No,Endangered
+Welwitschia Mirabilis,Plant,Madagascar,-20.1828,47.254,2022,52136,10.8,27.1,1.6,Yes,Least Concern
+Tuatara,Reptile,Amazon Rainforest,-4.2557,-61.1966,2024,3446,50.7,23.5,9.6,No,Endangered
+Sarus Crane,Bird,Congo Basin,-0.215,20.9331,2016,4756,66.2,27.4,9.7,No,Endangered
+Ganges River Dolphin,Mammal,Sundarbans,22.9763,88.6107,2024,55000,11.1,29.9,5.3,Yes,Least Concern
+Dragon Blood Tree,Plant,Madagascar,-18.0349,45.7215,2015,19403,42.2,24.5,9.4,No,Endangered
+Golden Poison Frog,Amphibian,Congo Basin,0.4361,21.0707,2022,8534,64.1,26.3,4.4,No,Vulnerable
+Fire Salamander,Amphibian,Sundarbans,22.496,88.1715,2020,6658,41.4,32.5,7.2,No,Vulnerable
+Baobab Tree,Plant,Amazon Rainforest,-4.178,-61.0685,2023,41308,26.8,27.5,3.0,Yes,Least Concern
+Forest Owlet,Bird,Amazon Rainforest,-4.4518,-62.2925,2020,5638,73.9,26.2,5.6,No,Endangered
+Titan Arum,Plant,Amazon Rainforest,-4.1223,-63.333,2023,7988,21.9,25.7,2.0,Yes,Least Concern
+Red-eyed Tree Frog,Amphibian,Arctic Tundra,67.5391,-132.7019,2021,11806,14.5,-6.8,4.5,Yes,Least Concern
+Sloth Bear,Mammal,Borneo Rainforest,0.1734,114.1561,2019,4245,64.8,26.7,6.4,No,Endangered
+Welwitschia Mirabilis,Plant,Serengeti,-1.9459,35.4553,2018,13078,53.4,21.9,8.3,No,Vulnerable
+Orinoco Crocodile,Reptile,Amazon Rainforest,-3.1344,-63.6669,2017,3853,53.3,27.3,8.3,No,Endangered
+Great Indian Bustard,Bird,Arctic Tundra,69.0822,-131.6408,2023,37439,29.7,-6.3,1.7,Yes,Least Concern
+Giant Panda,Mammal,Congo Basin,0.3066,21.1974,2024,12567,40.2,26.6,9.5,No,Vulnerable
+Orinoco Crocodile,Reptile,Arctic Tundra,68.8583,-134.1353,2015,39094,23.6,-5.4,1.3,Yes,Least Concern
+Red-eyed Tree Frog,Amphibian,Eastern Himalayas,26.7188,88.8642,2019,16794,49.3,16.1,5.9,No,Vulnerable
+Tuatara,Reptile,Western Ghats,9.6262,76.4575,2024,7049,66.4,24.6,7.2,No,Endangered
+Snow Leopard,Mammal,Pantanal Wetlands,-17.0986,-56.7928,2024,9995,56.7,24.8,7.7,No,Vulnerable
+King Cobra,Reptile,Borneo Rainforest,1.2071,114.7185,2019,12240,60.2,24.6,8.4,No,Endangered
+Bornean Orangutan,Mammal,Borneo Rainforest,-0.0754,114.6312,2016,46284,23.0,26.8,3.2,Yes,Least Concern
+Sloth Bear,Mammal,Borneo Rainforest,1.5896,113.3135,2024,5429,44.2,24.0,7.5,No,Vulnerable
+Tuatara,Reptile,Borneo Rainforest,0.8875,113.3383,2017,18630,49.8,24.8,5.8,No,Vulnerable
+Komodo Dragon,Reptile,Pantanal Wetlands,-16.3089,-55.7948,2021,27802,34.5,25.2,4.2,No,Least Concern
+Spoon-billed Sandpiper,Bird,Madagascar,-19.5759,46.2716,2019,3187,73.5,23.3,5.7,No,Endangered
+Hellbender,Amphibian,Eastern Himalayas,26.7359,89.8974,2020,4383,60.5,13.0,7.6,No,Endangered
+Asian Elephant,Mammal,Madagascar,-19.4379,46.2198,2023,8641,31.5,20.4,3.7,Yes,Least Concern
+Bornean Orangutan,Mammal,Congo Basin,-0.8054,22.8547,2022,8496,69.5,26.2,8.5,No,Endangered
+Hellbender,Amphibian,Borneo Rainforest,2.002,112.9209,2018,3220,80.2,28.1,9.0,No,Endangered
+Harpy Eagle,Bird,Amazon Rainforest,-3.4195,-63.3537,2023,15085,15.0,23.7,1.8,Yes,Least Concern
+Tuatara,Reptile,Arctic Tundra,67.7866,-132.2246,2020,4493,59.3,-7.5,4.8,No,Vulnerable
+Harpy Eagle,Bird,Amazon Rainforest,-3.5496,-61.4671,2018,4089,70.5,23.8,8.2,No,Endangered
+Forest Owlet,Bird,Sundarbans,22.2417,88.335,2020,17925,51.1,28.7,9.1,No,Endangered
+Bornean Orangutan,Mammal,Congo Basin,-0.3115,21.4661,2023,7109,58.2,23.7,4.6,No,Vulnerable
+Sarus Crane,Bird,Congo Basin,-1.4005,22.2876,2015,1834,61.4,27.4,7.9,No,Endangered
+Tuatara,Reptile,Eastern Himalayas,28.8889,88.9045,2016,49531,16.1,17.7,3.1,Yes,Least Concern
+Philippine Eagle,Bird,Madagascar,-18.6329,46.5923,2018,31609,10.3,20.7,3.8,Yes,Least Concern
+Welwitschia Mirabilis,Plant,Madagascar,-19.4126,47.2351,2020,24669,35.0,22.0,7.5,No,Vulnerable
+Hawksbill Sea Turtle,Reptile,Congo Basin,-0.4697,20.4966,2017,21233,46.2,25.7,8.0,No,Vulnerable
+White-bellied Heron,Bird,Western Ghats,9.3349,76.3758,2019,32388,31.9,26.3,5.1,Yes,Least Concern
+Great Hornbill,Bird,Madagascar,-18.4053,47.8645,2017,37564,10.0,22.1,5.5,Yes,Least Concern
+Axolotl,Amphibian,Western Ghats,10.1037,76.01,2022,4216,69.8,23.3,5.3,No,Endangered
+Red-eyed Tree Frog,Amphibian,Arctic Tundra,67.8561,-134.1941,2024,8950,70.5,-10.9,7.2,No,Endangered
+Hellbender,Amphibian,Madagascar,-18.6262,45.9682,2019,1954,65.6,20.8,4.5,No,Endangered
+Tuatara,Reptile,Congo Basin,0.2251,21.5616,2015,44827,16.4,26.3,5.4,Yes,Least Concern
+Philippine Eagle,Bird,Madagascar,-18.0547,47.2187,2018,55000,13.1,21.6,3.4,Yes,Least Concern
+Cheetah,Mammal,Borneo Rainforest,1.4687,113.6551,2022,11953,23.5,27.4,5.5,Yes,Least Concern
+Fire Salamander,Amphibian,Sundarbans,21.0524,90.1864,2020,16460,8.0,26.8,1.7,Yes,Least Concern
+Forest Owlet,Bird,Serengeti,-1.0677,35.447,2020,22108,45.5,22.0,3.0,Yes,Least Concern
+Fire Salamander,Amphibian,Arctic Tundra,66.8005,-133.4427,2018,11240,58.6,-7.1,9.5,No,Endangered
+Giant Panda,Mammal,Congo Basin,0.2415,21.1421,2019,2198,59.6,26.1,4.4,No,Endangered
+Red Sandalwood,Plant,Eastern Himalayas,27.2482,87.5169,2015,6316,54.0,13.7,8.3,No,Endangered
+Golden Poison Frog,Amphibian,Madagascar,-18.8593,47.502,2019,2411,65.1,23.0,9.2,No,Endangered
+Bornean Orangutan,Mammal,Madagascar,-19.7548,47.2081,2018,2999,82.5,22.2,8.0,No,Endangered
+Asian Elephant,Mammal,Congo Basin,-1.4418,20.9342,2024,5775,67.9,28.5,4.8,No,Vulnerable
+Baobab Tree,Plant,Amazon Rainforest,-4.0766,-61.0632,2023,10251,62.8,26.7,9.7,No,Endangered
+Ghost Orchid,Plant,Congo Basin,-1.5532,21.1979,2015,13504,55.0,26.1,4.4,No,Vulnerable
+White-bellied Heron,Bird,Western Ghats,11.1201,77.6791,2015,5764,52.2,25.9,6.2,No,Endangered
+Mountain Gorilla,Mammal,Western Ghats,11.218,76.9792,2023,2159,72.8,21.9,6.8,No,Endangered
+Philippine Eagle,Bird,Serengeti,-1.1124,35.0338,2017,24620,23.6,24.8,4.7,Yes,Least Concern
+Ganges River Dolphin,Mammal,Congo Basin,0.1199,21.7114,2018,8273,72.3,28.0,6.0,No,Endangered
+Hellbender,Amphibian,Arctic Tundra,68.0996,-134.1998,2021,11018,46.2,-10.0,6.5,No,Vulnerable
+Tuatara,Reptile,Sundarbans,23.3097,90.1741,2022,49784,17.0,27.5,2.8,Yes,Least Concern
+Cheetah,Mammal,Western Ghats,11.3679,75.3906,2018,8373,56.0,22.8,6.8,No,Vulnerable
+Ganges River Dolphin,Mammal,Amazon Rainforest,-4.3908,-63.6995,2023,10542,18.7,26.5,4.3,Yes,Least Concern
+Harpy Eagle,Bird,Sundarbans,21.8419,89.0821,2021,42860,9.8,26.6,4.8,Yes,Least Concern
+Welwitschia Mirabilis,Plant,Congo Basin,0.5588,22.7448,2019,9689,68.9,26.8,4.6,No,Vulnerable
+Nilgiri Tahr,Mammal,Serengeti,-2.0192,34.854,2023,10454,50.4,23.5,4.5,No,Vulnerable
+Venus Flytrap,Plant,Pantanal Wetlands,-17.9978,-57.6827,2022,11976,62.2,27.6,7.9,No,Endangered
+Welwitschia Mirabilis,Plant,Madagascar,-18.4327,47.9944,2019,5581,73.9,23.2,6.2,No,Endangered
+California Condor,Bird,Amazon Rainforest,-3.4964,-62.8749,2021,20361,12.6,25.8,2.5,Yes,Least Concern
+Rafflesia Arnoldii,Plant,Borneo Rainforest,2.177,114.54,2015,11261,64.6,26.8,6.6,No,Endangered
+Titan Arum,Plant,Pantanal Wetlands,-18.2097,-57.884,2021,4082,75.6,25.8,7.3,No,Endangered
+Great Indian Bustard,Bird,Congo Basin,0.4305,21.6306,2017,5701,31.7,23.4,8.6,No,Endangered
+Baobab Tree,Plant,Pantanal Wetlands,-18.3045,-58.1754,2022,25626,22.6,27.5,4.9,Yes,Least Concern
+Welwitschia Mirabilis,Plant,Sundarbans,22.1361,89.3404,2017,15353,9.6,23.3,5.7,Yes,Least Concern
+Philippine Eagle,Bird,Amazon Rainforest,-4.3319,-62.0564,2023,22302,40.4,30.4,5.2,No,Least Concern
+Hellbender,Amphibian,Borneo Rainforest,1.8176,113.474,2017,8512,52.6,26.7,7.8,No,Vulnerable
+Ghost Orchid,Plant,Western Ghats,10.3128,77.9047,2018,10375,60.6,24.6,6.0,No,Endangered
+Baobab Tree,Plant,Borneo Rainforest,1.9704,112.9628,2021,19889,20.7,30.6,2.5,Yes,Least Concern
+King Cobra,Reptile,Eastern Himalayas,28.5567,88.8041,2024,13536,53.8,11.4,9.6,No,Endangered
+Philippine Eagle,Bird,Madagascar,-19.9812,47.7098,2022,24280,32.1,21.7,2.9,Yes,Least Concern
+Kakapo,Bird,Congo Basin,-0.8602,20.8302,2016,33323,17.3,27.5,4.0,Yes,Least Concern
+Baobab Tree,Plant,Congo Basin,-0.9598,20.218,2017,6721,44.3,25.4,6.9,No,Vulnerable
+Sarus Crane,Bird,Sundarbans,21.9645,89.9858,2024,1724,72.7,27.5,4.4,No,Endangered
+Red-eyed Tree Frog,Amphibian,Serengeti,-2.4001,34.071,2023,55000,10.4,19.8,4.8,Yes,Least Concern
+Panamanian Golden Frog,Amphibian,Western Ghats,10.7874,75.9436,2018,9160,64.9,24.5,4.6,No,Vulnerable
+Forest Owlet,Bird,Western Ghats,9.3578,77.7721,2024,10650,56.3,24.2,9.5,No,Endangered
+Hawksbill Sea Turtle,Reptile,Madagascar,-19.5583,47.0937,2020,37046,13.6,22.6,5.7,Yes,Least Concern
+Forest Owlet,Bird,Sundarbans,20.687,88.5487,2022,23324,19.5,23.7,5.3,Yes,Least Concern
+Lion-tailed Macaque,Mammal,Arctic Tundra,69.1394,-131.9284,2019,12581,61.1,-10.1,9.2,No,Endangered
+White-bellied Heron,Bird,Madagascar,-17.4638,45.8839,2021,18045,18.1,23.9,4.4,Yes,Least Concern
+Rafflesia Arnoldii,Plant,Western Ghats,11.5941,75.2012,2015,35412,17.8,24.7,2.7,Yes,Least Concern
+Golden Poison Frog,Amphibian,Serengeti,-1.4502,34.5951,2018,4129,66.1,23.1,6.1,No,Vulnerable
+Bengal Florican,Bird,Arctic Tundra,66.6918,-132.3559,2015,10681,48.3,-5.6,7.2,No,Vulnerable
+Komodo Dragon,Reptile,Western Ghats,10.9904,77.6138,2021,17657,26.0,21.0,4.1,Yes,Least Concern
+Clouded Leopard,Mammal,Congo Basin,-0.1436,20.3612,2018,14121,58.1,23.8,6.1,No,Vulnerable
+Great Hornbill,Bird,Borneo Rainforest,1.9967,113.8763,2015,1462,69.2,28.0,6.5,No,Endangered
+Spix's Macaw,Bird,Eastern Himalayas,26.9117,87.7957,2024,2681,56.0,14.6,8.8,No,Endangered
+Hellbender,Amphibian,Borneo Rainforest,1.2026,114.8736,2018,55000,5.9,27.7,5.5,Yes,Least Concern
+Sarus Crane,Bird,Borneo Rainforest,0.5461,113.4801,2018,6569,59.7,26.4,7.2,No,Endangered
+Forest Owlet,Bird,Madagascar,-17.6407,45.9593,2018,6788,54.5,28.0,7.4,No,Endangered
+Nilgiri Tahr,Mammal,Madagascar,-17.4501,46.1974,2023,11029,55.6,23.8,5.1,No,Vulnerable
+Leatherback Turtle,Reptile,Borneo Rainforest,0.1043,115.0919,2022,8586,26.6,24.5,4.8,Yes,Least Concern
+Welwitschia Mirabilis,Plant,Sundarbans,23.0887,88.2177,2016,3172,76.8,25.7,9.5,No,Endangered
+California Condor,Bird,Serengeti,-1.6366,34.0657,2018,13172,55.2,25.0,6.4,No,Vulnerable
+Sloth Bear,Mammal,Serengeti,-2.5469,34.8761,2018,32468,28.8,25.0,7.4,No,Vulnerable
+Ghost Orchid,Plant,Amazon Rainforest,-2.2004,-62.8445,2015,4617,69.1,28.4,7.1,No,Endangered
+Purple Frog,Amphibian,Sundarbans,21.1907,88.0256,2022,8648,61.5,24.1,4.5,No,Vulnerable
+Philippine Eagle,Bird,Serengeti,-2.127,34.1321,2017,11789,60.3,24.8,9.2,No,Endangered
+Nilgiri Tahr,Mammal,Borneo Rainforest,0.3361,115.2281,2022,46009,23.4,25.1,5.2,Yes,Least Concern
+Ganges River Dolphin,Mammal,Borneo Rainforest,2.244,114.2253,2020,15116,21.0,27.9,2.0,Yes,Least Concern
+Golden Poison Frog,Amphibian,Arctic Tundra,69.4311,-133.6815,2015,7802,29.1,-6.5,3.9,Yes,Least Concern
+White-bellied Heron,Bird,Madagascar,-18.1933,47.2651,2020,9642,26.0,25.0,1.5,Yes,Least Concern
+Harpy Eagle,Bird,Sundarbans,21.283,89.6899,2019,22739,22.8,25.1,2.4,Yes,Least Concern
+Red-eyed Tree Frog,Amphibian,Sundarbans,21.0828,90.3619,2023,6597,72.9,26.3,5.6,No,Endangered
+Cheetah,Mammal,Eastern Himalayas,28.3759,89.2283,2017,6893,65.1,13.2,7.8,No,Endangered
+Axolotl,Amphibian,Pantanal Wetlands,-17.161,-57.9827,2023,5926,51.3,26.8,5.8,No,Endangered
+Snow Leopard,Mammal,Eastern Himalayas,27.4042,87.6992,2022,22415,30.0,14.7,7.2,No,Least Concern
+Bornean Orangutan,Mammal,Pantanal Wetlands,-18.5888,-57.9804,2021,12210,40.0,28.2,7.0,No,Vulnerable
+Orinoco Crocodile,Reptile,Amazon Rainforest,-3.2629,-61.8171,2015,17669,28.3,28.7,5.0,Yes,Least Concern
+Hellbender,Amphibian,Madagascar,-19.581,45.7352,2020,19050,49.7,20.1,4.2,No,Least Concern
+Great Indian Bustard,Bird,Borneo Rainforest,1.8747,115.3662,2015,29162,18.6,24.4,2.3,Yes,Least Concern
+Hellbender,Amphibian,Madagascar,-18.4217,47.9886,2020,10728,66.4,23.4,6.9,No,Vulnerable
+Philippine Eagle,Bird,Western Ghats,9.8743,77.5636,2024,35804,20.9,24.4,1.6,Yes,Least Concern
+Cheetah,Mammal,Eastern Himalayas,28.8792,88.3753,2024,25023,25.8,15.1,3.7,Yes,Least Concern
+Giant Panda,Mammal,Borneo Rainforest,0.1237,114.901,2015,38423,24.0,25.1,3.6,Yes,Least Concern
+Tuatara,Reptile,Pantanal Wetlands,-17.3295,-57.9861,2019,14176,44.6,24.2,8.7,No,Vulnerable
+Clouded Leopard,Mammal,Pantanal Wetlands,-18.0675,-55.639,2017,44611,6.2,25.5,3.2,Yes,Least Concern
+California Condor,Bird,Congo Basin,-1.6102,22.5821,2024,17120,50.3,26.4,8.6,No,Vulnerable
+Titan Arum,Plant,Pantanal Wetlands,-16.4514,-57.0005,2017,5495,55.7,23.4,9.3,No,Endangered
+Bornean Orangutan,Mammal,Amazon Rainforest,-2.4979,-62.3437,2021,1926,79.5,24.7,4.3,No,Endangered
+King Cobra,Reptile,Pantanal Wetlands,-16.733,-57.704,2023,4968,47.6,25.0,4.2,No,Least Concern
+Bornean Orangutan,Mammal,Serengeti,-1.6223,35.0092,2020,15730,48.0,20.1,6.5,No,Vulnerable
+Galapagos Giant Tortoise,Reptile,Congo Basin,0.7468,22.1259,2015,7022,59.9,26.9,4.4,No,Vulnerable
+Red Panda,Mammal,Sundarbans,23.1261,88.9552,2017,2011,80.3,27.9,8.7,No,Critically Endangered
+Golden Poison Frog,Amphibian,Arctic Tundra,69.4841,-132.2944,2019,6099,54.6,-5.3,9.6,No,Vulnerable
+Axolotl,Amphibian,Madagascar,-18.1739,46.9468,2020,5869,66.5,21.1,5.5,No,Vulnerable
+White-bellied Heron,Bird,Congo Basin,-0.8676,21.9033,2015,3634,61.8,25.0,9.3,No,Endangered
+Leatherback Turtle,Reptile,Arctic Tundra,69.2693,-132.805,2017,4205,65.2,-7.2,8.8,No,Endangered
+Ganges River Dolphin,Mammal,Arctic Tundra,67.1993,-132.1806,2020,9936,54.4,-5.8,5.1,No,Vulnerable
+Axolotl,Amphibian,Sundarbans,22.9181,90.2335,2024,27818,38.5,25.5,2.8,Yes,Least Concern
+Cheetah,Mammal,Amazon Rainforest,-4.3905,-63.3811,2022,5719,62.3,28.7,8.4,No,Endangered
+Snow Leopard,Mammal,Madagascar,-17.3593,45.3962,2024,19024,49.1,24.1,3.7,Yes,Least Concern
+Asian Elephant,Mammal,Pantanal Wetlands,-17.4953,-57.4146,2018,23330,32.7,29.2,2.0,Yes,Least Concern
+Dragon Blood Tree,Plant,Madagascar,-20.1872,47.9563,2022,9357,69.0,25.7,8.2,No,Endangered
+Red-eyed Tree Frog,Amphibian,Sundarbans,20.5357,87.4056,2020,16070,29.6,26.8,1.7,Yes,Least Concern
+Mountain Gorilla,Mammal,Arctic Tundra,68.5784,-132.9036,2017,24527,41.9,-6.9,7.2,No,Vulnerable
+Orinoco Crocodile,Reptile,Arctic Tundra,69.288,-133.4919,2020,55000,16.2,-9.9,5.1,Yes,Least Concern
+Sloth Bear,Mammal,Western Ghats,9.2986,75.9192,2021,12381,53.0,23.2,9.0,No,Vulnerable
+Dragon Blood Tree,Plant,Eastern Himalayas,27.3876,87.9404,2017,2285,54.8,11.3,9.1,No,Endangered
+Gharial,Reptile,Eastern Himalayas,26.8114,87.1399,2016,34308,11.6,14.3,2.5,Yes,Least Concern
+Galapagos Giant Tortoise,Reptile,Western Ghats,10.1959,76.0175,2021,15337,32.1,22.3,3.2,Yes,Least Concern
+Harpy Eagle,Bird,Madagascar,-19.1594,45.4097,2018,53155,11.7,23.3,2.3,Yes,Least Concern
+Dragon Blood Tree,Plant,Eastern Himalayas,26.9805,87.5174,2022,33882,11.5,16.6,2.8,Yes,Least Concern
+Fire Salamander,Amphibian,Serengeti,-2.1055,35.5425,2016,9000,70.8,21.0,5.3,No,Endangered
+Ganges River Dolphin,Mammal,Pantanal Wetlands,-18.3597,-56.8907,2020,6179,64.3,26.9,5.8,No,Vulnerable
+Orinoco Crocodile,Reptile,Sundarbans,20.9929,88.8389,2016,5879,34.7,23.6,7.8,No,Vulnerable
+Kakapo,Bird,Serengeti,-3.2519,34.2337,2022,51604,16.5,19.3,1.5,Yes,Least Concern
+Red Panda,Mammal,Eastern Himalayas,28.0009,88.3412,2019,9756,46.9,15.8,6.1,No,Vulnerable
+Lion-tailed Macaque,Mammal,Arctic Tundra,68.9372,-133.0706,2024,49608,22.0,-3.7,5.3,Yes,Least Concern
+Asian Elephant,Mammal,Arctic Tundra,66.7384,-133.0178,2015,32344,10.3,-5.3,1.5,Yes,Least Concern
+Snow Leopard,Mammal,Pantanal Wetlands,-17.3538,-57.0568,2021,12763,48.1,27.9,6.7,No,Vulnerable
+Baobab Tree,Plant,Western Ghats,11.8544,76.9118,2018,55000,14.3,25.0,4.7,Yes,Least Concern
+Purple Frog,Amphibian,Eastern Himalayas,28.3907,88.0395,2016,30020,17.3,13.1,2.5,Yes,Least Concern
+Kakapo,Bird,Pantanal Wetlands,-17.8182,-56.3115,2019,21234,42.5,27.0,7.3,No,Vulnerable
+Tuatara,Reptile,Eastern Himalayas,28.4985,87.0577,2022,6240,67.1,13.2,7.4,No,Endangered
+Great Hornbill,Bird,Pantanal Wetlands,-17.9985,-57.0862,2019,51494,10.2,26.2,1.2,Yes,Least Concern
+Venus Flytrap,Plant,Sundarbans,21.1119,88.7128,2021,11597,58.4,25.2,6.3,No,Endangered
+Komodo Dragon,Reptile,Amazon Rainforest,-2.9592,-62.0371,2016,20268,41.3,23.6,9.5,No,Endangered
+Titan Arum,Plant,Amazon Rainforest,-3.666,-62.9699,2020,5831,58.5,26.5,4.3,No,Vulnerable
+Bornean Orangutan,Mammal,Arctic Tundra,69.4524,-133.9389,2015,9037,22.7,-6.4,5.2,Yes,Least Concern
+Leatherback Turtle,Reptile,Madagascar,-17.3783,47.9997,2016,10787,31.9,22.5,3.0,Yes,Least Concern
+Hawksbill Sea Turtle,Reptile,Pantanal Wetlands,-17.9307,-56.6968,2024,8712,60.8,27.7,8.2,No,Vulnerable
+Hawksbill Sea Turtle,Reptile,Serengeti,-2.3543,36.206,2018,51990,20.0,21.1,1.3,Yes,Least Concern
+Philippine Eagle,Bird,Western Ghats,10.3707,76.2327,2017,14994,18.9,26.7,1.3,Yes,Least Concern
+Ganges River Dolphin,Mammal,Serengeti,-1.1342,34.2782,2019,2434,67.5,24.3,5.5,No,Endangered
+Hellbender,Amphibian,Arctic Tundra,68.3279,-134.355,2022,30845,24.7,-5.8,3.3,Yes,Least Concern
+Great Hornbill,Bird,Amazon Rainforest,-2.9682,-61.8614,2016,30468,22.9,27.7,3.7,Yes,Least Concern
+Great Hornbill,Bird,Madagascar,-19.451,47.1267,2024,1656,83.3,22.2,9.0,No,Endangered
+Rafflesia Arnoldii,Plant,Sundarbans,21.3457,90.2237,2016,3442,71.9,27.9,9.7,No,Endangered
+Cheetah,Mammal,Arctic Tundra,67.9178,-133.0122,2015,20846,34.7,-5.9,3.2,Yes,Least Concern
+Dragon Blood Tree,Plant,Pantanal Wetlands,-17.5172,-55.6892,2018,30332,34.2,24.1,5.4,Yes,Least Concern
+Indian Rhinoceros,Mammal,Congo Basin,0.223,20.5646,2023,8573,36.3,26.6,5.0,Yes,Least Concern
+Indian Rhinoceros,Mammal,Western Ghats,11.8151,76.9151,2020,3023,72.8,25.2,5.6,No,Endangered
+Galapagos Giant Tortoise,Reptile,Western Ghats,9.2874,76.4848,2015,3651,63.0,24.0,8.4,No,Endangered
+Chinese Giant Salamander,Amphibian,Western Ghats,11.638,77.813,2015,20875,28.0,22.5,4.7,Yes,Least Concern
+Welwitschia Mirabilis,Plant,Western Ghats,9.7524,75.7585,2018,7493,76.2,24.8,8.3,No,Endangered
+Bornean Orangutan,Mammal,Pantanal Wetlands,-18.6184,-57.3122,2019,13343,56.3,25.5,6.5,No,Endangered
+Snow Leopard,Mammal,Eastern Himalayas,26.3639,87.5265,2023,1510,66.9,14.2,9.2,No,Endangered
+Galapagos Giant Tortoise,Reptile,Western Ghats,10.2943,75.3468,2023,8250,69.5,24.3,8.2,No,Endangered
+Philippine Eagle,Bird,Pantanal Wetlands,-16.3916,-58.2832,2017,5191,57.7,27.3,8.8,No,Endangered
+Giant Panda,Mammal,Borneo Rainforest,1.2075,114.0535,2020,31603,34.4,25.6,7.9,No,Least Concern
+Tuatara,Reptile,Serengeti,-3.0395,36.0569,2015,55000,8.8,23.9,2.5,Yes,Least Concern
+Orinoco Crocodile,Reptile,Arctic Tundra,69.3893,-134.1314,2016,4569,59.7,-4.3,9.0,No,Endangered
+California Condor,Bird,Borneo Rainforest,1.914,114.7095,2019,7132,58.1,27.0,7.6,No,Endangered
+Asian Elephant,Mammal,Borneo Rainforest,0.4293,115.119,2022,5930,39.8,25.8,5.6,No,Vulnerable
+Red Sandalwood,Plant,Madagascar,-18.9178,46.8972,2015,17562,50.3,21.5,4.4,No,Vulnerable
+Spix's Macaw,Bird,Madagascar,-19.1171,47.6504,2024,29318,22.5,23.4,4.7,Yes,Least Concern
+Chinese Giant Salamander,Amphibian,Eastern Himalayas,28.3691,87.5858,2020,7920,66.3,15.6,7.2,No,Endangered
+Bengal Tiger,Mammal,Sundarbans,20.4927,88.0043,2018,51650,19.3,23.8,2.5,Yes,Least Concern
+Orinoco Crocodile,Reptile,Arctic Tundra,66.7232,-134.4373,2021,10127,61.9,-7.5,5.5,No,Vulnerable
+Venus Flytrap,Plant,Serengeti,-2.4723,35.3724,2020,10314,13.4,24.8,4.2,Yes,Least Concern
+Titan Arum,Plant,Pantanal Wetlands,-17.2769,-56.1949,2019,14603,11.7,25.0,4.1,Yes,Least Concern
+Red Panda,Mammal,Western Ghats,11.7338,75.0579,2022,13707,41.8,22.3,3.8,Yes,Least Concern
+Titan Arum,Plant,Eastern Himalayas,28.674,88.3486,2021,3742,72.9,16.2,5.0,No,Endangered
+Snow Leopard,Mammal,Eastern Himalayas,27.6889,87.5615,2022,5462,35.5,14.4,2.0,Yes,Least Concern
+Spix's Macaw,Bird,Sundarbans,21.9758,89.5058,2022,13176,54.7,28.0,5.8,No,Vulnerable
+Giant Panda,Mammal,Sundarbans,20.7315,89.8883,2019,55000,7.8,27.1,1.5,Yes,Least Concern
+California Condor,Bird,Amazon Rainforest,-2.8787,-61.5123,2024,2776,75.2,25.7,5.7,No,Endangered
+Kakapo,Bird,Borneo Rainforest,-0.042,115.1603,2018,18846,23.2,26.8,7.8,No,Least Concern
+King Cobra,Reptile,Sundarbans,21.6285,87.9086,2018,36838,21.8,29.8,4.4,Yes,Least Concern
+Titan Arum,Plant,Sundarbans,23.2347,87.4407,2019,28766,36.6,26.3,5.0,Yes,Least Concern
+Orinoco Crocodile,Reptile,Madagascar,-19.4264,45.5827,2022,2386,82.7,20.9,9.6,No,Critically Endangered
+Clouded Leopard,Mammal,Amazon Rainforest,-2.46,-63.4037,2017,18496,37.8,24.2,4.9,No,Least Concern
+White-bellied Heron,Bird,Pantanal Wetlands,-18.8836,-55.6286,2020,17425,48.9,22.1,7.6,No,Endangered
+Red-eyed Tree Frog,Amphibian,Sundarbans,22.3353,90.0232,2017,24298,41.6,27.1,9.7,No,Vulnerable
+Sloth Bear,Mammal,Amazon Rainforest,-2.2347,-61.1461,2023,15367,39.2,27.3,9.0,No,Vulnerable
+Ghost Orchid,Plant,Borneo Rainforest,2.3494,112.955,2023,22227,44.4,27.0,5.2,No,Least Concern
+Harpy Eagle,Bird,Madagascar,-18.1037,47.3765,2022,26711,32.0,21.9,5.7,Yes,Least Concern
+Snow Leopard,Mammal,Arctic Tundra,68.1009,-132.4128,2016,6052,72.7,-6.6,6.8,No,Endangered
+Bengal Tiger,Mammal,Pantanal Wetlands,-17.8146,-56.5386,2022,40379,23.5,25.8,2.9,Yes,Least Concern
+Dragon Blood Tree,Plant,Western Ghats,10.2325,76.1148,2020,8213,69.0,23.6,9.2,No,Endangered
+Nilgiri Tahr,Mammal,Arctic Tundra,69.1953,-133.9286,2021,27192,11.6,-7.3,3.3,Yes,Least Concern
+California Condor,Bird,Eastern Himalayas,26.9865,89.6293,2024,20676,18.5,15.4,2.0,Yes,Least Concern
+California Condor,Bird,Serengeti,-3.283,35.7607,2024,10981,53.2,21.1,9.4,No,Endangered
+Golden Poison Frog,Amphibian,Madagascar,-17.7565,47.2352,2023,3277,58.2,23.5,8.4,No,Endangered
+Venus Flytrap,Plant,Amazon Rainforest,-2.9626,-62.789,2015,9185,61.7,29.3,4.5,No,Vulnerable
+Black Rhino,Mammal,Madagascar,-18.8701,45.474,2023,31572,19.2,21.0,2.5,Yes,Least Concern
+Black Rhino,Mammal,Sundarbans,21.8486,87.9533,2022,3104,76.8,25.0,6.0,No,Endangered
+Panamanian Golden Frog,Amphibian,Borneo Rainforest,0.7004,115.1822,2022,12441,58.6,22.6,5.0,No,Vulnerable
+Hawksbill Sea Turtle,Reptile,Eastern Himalayas,28.3101,89.907,2016,40386,22.2,13.3,1.4,Yes,Least Concern
+Hawksbill Sea Turtle,Reptile,Arctic Tundra,68.5746,-134.2674,2016,7059,58.2,-6.3,4.1,No,Vulnerable
+Bengal Tiger,Mammal,Pantanal Wetlands,-18.3708,-57.5151,2020,20165,24.7,28.9,3.2,Yes,Least Concern
+Venus Flytrap,Plant,Western Ghats,10.5723,75.0985,2022,6058,50.9,22.3,9.0,No,Endangered
+Bengal Florican,Bird,Congo Basin,-0.9196,21.5449,2017,37456,14.1,24.5,1.5,Yes,Least Concern
+Leatherback Turtle,Reptile,Congo Basin,-1.1954,22.7587,2021,28694,25.0,23.1,4.0,Yes,Least Concern
+Black Rhino,Mammal,Pantanal Wetlands,-16.4477,-57.729,2016,17222,46.3,23.0,8.9,No,Endangered
+Asian Elephant,Mammal,Sundarbans,23.0679,89.7139,2020,12794,23.0,26.4,3.2,Yes,Least Concern
+Asian Elephant,Mammal,Borneo Rainforest,-0.3726,113.8876,2016,9054,69.6,27.7,7.4,No,Endangered
+Hawksbill Sea Turtle,Reptile,Eastern Himalayas,26.3503,88.2462,2022,11118,61.6,15.1,8.5,No,Endangered
+Orinoco Crocodile,Reptile,Serengeti,-3.7735,34.7571,2018,10706,41.6,22.7,3.2,Yes,Least Concern
+Kakapo,Bird,Madagascar,-18.4764,46.2458,2021,6987,56.6,22.9,5.6,No,Endangered
+Galapagos Giant Tortoise,Reptile,Congo Basin,-1.5447,21.6272,2020,29664,20.6,22.2,3.6,Yes,Least Concern
+Ghost Orchid,Plant,Madagascar,-19.7887,46.9154,2015,29435,32.0,24.0,4.6,No,Least Concern
+Philippine Eagle,Bird,Madagascar,-18.6259,45.3668,2015,35128,26.8,25.0,4.3,Yes,Least Concern
+Panamanian Golden Frog,Amphibian,Serengeti,-2.9919,34.1521,2021,30113,22.7,19.4,3.5,Yes,Least Concern
+Cheetah,Mammal,Serengeti,-2.8781,34.9008,2015,3829,66.2,23.7,6.1,No,Endangered
+Dragon Blood Tree,Plant,Eastern Himalayas,28.908,87.3761,2023,7290,54.4,14.4,9.0,No,Endangered
+Axolotl,Amphibian,Amazon Rainforest,-4.5598,-62.3988,2019,11268,28.1,26.9,5.7,No,Least Concern
+Panamanian Golden Frog,Amphibian,Madagascar,-19.3754,47.3328,2020,7017,61.8,23.4,8.1,No,Vulnerable
+Venus Flytrap,Plant,Madagascar,-18.1611,48.2341,2023,44529,22.7,20.4,5.6,Yes,Least Concern
+Hellbender,Amphibian,Arctic Tundra,68.071,-132.889,2023,2498,81.0,-6.7,8.9,No,Endangered
+Golden Poison Frog,Amphibian,Congo Basin,0.2278,22.821,2016,10386,24.3,25.0,4.3,Yes,Least Concern
+Fire Salamander,Amphibian,Amazon Rainforest,-3.8943,-63.696,2019,55000,13.7,28.5,4.1,Yes,Least Concern
+Red-eyed Tree Frog,Amphibian,Amazon Rainforest,-2.7952,-62.3962,2024,5398,65.0,27.7,5.4,No,Endangered
+White-bellied Heron,Bird,Pantanal Wetlands,-16.8104,-56.2522,2023,2670,73.7,23.1,9.0,No,Endangered
+Clouded Leopard,Mammal,Eastern Himalayas,26.6983,89.7708,2015,35494,25.0,15.0,3.0,Yes,Least Concern
+Bornean Orangutan,Mammal,Arctic Tundra,68.5587,-134.3974,2022,51039,18.5,-7.6,1.6,Yes,Least Concern
+Spix's Macaw,Bird,Western Ghats,11.6872,75.5645,2024,12894,26.9,23.6,2.8,Yes,Least Concern
+Great Indian Bustard,Bird,Amazon Rainforest,-4.068,-62.047,2018,8196,64.6,26.7,5.4,No,Vulnerable
+Galapagos Giant Tortoise,Reptile,Serengeti,-1.0369,34.9053,2018,34848,16.8,19.0,1.8,Yes,Least Concern
+Cheetah,Mammal,Eastern Himalayas,28.3201,89.5166,2017,53824,17.4,14.0,4.5,Yes,Least Concern
+Tuatara,Reptile,Amazon Rainforest,-4.7847,-62.3985,2019,17721,30.7,29.3,4.0,Yes,Least Concern
+Ghost Orchid,Plant,Serengeti,-2.6454,35.6283,2021,9754,61.6,23.9,8.4,No,Endangered
+Hawksbill Sea Turtle,Reptile,Congo Basin,-1.1171,20.437,2021,5705,71.8,23.8,7.3,No,Critically Endangered
+Bengal Tiger,Mammal,Borneo Rainforest,2.4915,114.1981,2024,15482,11.2,24.0,3.8,Yes,Least Concern
+White-bellied Heron,Bird,Borneo Rainforest,1.0119,113.1095,2015,14281,53.8,26.9,8.1,No,Endangered
+Fire Salamander,Amphibian,Western Ghats,11.7739,75.3108,2018,11700,62.7,27.9,7.7,No,Endangered
+Spix's Macaw,Bird,Madagascar,-17.5934,46.5445,2016,33403,27.6,23.3,4.2,Yes,Least Concern
+Komodo Dragon,Reptile,Sundarbans,21.8153,89.6316,2017,21496,39.8,23.7,8.7,No,Vulnerable
+Philippine Eagle,Bird,Amazon Rainforest,-3.3908,-63.4681,2021,11857,31.0,26.9,5.5,Yes,Least Concern
+Spix's Macaw,Bird,Eastern Himalayas,26.6779,88.9184,2020,3879,55.6,13.2,7.1,No,Endangered
+Kakapo,Bird,Eastern Himalayas,27.4548,88.4068,2016,48665,10.0,14.6,3.9,Yes,Least Concern
+Orinoco Crocodile,Reptile,Western Ghats,10.9265,77.8527,2021,5443,57.4,24.5,5.6,No,Endangered
+Rafflesia Arnoldii,Plant,Pantanal Wetlands,-18.7558,-56.4347,2015,8286,57.9,26.8,5.2,No,Vulnerable
+Leatherback Turtle,Reptile,Congo Basin,-1.1996,21.3246,2022,9685,66.0,23.6,6.2,No,Vulnerable
+Ghost Orchid,Plant,Serengeti,-1.3843,35.715,2024,6965,43.3,19.2,4.7,No,Vulnerable
+Asian Elephant,Mammal,Madagascar,-19.7328,47.6066,2015,4101,72.0,22.3,5.4,No,Endangered
+Hawksbill Sea Turtle,Reptile,Eastern Himalayas,27.3022,87.5759,2018,44355,11.3,14.7,5.4,Yes,Least Concern
+Venus Flytrap,Plant,Amazon Rainforest,-4.1072,-61.1954,2023,2397,74.7,24.8,9.2,No,Critically Endangered
+Spoon-billed Sandpiper,Bird,Serengeti,-2.4266,34.4274,2023,9278,62.5,24.2,9.3,No,Endangered
+Fire Salamander,Amphibian,Western Ghats,10.0874,75.4557,2017,5649,49.7,26.3,8.5,No,Endangered
+Galapagos Giant Tortoise,Reptile,Amazon Rainforest,-3.1785,-62.302,2023,16913,41.7,27.6,1.2,Yes,Least Concern
+Kakapo,Bird,Western Ghats,10.2213,76.9517,2021,10338,23.2,26.5,3.7,Yes,Least Concern
+Bengal Florican,Bird,Pantanal Wetlands,-17.9669,-56.5553,2020,9049,60.2,24.8,5.3,No,Vulnerable
+Bengal Florican,Bird,Amazon Rainforest,-4.6717,-61.8892,2016,6819,51.6,22.9,7.1,No,Endangered
+Cheetah,Mammal,Serengeti,-2.5774,34.7553,2015,5043,51.9,23.1,7.7,No,Endangered
+Bengal Tiger,Mammal,Congo Basin,-0.4412,22.0976,2016,5424,64.8,22.4,8.1,No,Endangered
+Spix's Macaw,Bird,Arctic Tundra,67.1831,-132.6334,2015,15689,23.2,-7.5,3.6,Yes,Least Concern
+Tuatara,Reptile,Serengeti,-1.7788,35.0158,2015,2322,75.6,24.5,6.3,No,Critically Endangered
+Bengal Florican,Bird,Western Ghats,11.5261,77.161,2017,38611,27.4,24.4,3.9,Yes,Least Concern
+Indian Rhinoceros,Mammal,Congo Basin,-1.7512,22.4779,2019,17770,35.4,24.1,4.8,Yes,Least Concern
+Sarus Crane,Bird,Madagascar,-17.4032,46.0517,2021,4066,80.4,23.9,4.3,No,Endangered
+Sarus Crane,Bird,Eastern Himalayas,27.0496,89.3735,2015,49774,19.1,15.3,1.5,Yes,Least Concern
+Venus Flytrap,Plant,Pantanal Wetlands,-16.3975,-57.3245,2017,13163,42.6,26.1,7.5,No,Vulnerable
+Sarus Crane,Bird,Amazon Rainforest,-3.8233,-62.0014,2024,18933,41.8,25.5,9.3,No,Vulnerable
+Rafflesia Arnoldii,Plant,Arctic Tundra,69.1948,-132.6103,2015,2289,75.8,-5.8,7.1,No,Endangered
+Bengal Florican,Bird,Eastern Himalayas,26.2678,88.1623,2021,9230,61.8,14.6,6.0,No,Vulnerable
+Hawksbill Sea Turtle,Reptile,Madagascar,-18.8206,45.8813,2019,6749,48.6,23.4,7.8,No,Endangered
+Red Sandalwood,Plant,Pantanal Wetlands,-17.9309,-56.5811,2015,41349,27.7,22.0,1.2,Yes,Least Concern
+Hawksbill Sea Turtle,Reptile,Congo Basin,0.1927,22.1295,2017,5423,71.8,25.1,4.9,No,Endangered
+Hawksbill Sea Turtle,Reptile,Madagascar,-17.9617,47.3122,2023,15251,54.9,22.1,8.4,No,Endangered
+Great Indian Bustard,Bird,Amazon Rainforest,-2.6822,-61.3054,2019,38192,22.9,26.9,5.6,Yes,Least Concern
+Baobab Tree,Plant,Sundarbans,22.3792,90.2791,2022,4905,78.0,27.0,6.3,No,Vulnerable
+Clouded Leopard,Mammal,Madagascar,-18.3736,45.4964,2023,26704,30.4,22.6,3.8,Yes,Least Concern
+Black Rhino,Mammal,Eastern Himalayas,26.6302,89.3518,2023,20800,47.1,16.3,9.8,No,Vulnerable
+Sarus Crane,Bird,Sundarbans,21.9942,88.2208,2024,4981,85.4,26.3,9.1,No,Critically Endangered
+California Condor,Bird,Sundarbans,22.434,88.6217,2018,8549,39.8,26.6,7.8,No,Vulnerable
+King Cobra,Reptile,Eastern Himalayas,27.9204,87.8153,2023,41277,6.9,15.4,2.4,Yes,Least Concern
+Nilgiri Tahr,Mammal,Serengeti,-2.6639,35.3847,2018,7195,57.2,26.5,6.3,No,Endangered
+Philippine Eagle,Bird,Serengeti,-2.0401,36.0444,2019,13656,47.4,23.1,3.3,Yes,Least Concern
+Galapagos Giant Tortoise,Reptile,Pantanal Wetlands,-16.6469,-57.6923,2022,42568,10.8,26.1,4.1,Yes,Least Concern
+Kakapo,Bird,Eastern Himalayas,27.2975,88.2558,2017,17881,16.0,18.6,4.2,Yes,Least Concern
+Purple Frog,Amphibian,Pantanal Wetlands,-16.3577,-56.8868,2023,17801,29.0,26.2,2.0,Yes,Least Concern
+Leatherback Turtle,Reptile,Borneo Rainforest,-0.383,114.7521,2016,32832,28.5,27.4,6.7,No,Least Concern
+Nilgiri Tahr,Mammal,Western Ghats,10.3704,77.4776,2023,4645,66.8,27.7,8.0,No,Endangered
+Hellbender,Amphibian,Madagascar,-18.8548,47.2707,2019,8455,72.8,22.6,9.2,No,Endangered
+Galapagos Giant Tortoise,Reptile,Eastern Himalayas,26.3382,88.8833,2021,31397,34.8,13.3,2.8,Yes,Least Concern
+Giant Panda,Mammal,Pantanal Wetlands,-18.5285,-57.8686,2016,5067,69.6,24.1,7.3,No,Endangered
+Bornean Orangutan,Mammal,Pantanal Wetlands,-18.0661,-56.7514,2019,44213,24.4,28.6,4.5,Yes,Least Concern
+Giant Panda,Mammal,Amazon Rainforest,-4.0068,-62.0178,2021,31091,33.3,28.5,4.4,Yes,Least Concern
+Great Hornbill,Bird,Sundarbans,22.1294,90.2017,2022,18547,30.5,23.8,3.5,Yes,Least Concern
+Clouded Leopard,Mammal,Congo Basin,-1.3002,22.986,2017,36456,30.9,25.0,5.1,No,Least Concern
+Giant Panda,Mammal,Borneo Rainforest,-0.3947,114.4542,2020,11132,58.5,26.1,5.0,No,Vulnerable
+Great Indian Bustard,Bird,Congo Basin,-2.0879,21.5008,2019,3369,60.6,25.1,6.2,No,Endangered
+Hawksbill Sea Turtle,Reptile,Arctic Tundra,66.9285,-134.3334,2016,32884,21.8,-4.9,2.8,Yes,Least Concern
+Galapagos Giant Tortoise,Reptile,Serengeti,-3.6867,34.172,2022,5295,61.8,24.0,4.2,No,Vulnerable
+Spoon-billed Sandpiper,Bird,Pantanal Wetlands,-18.2433,-55.8672,2017,36178,22.5,24.9,2.3,Yes,Least Concern
+Venus Flytrap,Plant,Congo Basin,-1.3563,20.6122,2017,27820,33.6,23.3,7.2,No,Least Concern
+Leatherback Turtle,Reptile,Madagascar,-19.4058,46.2324,2020,6615,62.7,24.4,9.0,No,Endangered
+Lion-tailed Macaque,Mammal,Western Ghats,11.6104,77.6773,2015,5042,72.8,22.7,7.0,No,Endangered
+Chinese Giant Salamander,Amphibian,Arctic Tundra,66.82,-132.6065,2015,8336,51.8,-8.7,7.0,No,Vulnerable
+Kakapo,Bird,Western Ghats,10.6343,77.9619,2015,18430,41.1,20.5,7.8,No,Vulnerable
+Spix's Macaw,Bird,Borneo Rainforest,2.3802,112.7026,2022,4413,78.3,25.3,4.9,No,Endangered
+Bornean Orangutan,Mammal,Sundarbans,20.8551,89.1009,2018,3742,43.6,26.5,8.2,No,Endangered
+Spix's Macaw,Bird,Arctic Tundra,69.3963,-133.1934,2023,14472,54.7,-6.3,9.6,No,Endangered
+Kakapo,Bird,Pantanal Wetlands,-16.6646,-58.2906,2023,28642,26.8,25.2,4.5,Yes,Least Concern
+Great Hornbill,Bird,Sundarbans,21.7172,88.2633,2018,5383,76.4,27.3,5.0,No,Endangered
+Purple Frog,Amphibian,Serengeti,-1.6978,34.9815,2017,47102,19.7,23.4,2.3,Yes,Least Concern
+Spix's Macaw,Bird,Amazon Rainforest,-3.2408,-62.0896,2015,3768,63.3,26.7,4.3,No,Vulnerable
+Orinoco Crocodile,Reptile,Western Ghats,9.3372,76.3556,2015,20746,13.0,21.8,1.9,Yes,Least Concern
+Giant Panda,Mammal,Sundarbans,20.5688,88.698,2024,51986,17.0,29.7,3.1,Yes,Least Concern
+Spix's Macaw,Bird,Congo Basin,-0.24,22.5543,2024,5515,50.4,26.3,5.4,No,Vulnerable
+Chinese Giant Salamander,Amphibian,Pantanal Wetlands,-16.9419,-57.696,2016,13248,49.4,29.6,9.4,No,Endangered
+Chinese Giant Salamander,Amphibian,Western Ghats,10.0459,76.7512,2021,12223,31.6,24.4,2.4,Yes,Least Concern
+Galapagos Giant Tortoise,Reptile,Serengeti,-1.1266,33.6296,2024,18060,36.2,23.1,5.9,No,Least Concern
+Chinese Giant Salamander,Amphibian,Arctic Tundra,68.4169,-131.8632,2017,3679,75.7,-7.1,6.6,No,Endangered
+Mountain Gorilla,Mammal,Borneo Rainforest,0.707,114.6974,2016,50550,16.4,27.3,3.2,Yes,Least Concern
+Lion-tailed Macaque,Mammal,Sundarbans,23.2674,89.1407,2022,19056,42.9,27.1,5.6,No,Least Concern
+Dragon Blood Tree,Plant,Serengeti,-1.0771,35.4461,2021,1244,74.1,20.7,4.2,No,Endangered
+Chinese Giant Salamander,Amphibian,Western Ghats,9.2918,75.7608,2023,4221,80.7,22.6,7.7,No,Endangered
+California Condor,Bird,Pantanal Wetlands,-17.1139,-55.7564,2017,24407,30.7,25.7,2.3,Yes,Least Concern
+Red Panda,Mammal,Congo Basin,0.6124,20.5608,2023,9625,33.3,22.5,6.1,No,Least Concern
+Venus Flytrap,Plant,Eastern Himalayas,28.2495,87.5322,2024,47952,23.3,14.2,3.6,Yes,Least Concern
+Kakapo,Bird,Borneo Rainforest,0.5837,113.2815,2015,9640,21.4,29.7,3.2,Yes,Least Concern
+Sarus Crane,Bird,Congo Basin,-1.5942,20.464,2019,5081,72.7,26.2,4.8,No,Endangered
+Giant Panda,Mammal,Pantanal Wetlands,-17.0843,-56.7307,2024,55000,10.7,28.4,3.3,Yes,Least Concern
+Harpy Eagle,Bird,Serengeti,-1.162,35.9878,2022,19040,38.3,22.7,2.6,Yes,Least Concern
+Tuatara,Reptile,Amazon Rainforest,-2.7143,-62.6651,2020,10550,52.4,26.0,4.4,No,Vulnerable
+Axolotl,Amphibian,Pantanal Wetlands,-17.6368,-56.7271,2024,4226,55.9,24.9,5.5,No,Endangered
+Ghost Orchid,Plant,Borneo Rainforest,-0.0079,113.5383,2020,49335,12.4,25.9,5.4,Yes,Least Concern
+Indian Rhinoceros,Mammal,Sundarbans,22.1643,88.5423,2021,46887,11.0,25.5,2.8,Yes,Least Concern
+Chinese Giant Salamander,Amphibian,Madagascar,-19.9534,46.2851,2024,5828,76.6,23.0,6.2,No,Endangered
+Sloth Bear,Mammal,Congo Basin,-0.3476,22.8559,2022,41647,24.8,27.4,2.6,Yes,Least Concern
+Galapagos Giant Tortoise,Reptile,Congo Basin,-1.4829,21.107,2018,10565,49.5,29.5,5.2,No,Vulnerable
+Kakapo,Bird,Serengeti,-3.0771,34.6393,2021,40241,14.8,24.6,3.6,Yes,Least Concern
+Purple Frog,Amphibian,Arctic Tundra,66.5525,-131.5789,2016,8456,73.1,-6.0,7.0,No,Endangered
+Sloth Bear,Mammal,Pantanal Wetlands,-18.61,-56.4177,2021,907,80.2,27.4,7.6,No,Critically Endangered
+Galapagos Giant Tortoise,Reptile,Western Ghats,11.7253,76.5717,2022,15499,19.5,20.9,4.5,Yes,Least Concern
+Red-eyed Tree Frog,Amphibian,Arctic Tundra,67.1693,-132.6843,2016,10338,62.3,-7.4,6.2,No,Endangered
+Hawksbill Sea Turtle,Reptile,Serengeti,-3.2592,35.1808,2023,18289,18.6,22.3,4.1,Yes,Least Concern
+Red Sandalwood,Plant,Western Ghats,10.2415,76.7343,2017,10681,53.8,23.4,9.5,No,Endangered
+Red Sandalwood,Plant,Borneo Rainforest,-0.074,114.4443,2020,7252,56.6,29.3,4.6,No,Vulnerable
+Sloth Bear,Mammal,Borneo Rainforest,1.968,114.4453,2021,6840,43.8,27.8,2.2,Yes,Least Concern
+Venus Flytrap,Plant,Serengeti,-0.9769,35.9141,2024,55000,11.0,25.0,4.7,Yes,Least Concern
+Gharial,Reptile,Eastern Himalayas,28.7025,89.1551,2020,7156,61.8,14.7,8.7,No,Endangered
+Orinoco Crocodile,Reptile,Amazon Rainforest,-2.7435,-63.4468,2018,2882,80.0,25.8,5.4,No,Endangered
+Bornean Orangutan,Mammal,Borneo Rainforest,0.3668,113.371,2023,36449,30.9,26.2,5.4,Yes,Least Concern
+Fire Salamander,Amphibian,Eastern Himalayas,28.7485,89.867,2016,3037,71.5,15.2,6.1,No,Endangered
+Lion-tailed Macaque,Mammal,Borneo Rainforest,0.9298,114.8985,2020,13754,24.5,25.8,2.3,Yes,Least Concern
+Axolotl,Amphibian,Eastern Himalayas,28.9851,87.592,2018,2249,76.2,14.8,8.6,No,Critically Endangered
+Clouded Leopard,Mammal,Madagascar,-18.1543,47.2016,2019,4843,70.3,25.3,7.8,No,Endangered
+Forest Owlet,Bird,Arctic Tundra,68.7791,-132.807,2016,14560,15.3,-5.1,1.8,Yes,Least Concern
+White-bellied Heron,Bird,Madagascar,-18.0892,45.8362,2016,24998,29.6,21.2,9.5,No,Vulnerable
+Clouded Leopard,Mammal,Madagascar,-19.9697,46.2307,2020,6824,60.5,23.4,9.6,No,Endangered
+Hellbender,Amphibian,Congo Basin,-0.645,21.9427,2017,14034,25.6,25.6,3.6,Yes,Least Concern
+Nilgiri Tahr,Mammal,Arctic Tundra,66.8201,-132.85,2018,4339,59.0,-4.0,4.5,No,Vulnerable
+Indian Rhinoceros,Mammal,Arctic Tundra,68.7349,-132.5997,2021,10116,63.7,-4.3,8.0,No,Endangered
+Bengal Tiger,Mammal,Arctic Tundra,66.804,-133.34,2019,25584,9.2,-3.8,2.6,Yes,Least Concern
+Venus Flytrap,Plant,Eastern Himalayas,27.563,88.8639,2023,8442,60.9,9.8,8.3,No,Endangered
+Dragon Blood Tree,Plant,Arctic Tundra,67.2619,-133.8097,2019,12100,51.2,-4.1,7.4,No,Vulnerable
+Black Rhino,Mammal,Serengeti,-2.042,34.15,2016,15940,54.0,23.3,4.2,No,Vulnerable
+Clouded Leopard,Mammal,Eastern Himalayas,28.6616,89.2975,2020,10301,58.7,13.1,6.9,No,Vulnerable
+Ganges River Dolphin,Mammal,Amazon Rainforest,-2.671,-62.2674,2022,2205,60.6,25.9,8.2,No,Endangered
+Snow Leopard,Mammal,Madagascar,-17.5891,48.1183,2023,4479,63.2,22.9,7.0,No,Endangered
+Tuatara,Reptile,Congo Basin,-0.3764,22.2985,2021,7561,64.0,25.5,7.6,No,Endangered
+Hawksbill Sea Turtle,Reptile,Pantanal Wetlands,-18.2673,-55.7893,2017,51842,16.4,24.2,4.1,Yes,Least Concern
+Bornean Orangutan,Mammal,Western Ghats,9.7381,77.6318,2018,8324,65.3,24.5,7.8,No,Endangered
+Orinoco Crocodile,Reptile,Western Ghats,10.348,77.6817,2018,2230,68.1,24.0,6.5,No,Endangered
+Tuatara,Reptile,Borneo Rainforest,-0.2202,114.6227,2018,27968,27.1,27.8,1.7,Yes,Least Concern
+Nilgiri Tahr,Mammal,Arctic Tundra,69.0048,-133.5918,2015,12021,55.3,-5.7,5.2,No,Vulnerable
+Galapagos Giant Tortoise,Reptile,Pantanal Wetlands,-18.1452,-56.5584,2022,13936,13.5,27.3,4.5,Yes,Least Concern
+Red Sandalwood,Plant,Arctic Tundra,68.9374,-132.8146,2023,5696,59.4,-8.7,7.6,No,Endangered
+Black Rhino,Mammal,Sundarbans,22.6179,90.1486,2023,7206,62.8,26.8,4.1,No,Vulnerable
+Forest Owlet,Bird,Eastern Himalayas,28.4036,88.4243,2023,24763,19.2,14.2,4.1,Yes,Least Concern
+Purple Frog,Amphibian,Amazon Rainforest,-2.7084,-61.2139,2018,23751,6.6,27.1,2.4,Yes,Least Concern
+Red Panda,Mammal,Western Ghats,9.5035,77.3663,2017,33341,22.6,24.2,2.2,Yes,Least Concern
+Panamanian Golden Frog,Amphibian,Congo Basin,-0.037,22.0995,2017,6654,28.2,22.3,2.6,Yes,Least Concern
+Spix's Macaw,Bird,Madagascar,-19.1004,45.9833,2021,17553,16.6,19.5,1.9,Yes,Least Concern
+Red-eyed Tree Frog,Amphibian,Arctic Tundra,67.2152,-134.4874,2020,23700,26.8,-4.9,2.9,Yes,Least Concern
+Bornean Orangutan,Mammal,Borneo Rainforest,2.3013,113.418,2023,4213,72.6,27.1,4.9,No,Endangered
+Bornean Orangutan,Mammal,Eastern Himalayas,27.6998,89.1719,2015,6828,61.0,13.5,9.1,No,Endangered
+Bornean Orangutan,Mammal,Madagascar,-17.9453,46.0153,2016,53563,18.6,23.7,3.7,Yes,Least Concern
+Sloth Bear,Mammal,Eastern Himalayas,26.2732,88.7487,2015,16517,53.0,14.1,8.5,No,Vulnerable
+Philippine Eagle,Bird,Arctic Tundra,68.7204,-133.7365,2021,6539,74.7,-4.9,7.3,No,Endangered
+Chinese Giant Salamander,Amphibian,Amazon Rainforest,-2.6451,-62.5397,2021,12079,50.5,27.0,5.1,No,Vulnerable
+Great Hornbill,Bird,Madagascar,-19.8369,45.9648,2023,6527,61.5,23.6,6.7,No,Endangered
+Sarus Crane,Bird,Eastern Himalayas,26.7305,89.6495,2019,12814,53.7,11.1,6.5,No,Vulnerable
+Lion-tailed Macaque,Mammal,Arctic Tundra,66.5034,-133.6528,2019,15828,43.6,-6.4,6.9,No,Vulnerable
+Great Hornbill,Bird,Congo Basin,-2.1107,21.5124,2022,13128,37.1,23.8,5.1,No,Vulnerable
+California Condor,Bird,Western Ghats,9.7377,75.0526,2023,13618,40.7,23.5,6.1,No,Endangered
+Tuatara,Reptile,Amazon Rainforest,-3.2779,-62.3492,2017,46434,11.2,26.5,4.1,Yes,Least Concern
+Giant Panda,Mammal,Sundarbans,23.3,89.5813,2015,55000,11.0,24.5,1.7,Yes,Least Concern
+Black Rhino,Mammal,Borneo Rainforest,0.5065,112.921,2021,4256,75.7,25.7,7.6,No,Endangered
+Hellbender,Amphibian,Eastern Himalayas,28.6359,89.351,2019,9432,69.6,17.4,7.5,No,Endangered
+Gharial,Reptile,Pantanal Wetlands,-18.1243,-57.0309,2024,19166,28.4,26.6,4.8,No,Least Concern
+Harpy Eagle,Bird,Amazon Rainforest,-4.4878,-63.5036,2017,5193,80.5,23.4,4.4,No,Endangered
+Baobab Tree,Plant,Amazon Rainforest,-2.4813,-61.4495,2017,2220,69.4,26.6,5.3,No,Endangered
+Great Indian Bustard,Bird,Serengeti,-0.8525,33.7701,2015,24562,16.2,22.6,5.8,Yes,Least Concern
+Bengal Florican,Bird,Amazon Rainforest,-4.4955,-61.5655,2021,3566,74.0,26.4,6.3,No,Endangered
+Ghost Orchid,Plant,Congo Basin,0.0412,21.8489,2018,1772,73.4,26.1,6.2,No,Critically Endangered
+Komodo Dragon,Reptile,Western Ghats,9.8221,77.7622,2023,6930,40.2,22.7,8.9,No,Vulnerable
+Galapagos Giant Tortoise,Reptile,Congo Basin,0.6237,22.218,2017,1847,82.0,28.6,8.9,No,Critically Endangered
+Welwitschia Mirabilis,Plant,Eastern Himalayas,28.3681,89.137,2015,14195,31.7,15.0,9.5,No,Vulnerable
+Lion-tailed Macaque,Mammal,Borneo Rainforest,1.6418,114.8778,2015,41996,25.5,25.7,8.3,No,Least Concern
+Nilgiri Tahr,Mammal,Borneo Rainforest,2.3806,114.4229,2023,14961,51.8,28.1,4.2,No,Vulnerable
+Rafflesia Arnoldii,Plant,Western Ghats,10.8283,75.374,2024,9554,62.3,21.9,4.6,No,Vulnerable
+Orinoco Crocodile,Reptile,Madagascar,-19.1128,47.2245,2015,3420,58.0,23.8,5.1,No,Endangered
+Bengal Florican,Bird,Serengeti,-3.4275,34.8211,2024,32493,12.3,22.4,4.1,Yes,Least Concern
+Bornean Orangutan,Mammal,Sundarbans,22.8914,88.1104,2024,8292,45.0,27.4,5.2,No,Vulnerable
+Axolotl,Amphibian,Congo Basin,-1.693,21.383,2023,9475,65.3,25.8,6.8,No,Vulnerable
+California Condor,Bird,Eastern Himalayas,26.431,87.1379,2021,7699,75.7,13.7,7.3,No,Endangered
+Clouded Leopard,Mammal,Sundarbans,23.1224,87.6894,2023,14056,45.5,25.9,7.0,No,Vulnerable
+Hawksbill Sea Turtle,Reptile,Congo Basin,-0.1526,20.2562,2020,17128,52.0,25.7,9.1,No,Endangered
+Orinoco Crocodile,Reptile,Arctic Tundra,66.6793,-134.4469,2020,55000,12.1,-6.5,5.2,Yes,Least Concern
+Red-eyed Tree Frog,Amphibian,Serengeti,-3.3416,35.0472,2019,5866,59.8,20.4,6.0,No,Vulnerable
+Hawksbill Sea Turtle,Reptile,Pantanal Wetlands,-16.6216,-57.1925,2019,2540,72.5,29.8,7.5,No,Endangered
+Kakapo,Bird,Serengeti,-2.4464,34.3008,2018,16851,13.5,25.0,2.4,Yes,Least Concern
+California Condor,Bird,Borneo Rainforest,0.4031,113.9507,2023,39838,23.0,28.1,3.8,Yes,Least Concern
+Cheetah,Mammal,Congo Basin,-1.8918,21.3173,2024,4379,38.2,24.1,3.2,Yes,Least Concern
+Bornean Orangutan,Mammal,Amazon Rainforest,-4.2323,-62.2378,2021,34370,19.3,27.3,2.4,Yes,Least Concern
+Asian Elephant,Mammal,Arctic Tundra,68.4655,-132.7626,2024,21199,26.6,-2.3,5.7,Yes,Least Concern
+Golden Poison Frog,Amphibian,Western Ghats,10.5408,76.986,2018,7057,68.3,22.8,6.1,No,Endangered
+Clouded Leopard,Mammal,Borneo Rainforest,0.1105,114.167,2023,13218,60.3,26.7,6.0,No,Vulnerable
+Spix's Macaw,Bird,Western Ghats,11.5268,77.2393,2018,6957,77.4,25.8,4.5,No,Endangered
+Ghost Orchid,Plant,Sundarbans,22.4824,90.061,2019,12631,54.3,24.3,5.6,No,Vulnerable
+California Condor,Bird,Sundarbans,21.6577,88.2737,2022,2372,65.3,24.4,5.9,No,Endangered
+Gharial,Reptile,Western Ghats,10.7179,77.7715,2016,3936,50.9,22.1,9.1,No,Vulnerable
+Titan Arum,Plant,Congo Basin,-1.8389,20.3573,2020,36706,26.2,26.5,2.9,Yes,Least Concern
+Ganges River Dolphin,Mammal,Sundarbans,22.0822,89.3763,2017,22270,40.8,28.0,1.8,Yes,Least Concern
+Snow Leopard,Mammal,Western Ghats,11.0252,77.3003,2018,8351,52.5,22.6,7.3,No,Vulnerable
+Komodo Dragon,Reptile,Western Ghats,9.7907,77.2829,2015,4820,48.1,22.4,9.4,No,Endangered
+Red Panda,Mammal,Amazon Rainforest,-2.5097,-61.1727,2024,5494,63.0,24.3,8.1,No,Endangered
+Purple Frog,Amphibian,Pantanal Wetlands,-18.4567,-58.365,2016,55000,12.0,27.3,3.3,Yes,Least Concern
+Clouded Leopard,Mammal,Eastern Himalayas,28.1835,88.8656,2023,20827,33.7,13.6,1.2,Yes,Least Concern
+Welwitschia Mirabilis,Plant,Borneo Rainforest,-0.0804,113.6952,2022,10250,43.1,26.9,9.2,No,Vulnerable
+White-bellied Heron,Bird,Arctic Tundra,69.3713,-132.4271,2017,7251,48.9,-3.0,7.9,No,Vulnerable
+Cheetah,Mammal,Madagascar,-18.0968,47.5111,2024,15100,12.1,23.8,5.4,Yes,Least Concern
+Red-eyed Tree Frog,Amphibian,Congo Basin,0.229,22.4696,2021,2316,76.2,27.3,5.4,No,Endangered
+Red-eyed Tree Frog,Amphibian,Amazon Rainforest,-2.1964,-61.2076,2018,7913,50.4,30.0,7.9,No,Vulnerable
+Ghost Orchid,Plant,Sundarbans,23.1348,88.4474,2019,33513,19.2,27.3,3.7,Yes,Least Concern
+Bornean Orangutan,Mammal,Eastern Himalayas,27.8683,87.3355,2022,1877,70.9,17.3,8.8,No,Critically Endangered
+Sloth Bear,Mammal,Borneo Rainforest,0.7197,114.052,2021,4771,73.7,29.4,6.4,No,Endangered
+Ghost Orchid,Plant,Serengeti,-3.1169,35.9877,2016,6566,41.5,22.4,2.7,Yes,Least Concern
+Dragon Blood Tree,Plant,Serengeti,-3.2121,36.0781,2015,12355,53.3,23.1,8.5,No,Endangered
+Hawksbill Sea Turtle,Reptile,Sundarbans,21.2784,89.4807,2015,16373,46.9,27.2,8.6,No,Vulnerable
+Leatherback Turtle,Reptile,Western Ghats,9.5323,76.6965,2021,50374,11.4,22.0,3.4,Yes,Least Concern
+Titan Arum,Plant,Amazon Rainforest,-4.5651,-62.3225,2020,10791,60.5,25.0,7.2,No,Vulnerable
+Cheetah,Mammal,Serengeti,-1.7342,34.2784,2023,11871,30.8,20.6,3.0,Yes,Least Concern
+Mountain Gorilla,Mammal,Congo Basin,-1.5269,22.3873,2018,4220,55.1,27.0,5.0,No,Vulnerable
+Philippine Eagle,Bird,Borneo Rainforest,2.2795,114.9469,2016,51578,12.1,29.3,1.5,Yes,Least Concern
+Black Rhino,Mammal,Arctic Tundra,67.4194,-132.2024,2019,9227,57.2,-6.2,5.4,No,Vulnerable
+Lion-tailed Macaque,Mammal,Congo Basin,0.1186,20.6572,2017,12339,18.2,27.6,2.4,Yes,Least Concern
+Leatherback Turtle,Reptile,Sundarbans,23.3228,89.8859,2018,15174,11.6,28.5,5.4,Yes,Least Concern
+Chinese Giant Salamander,Amphibian,Sundarbans,21.4578,88.1283,2023,8424,48.4,26.6,6.6,No,Vulnerable
+Golden Poison Frog,Amphibian,Amazon Rainforest,-2.9495,-61.4242,2024,14436,55.1,26.2,8.3,No,Endangered
+Bengal Florican,Bird,Congo Basin,-1.0944,21.6475,2020,7173,63.7,24.3,6.2,No,Endangered
+Purple Frog,Amphibian,Pantanal Wetlands,-17.4845,-55.9367,2023,17487,34.6,27.9,6.0,No,Vulnerable
+Welwitschia Mirabilis,Plant,Pantanal Wetlands,-18.6158,-58.4635,2019,13354,52.2,29.4,8.4,No,Endangered
+Mountain Gorilla,Mammal,Pantanal Wetlands,-18.0825,-55.7061,2024,9920,55.3,24.7,7.8,No,Endangered
+Kakapo,Bird,Eastern Himalayas,28.7646,88.6097,2020,9004,58.3,14.1,8.6,No,Endangered
+Red Panda,Mammal,Sundarbans,21.3217,88.5159,2018,2712,73.1,28.4,5.0,No,Endangered
+Orinoco Crocodile,Reptile,Serengeti,-3.0586,36.0132,2017,1738,61.8,23.9,8.4,No,Endangered
+Bornean Orangutan,Mammal,Pantanal Wetlands,-17.1798,-57.1417,2020,4794,73.6,27.2,9.2,No,Endangered
+Lion-tailed Macaque,Mammal,Amazon Rainforest,-2.9089,-63.5127,2020,47183,20.5,27.2,4.4,Yes,Least Concern
+Great Hornbill,Bird,Congo Basin,-0.4949,20.3259,2023,18684,27.9,24.5,5.7,Yes,Least Concern
+Philippine Eagle,Bird,Arctic Tundra,68.7488,-132.888,2016,11183,55.6,-7.5,9.8,No,Endangered
+Leatherback Turtle,Reptile,Eastern Himalayas,27.198,88.9987,2022,4861,68.5,11.9,5.2,No,Endangered
+Tuatara,Reptile,Eastern Himalayas,28.7196,89.4658,2024,10393,49.5,13.8,5.9,No,Vulnerable
+Venus Flytrap,Plant,Congo Basin,-1.6271,21.557,2015,8463,68.4,26.6,8.9,No,Endangered
+Nilgiri Tahr,Mammal,Western Ghats,10.0046,77.0345,2021,11969,61.1,21.0,6.0,No,Endangered
+Baobab Tree,Plant,Serengeti,-1.0847,35.4773,2017,47150,14.0,20.4,4.7,Yes,Least Concern
+Harpy Eagle,Bird,Borneo Rainforest,0.3337,114.0062,2017,9981,64.0,25.8,4.7,No,Endangered
+Purple Frog,Amphibian,Congo Basin,-1.7272,20.7095,2021,4173,55.1,27.1,5.6,No,Vulnerable
+Golden Poison Frog,Amphibian,Congo Basin,-0.8352,20.027,2021,9166,64.8,25.3,6.3,No,Endangered
+Titan Arum,Plant,Borneo Rainforest,0.1599,114.3243,2021,2567,64.5,26.2,6.1,No,Endangered
+Sarus Crane,Bird,Sundarbans,22.0524,89.2822,2024,21188,40.1,24.7,6.2,No,Vulnerable
+Red-eyed Tree Frog,Amphibian,Borneo Rainforest,1.6325,114.6953,2017,3609,63.4,26.8,9.6,No,Endangered
+Komodo Dragon,Reptile,Western Ghats,10.6203,76.8336,2015,18493,23.1,23.2,4.2,Yes,Least Concern
+Purple Frog,Amphibian,Madagascar,-17.8066,45.8293,2017,6360,67.4,24.8,6.1,No,Endangered
+Galapagos Giant Tortoise,Reptile,Madagascar,-19.0066,47.8857,2021,13214,10.8,20.2,4.4,Yes,Least Concern
+Golden Poison Frog,Amphibian,Borneo Rainforest,2.0064,112.7747,2016,22231,43.8,26.8,9.3,No,Vulnerable
+Tuatara,Reptile,Amazon Rainforest,-3.0312,-62.3652,2015,12083,47.1,28.6,6.3,No,Vulnerable
+Welwitschia Mirabilis,Plant,Pantanal Wetlands,-16.3005,-58.4882,2019,4585,48.3,26.1,7.6,No,Endangered
+Panamanian Golden Frog,Amphibian,Sundarbans,23.1207,89.1716,2015,29009,32.5,26.7,2.8,Yes,Least Concern
+Ghost Orchid,Plant,Eastern Himalayas,27.4187,87.5774,2023,11879,25.9,15.6,2.3,Yes,Least Concern
+Red Panda,Mammal,Congo Basin,-1.9336,21.4106,2016,5922,53.9,26.3,6.4,No,Endangered
+Venus Flytrap,Plant,Amazon Rainforest,-2.2537,-62.4259,2018,28191,20.2,27.0,2.5,Yes,Least Concern
+King Cobra,Reptile,Pantanal Wetlands,-16.5135,-55.867,2015,2672,77.0,25.2,7.9,No,Endangered
+Hellbender,Amphibian,Madagascar,-18.509,47.2408,2016,8221,64.7,24.0,8.2,No,Endangered
+Hellbender,Amphibian,Congo Basin,-0.0471,20.7563,2021,2031,79.4,26.8,8.3,No,Endangered
+Snow Leopard,Mammal,Serengeti,-3.7308,34.3404,2015,21381,37.2,23.3,7.9,No,Least Concern
+Welwitschia Mirabilis,Plant,Eastern Himalayas,26.6323,89.3164,2016,30699,20.9,10.8,5.2,Yes,Least Concern
+Gharial,Reptile,Sundarbans,22.6839,89.8642,2017,15812,49.4,24.0,8.8,No,Vulnerable
+Kakapo,Bird,Western Ghats,11.9996,76.9325,2019,19539,46.8,26.8,5.8,No,Vulnerable
+Leatherback Turtle,Reptile,Madagascar,-18.4156,47.5662,2016,27241,7.8,24.4,4.5,Yes,Least Concern
+Ghost Orchid,Plant,Sundarbans,21.7425,89.4375,2023,9699,58.9,26.1,7.7,No,Vulnerable
+Harpy Eagle,Bird,Borneo Rainforest,1.0576,112.9034,2021,2823,70.4,24.9,7.8,No,Endangered
+Giant Panda,Mammal,Amazon Rainforest,-3.2909,-62.2553,2017,9643,67.4,30.2,5.5,No,Endangered
+Great Hornbill,Bird,Madagascar,-19.2366,46.0409,2018,10956,50.9,21.7,9.2,No,Vulnerable
+Great Hornbill,Bird,Serengeti,-2.1417,35.6289,2015,8516,62.1,20.1,5.0,No,Endangered
+Red Sandalwood,Plant,Eastern Himalayas,27.8236,88.4386,2016,7370,22.9,19.8,5.7,Yes,Least Concern
+Sarus Crane,Bird,Amazon Rainforest,-3.8985,-62.7166,2021,55000,10.8,27.8,4.8,Yes,Least Concern
+King Cobra,Reptile,Congo Basin,-0.9736,20.9527,2021,5891,76.2,24.0,7.3,No,Endangered
+Lion-tailed Macaque,Mammal,Madagascar,-18.6844,45.3902,2018,21640,37.3,18.6,8.1,No,Vulnerable
+Rafflesia Arnoldii,Plant,Sundarbans,20.8954,90.3734,2016,16914,17.4,25.9,2.3,Yes,Least Concern
+Harpy Eagle,Bird,Amazon Rainforest,-2.8958,-60.8377,2018,5465,66.2,25.3,9.6,No,Endangered
+Venus Flytrap,Plant,Serengeti,-1.3209,34.9404,2019,2480,56.8,23.1,4.9,No,Endangered
+Titan Arum,Plant,Madagascar,-17.2502,46.1889,2022,13329,48.2,21.7,7.0,No,Vulnerable
+King Cobra,Reptile,Western Ghats,9.9993,75.0314,2021,30495,28.6,23.4,3.6,Yes,Least Concern
+Ghost Orchid,Plant,Eastern Himalayas,28.0238,87.2128,2015,55000,16.1,12.1,4.1,Yes,Least Concern
+Purple Frog,Amphibian,Congo Basin,-0.6333,20.16,2022,16308,47.1,27.8,8.4,No,Vulnerable
+Galapagos Giant Tortoise,Reptile,Arctic Tundra,68.994,-132.5612,2019,4815,65.1,-3.3,4.1,No,Vulnerable
+Venus Flytrap,Plant,Sundarbans,21.6659,90.2512,2020,13327,37.2,25.1,9.1,No,Vulnerable
+Clouded Leopard,Mammal,Arctic Tundra,69.0489,-132.217,2018,16272,46.9,-6.9,3.8,Yes,Least Concern
+Cheetah,Mammal,Sundarbans,21.0621,89.3457,2021,21810,35.1,30.8,5.9,No,Least Concern
+Black Rhino,Mammal,Borneo Rainforest,0.7953,115.1676,2021,37806,21.7,30.4,3.6,Yes,Least Concern
+Snow Leopard,Mammal,Congo Basin,0.1032,21.4835,2020,8652,22.9,21.6,3.8,Yes,Least Concern
+Venus Flytrap,Plant,Western Ghats,10.907,77.1398,2023,13137,37.9,24.2,9.7,No,Vulnerable
+Panamanian Golden Frog,Amphibian,Madagascar,-18.2971,47.8742,2023,8552,36.1,21.4,5.8,No,Vulnerable
+Panamanian Golden Frog,Amphibian,Western Ghats,9.6599,76.0126,2024,5936,70.0,24.8,8.9,No,Endangered
+Sloth Bear,Mammal,Western Ghats,9.8473,77.5983,2023,43622,10.7,24.3,5.7,Yes,Least Concern
+White-bellied Heron,Bird,Serengeti,-1.3961,35.6591,2021,17480,50.4,23.0,3.9,Yes,Least Concern
+Axolotl,Amphibian,Pantanal Wetlands,-16.3094,-57.5314,2021,20771,19.3,26.4,3.1,Yes,Least Concern
+Giant Panda,Mammal,Amazon Rainforest,-3.5082,-62.9605,2022,985,80.0,27.6,7.4,No,Critically Endangered
+Ghost Orchid,Plant,Borneo Rainforest,0.8349,114.023,2016,9323,26.1,27.9,1.3,Yes,Least Concern
+Leatherback Turtle,Reptile,Arctic Tundra,68.4483,-133.7715,2015,4997,75.0,-7.4,6.0,No,Endangered
+Spoon-billed Sandpiper,Bird,Eastern Himalayas,28.6906,89.7343,2023,36880,14.8,15.4,1.8,Yes,Least Concern
+Sarus Crane,Bird,Amazon Rainforest,-2.8906,-60.885,2015,49640,14.5,26.1,1.3,Yes,Least Concern
+Galapagos Giant Tortoise,Reptile,Eastern Himalayas,26.6619,87.7055,2022,27432,30.2,15.8,4.9,Yes,Least Concern
+Red-eyed Tree Frog,Amphibian,Western Ghats,11.9342,77.5983,2017,24985,14.7,25.7,5.1,Yes,Least Concern
+Bengal Florican,Bird,Congo Basin,-1.9057,22.9265,2018,5329,59.9,27.0,8.5,No,Endangered
+Ghost Orchid,Plant,Sundarbans,20.974,87.8665,2019,27325,37.6,24.0,5.3,Yes,Least Concern
+Giant Panda,Mammal,Arctic Tundra,67.4952,-131.7052,2022,46831,11.9,-2.9,5.8,Yes,Least Concern
+Baobab Tree,Plant,Western Ghats,9.6607,76.9966,2017,16637,38.6,25.1,4.0,Yes,Least Concern
+Ghost Orchid,Plant,Amazon Rainforest,-3.8679,-61.0763,2017,24595,29.2,24.4,3.3,Yes,Least Concern
+Asian Elephant,Mammal,Madagascar,-17.9345,47.0909,2021,11627,57.1,24.4,4.4,No,Vulnerable
+Clouded Leopard,Mammal,Congo Basin,-0.7617,20.7837,2018,21134,37.4,23.9,8.0,No,Vulnerable
+Ganges River Dolphin,Mammal,Arctic Tundra,68.6567,-133.0297,2020,23833,19.2,-7.0,2.7,Yes,Least Concern
+Welwitschia Mirabilis,Plant,Serengeti,-2.1865,34.0943,2023,5864,75.2,23.7,7.2,No,Endangered
+Purple Frog,Amphibian,Sundarbans,20.5589,87.6352,2016,3422,67.4,23.5,6.4,No,Endangered
+Hellbender,Amphibian,Sundarbans,20.9583,88.2693,2022,43791,8.2,27.9,5.8,Yes,Least Concern
+Sarus Crane,Bird,Eastern Himalayas,27.2166,87.6817,2016,33405,13.6,15.6,5.3,Yes,Least Concern
+Fire Salamander,Amphibian,Sundarbans,23.3721,89.237,2020,5333,64.6,26.9,4.0,No,Endangered
+Harpy Eagle,Bird,Borneo Rainforest,-0.488,113.4372,2020,4029,79.9,27.8,8.0,No,Endangered
+King Cobra,Reptile,Borneo Rainforest,1.0091,113.8687,2017,7718,65.5,26.1,5.2,No,Vulnerable
+Galapagos Giant Tortoise,Reptile,Serengeti,-2.4002,34.3101,2020,3578,73.1,18.3,7.2,No,Endangered
+Red Panda,Mammal,Amazon Rainforest,-4.8271,-61.2266,2021,5354,61.6,28.7,9.0,No,Endangered
+Red-eyed Tree Frog,Amphibian,Western Ghats,9.5234,75.7101,2021,42639,6.9,24.5,2.9,Yes,Least Concern
+Spix's Macaw,Bird,Serengeti,-1.7109,35.996,2019,15536,39.5,22.0,7.4,No,Vulnerable
+California Condor,Bird,Arctic Tundra,67.5254,-132.4734,2024,55000,12.1,-6.4,2.9,Yes,Least Concern
+Leatherback Turtle,Reptile,Arctic Tundra,68.3229,-133.1403,2017,2219,70.3,-6.2,7.5,No,Endangered
+Snow Leopard,Mammal,Madagascar,-17.775,47.547,2017,3021,79.4,26.0,7.2,No,Endangered
+Sloth Bear,Mammal,Congo Basin,-1.9771,22.0879,2019,13822,57.7,24.6,6.3,No,Least Concern
+Komodo Dragon,Reptile,Eastern Himalayas,26.9744,89.7961,2021,7228,62.1,14.1,4.9,No,Vulnerable
+Baobab Tree,Plant,Sundarbans,22.1057,89.724,2018,3319,71.8,25.9,7.1,No,Endangered
+Venus Flytrap,Plant,Congo Basin,0.1204,22.1797,2016,25104,30.9,27.6,5.1,Yes,Least Concern
+Red Panda,Mammal,Sundarbans,21.8568,90.2499,2023,28239,13.1,27.0,5.0,Yes,Least Concern
+Bornean Orangutan,Mammal,Amazon Rainforest,-2.4977,-61.2118,2023,9855,30.6,26.5,3.6,Yes,Least Concern
+Titan Arum,Plant,Madagascar,-19.1868,45.8768,2022,8893,28.1,22.3,2.5,Yes,Least Concern
+Red Panda,Mammal,Amazon Rainforest,-3.0217,-62.5386,2021,16338,52.3,26.9,8.8,No,Vulnerable
+Chinese Giant Salamander,Amphibian,Borneo Rainforest,1.5524,112.8145,2020,39998,14.3,27.1,3.2,Yes,Least Concern
+Harpy Eagle,Bird,Eastern Himalayas,27.5658,89.8584,2015,55000,14.8,16.3,5.1,Yes,Least Concern
+Lion-tailed Macaque,Mammal,Borneo Rainforest,0.3425,115.4128,2017,19685,35.1,28.7,8.7,No,Vulnerable
+Red Sandalwood,Plant,Arctic Tundra,67.2305,-134.23,2015,5204,67.6,-4.4,9.2,No,Endangered
+Rafflesia Arnoldii,Plant,Amazon Rainforest,-4.3257,-61.1596,2015,8461,65.7,26.1,5.0,No,Vulnerable
+Galapagos Giant Tortoise,Reptile,Pantanal Wetlands,-16.7843,-55.6164,2017,7640,52.2,25.9,5.9,No,Vulnerable
+Titan Arum,Plant,Western Ghats,9.7251,75.983,2021,2462,70.7,23.4,4.2,No,Endangered
+Galapagos Giant Tortoise,Reptile,Eastern Himalayas,27.6943,87.3756,2023,19945,41.9,13.5,5.2,No,Least Concern
+Asian Elephant,Mammal,Pantanal Wetlands,-18.0589,-57.9129,2023,32159,25.1,27.2,4.9,Yes,Least Concern
+Bornean Orangutan,Mammal,Serengeti,-3.4526,36.1498,2019,4151,47.2,20.8,9.1,No,Endangered
+Cheetah,Mammal,Serengeti,-3.144,35.308,2023,8836,39.2,21.3,7.0,No,Vulnerable
+Spoon-billed Sandpiper,Bird,Arctic Tundra,69.3436,-134.2897,2020,51286,12.5,-3.8,4.0,Yes,Least Concern
+Galapagos Giant Tortoise,Reptile,Eastern Himalayas,28.9608,87.9005,2022,4857,43.7,16.7,6.7,No,Endangered
+Ghost Orchid,Plant,Serengeti,-2.1328,35.1199,2019,7713,41.7,22.8,8.8,No,Vulnerable
+Dragon Blood Tree,Plant,Serengeti,-0.8677,36.2515,2021,55000,7.0,20.1,4.2,Yes,Least Concern
+Nilgiri Tahr,Mammal,Sundarbans,21.0999,89.2991,2020,16028,49.1,24.2,7.9,No,Vulnerable
+Forest Owlet,Bird,Pantanal Wetlands,-17.6311,-55.9598,2021,29470,35.2,29.1,5.3,No,Least Concern
+Spoon-billed Sandpiper,Bird,Eastern Himalayas,28.5775,87.9276,2024,37903,25.2,16.2,2.9,Yes,Least Concern
+Purple Frog,Amphibian,Sundarbans,21.5741,88.8625,2017,6578,68.5,28.4,7.1,No,Endangered
+Sarus Crane,Bird,Madagascar,-19.353,45.8463,2020,15052,46.6,22.3,8.7,No,Vulnerable
+Snow Leopard,Mammal,Pantanal Wetlands,-16.029,-56.2859,2015,12568,60.4,27.5,8.6,No,Endangered
+Nilgiri Tahr,Mammal,Congo Basin,-1.4995,22.424,2022,4410,62.4,23.7,7.7,No,Endangered
+Forest Owlet,Bird,Arctic Tundra,68.2815,-131.7393,2021,11220,44.6,-4.0,2.7,Yes,Least Concern
+Titan Arum,Plant,Amazon Rainforest,-4.079,-62.907,2017,4815,82.8,26.1,8.7,No,Critically Endangered
+Indian Rhinoceros,Mammal,Amazon Rainforest,-2.3962,-61.387,2021,5613,58.7,24.5,6.5,No,Endangered
+Chinese Giant Salamander,Amphibian,Sundarbans,22.5518,88.5063,2024,2668,67.1,29.1,6.2,No,Endangered
+Red-eyed Tree Frog,Amphibian,Western Ghats,11.9547,76.8242,2018,3441,71.9,23.7,6.1,No,Endangered
+Baobab Tree,Plant,Eastern Himalayas,27.0737,89.404,2015,55000,6.7,10.4,5.4,Yes,Least Concern
+Asian Elephant,Mammal,Pantanal Wetlands,-18.464,-58.0629,2017,9078,67.5,24.5,9.4,No,Endangered
+Spoon-billed Sandpiper,Bird,Borneo Rainforest,0.8558,115.3215,2023,7038,58.5,27.0,4.6,No,Vulnerable
+Philippine Eagle,Bird,Amazon Rainforest,-4.7146,-62.2907,2020,6774,77.6,24.0,5.3,No,Endangered
+Snow Leopard,Mammal,Borneo Rainforest,0.6955,112.699,2022,37601,23.3,25.3,4.1,Yes,Least Concern
+Fire Salamander,Amphibian,Arctic Tundra,68.1753,-134.1607,2023,13368,49.0,-7.6,6.9,No,Vulnerable
+Venus Flytrap,Plant,Madagascar,-19.2357,46.518,2016,3573,51.4,24.4,4.2,No,Vulnerable
+Rafflesia Arnoldii,Plant,Arctic Tundra,67.9398,-133.3547,2016,8261,41.5,-7.1,8.6,No,Vulnerable
+Titan Arum,Plant,Western Ghats,11.5787,77.9063,2016,6310,62.9,24.6,6.2,No,Vulnerable
+California Condor,Bird,Congo Basin,0.739,20.3556,2019,49943,18.4,24.7,3.9,Yes,Least Concern
+Philippine Eagle,Bird,Eastern Himalayas,27.3532,87.3508,2018,55000,14.2,13.4,5.5,Yes,Least Concern
+Mountain Gorilla,Mammal,Western Ghats,10.8087,75.8691,2024,3862,66.2,22.7,9.1,No,Endangered
+Harpy Eagle,Bird,Arctic Tundra,69.1217,-132.252,2023,15428,16.6,-5.1,4.7,Yes,Least Concern
+Nilgiri Tahr,Mammal,Madagascar,-17.2435,48.1102,2016,26711,18.9,21.3,1.7,Yes,Least Concern
+Panamanian Golden Frog,Amphibian,Serengeti,-3.612,36.1942,2015,19962,18.8,25.5,5.6,Yes,Least Concern
+Golden Poison Frog,Amphibian,Arctic Tundra,66.8989,-134.0809,2024,43747,13.8,-6.5,2.5,Yes,Least Concern
+Black Rhino,Mammal,Sundarbans,22.1886,90.2271,2023,15528,31.6,27.0,5.3,No,Least Concern
+Titan Arum,Plant,Pantanal Wetlands,-17.8766,-55.9189,2019,14454,48.9,26.9,6.7,No,Vulnerable
+Cheetah,Mammal,Serengeti,-3.3152,35.1944,2024,7019,62.5,22.0,6.1,No,Endangered
+Great Indian Bustard,Bird,Pantanal Wetlands,-18.1188,-55.565,2021,1712,73.7,24.8,9.4,No,Critically Endangered
+California Condor,Bird,Congo Basin,-0.8668,21.5099,2016,23873,19.2,25.9,1.6,Yes,Least Concern
+Clouded Leopard,Mammal,Sundarbans,22.9134,87.5902,2020,12534,44.1,26.4,8.6,No,Endangered
+Rafflesia Arnoldii,Plant,Arctic Tundra,66.9164,-133.9456,2020,10915,45.2,-7.3,4.5,No,Least Concern
+Ghost Orchid,Plant,Western Ghats,10.1014,75.3747,2024,23081,34.7,28.5,5.6,Yes,Least Concern
+Gharial,Reptile,Amazon Rainforest,-3.9558,-61.4999,2018,8919,71.3,29.2,7.8,No,Endangered
+Forest Owlet,Bird,Congo Basin,0.5188,22.2706,2021,7898,59.8,27.2,6.5,No,Endangered
+Black Rhino,Mammal,Madagascar,-17.7861,46.7027,2018,55000,12.3,18.5,2.0,Yes,Least Concern
+Dragon Blood Tree,Plant,Amazon Rainforest,-2.7222,-62.5563,2021,50671,19.6,28.3,5.2,Yes,Least Concern
+Ganges River Dolphin,Mammal,Western Ghats,11.4492,75.0607,2023,2793,77.1,21.9,4.2,No,Endangered
+Sarus Crane,Bird,Serengeti,-2.6578,33.662,2019,7377,65.7,23.1,4.6,No,Endangered
+Red Sandalwood,Plant,Arctic Tundra,66.6728,-133.9928,2019,4974,39.8,-6.0,9.1,No,Endangered
+Bengal Florican,Bird,Amazon Rainforest,-3.4297,-63.3701,2020,8241,59.5,26.6,5.6,No,Vulnerable
+Hellbender,Amphibian,Western Ghats,10.676,75.0083,2018,9670,41.8,24.3,4.3,Yes,Least Concern
+Kakapo,Bird,Eastern Himalayas,28.3674,87.8613,2022,9400,49.7,14.0,5.2,No,Vulnerable
+Golden Poison Frog,Amphibian,Eastern Himalayas,26.1143,89.6323,2023,15521,55.9,17.1,5.3,No,Vulnerable
+Harpy Eagle,Bird,Eastern Himalayas,27.0071,89.2816,2018,11806,58.0,12.3,5.4,No,Vulnerable
+Spoon-billed Sandpiper,Bird,Congo Basin,-1.8246,22.7401,2019,14770,54.3,22.9,6.9,No,Vulnerable
+Harpy Eagle,Bird,Amazon Rainforest,-4.8238,-62.6925,2020,7524,49.7,26.6,4.8,No,Vulnerable
+Orinoco Crocodile,Reptile,Madagascar,-18.2025,45.8427,2017,9997,60.6,22.3,8.0,No,Vulnerable
+Red Sandalwood,Plant,Amazon Rainforest,-4.8637,-62.703,2018,9014,17.8,29.8,4.5,Yes,Least Concern
+Sloth Bear,Mammal,Madagascar,-18.2771,47.746,2021,4124,61.4,24.7,5.1,No,Endangered
+Rafflesia Arnoldii,Plant,Western Ghats,11.8342,75.9497,2021,6184,74.2,25.2,6.0,No,Critically Endangered
+Orinoco Crocodile,Reptile,Sundarbans,22.4763,88.154,2024,9308,50.6,25.7,8.1,No,Vulnerable
+Bengal Florican,Bird,Borneo Rainforest,0.4923,114.6829,2016,15533,15.5,30.9,2.9,Yes,Least Concern
+Tuatara,Reptile,Amazon Rainforest,-3.7739,-61.5708,2022,4180,43.4,24.1,4.4,No,Vulnerable
+Forest Owlet,Bird,Western Ghats,10.4384,76.4445,2020,6779,51.0,22.6,4.7,No,Vulnerable
+Forest Owlet,Bird,Serengeti,-3.4607,36.2768,2015,35844,25.4,22.6,5.2,Yes,Least Concern
+Dragon Blood Tree,Plant,Borneo Rainforest,1.1137,113.154,2021,9071,46.0,27.1,8.9,No,Vulnerable
+Spoon-billed Sandpiper,Bird,Arctic Tundra,68.2955,-132.7594,2018,11989,24.5,-3.4,9.1,No,Vulnerable
+King Cobra,Reptile,Western Ghats,9.1833,76.3102,2024,9491,66.6,25.0,9.8,No,Critically Endangered
+Gharial,Reptile,Serengeti,-3.1999,34.7087,2017,5443,70.2,23.3,6.4,No,Endangered
+Hawksbill Sea Turtle,Reptile,Congo Basin,-0.2091,21.5649,2024,6699,68.8,23.5,5.6,No,Vulnerable
+Tuatara,Reptile,Sundarbans,21.8588,88.2286,2016,4810,53.9,26.5,8.1,No,Endangered
+Lion-tailed Macaque,Mammal,Arctic Tundra,68.8498,-134.2609,2017,3360,71.3,-3.1,9.7,No,Critically Endangered
+Panamanian Golden Frog,Amphibian,Western Ghats,11.434,77.0133,2016,5916,58.5,23.5,7.6,No,Vulnerable
+Titan Arum,Plant,Western Ghats,11.8337,76.7238,2019,49574,19.8,24.7,3.5,Yes,Least Concern
+King Cobra,Reptile,Sundarbans,21.1633,90.1221,2022,9369,63.2,27.9,9.6,No,Endangered
+Ganges River Dolphin,Mammal,Amazon Rainforest,-3.2089,-63.5299,2016,20038,28.5,22.2,1.4,Yes,Least Concern
+Clouded Leopard,Mammal,Serengeti,-1.682,35.7298,2016,55000,14.5,20.0,2.4,Yes,Least Concern
+Ganges River Dolphin,Mammal,Pantanal Wetlands,-18.0636,-57.7028,2022,3729,70.5,27.2,4.1,No,Endangered
+Spix's Macaw,Bird,Pantanal Wetlands,-17.943,-57.0032,2021,28168,25.9,25.7,2.8,Yes,Least Concern
+Ganges River Dolphin,Mammal,Sundarbans,20.9178,89.6545,2020,6854,70.7,26.7,6.3,No,Endangered
+Dragon Blood Tree,Plant,Eastern Himalayas,26.562,88.9014,2019,12458,34.2,16.0,5.2,No,Vulnerable
+Welwitschia Mirabilis,Plant,Congo Basin,0.5362,22.2311,2017,14865,41.9,24.6,3.9,Yes,Least Concern
+Purple Frog,Amphibian,Madagascar,-19.2303,46.1626,2022,9318,53.8,23.2,9.3,No,Endangered
+Hellbender,Amphibian,Eastern Himalayas,28.2787,88.0347,2018,14166,37.4,18.3,5.0,Yes,Least Concern
+Clouded Leopard,Mammal,Borneo Rainforest,-0.4593,114.1462,2023,27537,21.3,25.9,2.8,Yes,Least Concern
+Mountain Gorilla,Mammal,Arctic Tundra,68.1725,-133.9197,2020,1770,70.6,-6.8,6.4,No,Endangered
+Forest Owlet,Bird,Amazon Rainforest,-4.0292,-62.3336,2023,11599,62.1,30.3,5.6,No,Vulnerable
+Spoon-billed Sandpiper,Bird,Arctic Tundra,67.0069,-132.2459,2021,8804,54.9,-6.3,4.1,No,Vulnerable
+Bengal Tiger,Mammal,Sundarbans,21.9692,90.1397,2017,18020,48.9,27.2,9.6,No,Vulnerable
+Bengal Tiger,Mammal,Western Ghats,11.4084,77.2782,2020,50346,10.5,24.4,3.4,Yes,Least Concern
+Bengal Florican,Bird,Madagascar,-18.9691,48.0609,2020,17147,50.9,24.4,6.4,No,Vulnerable
+Leatherback Turtle,Reptile,Western Ghats,10.4891,75.9013,2016,14885,27.8,21.5,2.1,Yes,Least Concern
+White-bellied Heron,Bird,Western Ghats,10.522,75.2047,2015,3229,47.0,26.7,9.3,No,Endangered
+Harpy Eagle,Bird,Pantanal Wetlands,-16.2771,-55.5551,2016,49436,13.1,26.8,3.8,Yes,Least Concern
+Dragon Blood Tree,Plant,Eastern Himalayas,28.3381,89.1776,2015,3038,62.8,13.1,5.8,No,Endangered
+Rafflesia Arnoldii,Plant,Eastern Himalayas,27.9985,88.096,2024,11415,13.5,15.5,4.7,Yes,Least Concern
+Lion-tailed Macaque,Mammal,Sundarbans,22.2512,89.7951,2024,12175,62.6,24.5,7.4,No,Endangered
+King Cobra,Reptile,Serengeti,-1.2278,35.7008,2023,13372,46.9,21.8,6.1,No,Vulnerable
+Spoon-billed Sandpiper,Bird,Congo Basin,-1.2344,22.556,2015,6187,70.4,25.3,7.6,No,Endangered
+Welwitschia Mirabilis,Plant,Eastern Himalayas,26.0576,88.956,2017,8896,71.8,15.9,8.5,No,Endangered
+Bornean Orangutan,Mammal,Serengeti,-3.2443,35.7461,2023,35573,18.0,24.4,5.2,Yes,Least Concern
+Purple Frog,Amphibian,Madagascar,-19.1273,46.4558,2018,8922,69.6,21.8,8.1,No,Endangered
+Forest Owlet,Bird,Sundarbans,21.9654,87.8577,2020,6962,63.7,28.7,9.0,No,Endangered
+Cheetah,Mammal,Western Ghats,9.2005,75.026,2017,13079,59.9,22.3,4.9,No,Vulnerable
+Cheetah,Mammal,Amazon Rainforest,-3.1107,-62.3732,2020,4043,39.2,25.7,6.8,No,Vulnerable
+Lion-tailed Macaque,Mammal,Arctic Tundra,69.4594,-131.7825,2023,8850,41.0,-6.5,5.6,No,Vulnerable
+Leatherback Turtle,Reptile,Serengeti,-2.9636,35.1634,2023,21923,10.7,20.9,4.6,Yes,Least Concern
+Spoon-billed Sandpiper,Bird,Serengeti,-1.1118,34.3395,2020,16392,36.7,23.1,2.6,Yes,Least Concern
+Bengal Florican,Bird,Congo Basin,-0.8014,22.9235,2022,28389,22.8,24.6,3.0,Yes,Least Concern
+Hellbender,Amphibian,Borneo Rainforest,2.0157,115.4681,2018,13388,51.3,25.2,6.7,No,Vulnerable
+Kakapo,Bird,Congo Basin,0.3698,21.227,2023,40403,21.7,24.6,3.8,Yes,Least Concern
+Bengal Tiger,Mammal,Congo Basin,-2.0102,21.0946,2021,16822,44.8,25.2,6.8,No,Vulnerable
+Leatherback Turtle,Reptile,Borneo Rainforest,-0.4637,114.0615,2019,3505,67.1,24.0,6.4,No,Endangered
+Dragon Blood Tree,Plant,Amazon Rainforest,-2.2886,-62.8278,2015,17727,32.0,26.6,4.4,Yes,Least Concern
+Forest Owlet,Bird,Western Ghats,9.4833,75.311,2016,4972,76.6,26.0,6.2,No,Endangered
+Gharial,Reptile,Serengeti,-2.3711,33.3419,2016,15956,40.0,22.2,2.7,Yes,Least Concern
+Ganges River Dolphin,Mammal,Borneo Rainforest,0.4251,113.5882,2021,3967,63.1,26.0,8.8,No,Endangered
+Purple Frog,Amphibian,Serengeti,-1.4542,33.612,2018,5422,59.7,22.6,7.6,No,Endangered
+Red Panda,Mammal,Eastern Himalayas,26.5425,87.0657,2022,3118,60.6,15.4,7.0,No,Endangered
+Leatherback Turtle,Reptile,Amazon Rainforest,-3.4947,-63.4069,2019,11645,45.1,28.9,4.8,No,Vulnerable
+Venus Flytrap,Plant,Congo Basin,0.6546,20.1774,2021,1106,74.7,25.5,9.5,No,Critically Endangered
+Philippine Eagle,Bird,Arctic Tundra,69.3513,-133.8676,2023,20174,27.1,-6.0,3.2,Yes,Least Concern
+Ganges River Dolphin,Mammal,Amazon Rainforest,-3.2531,-61.1662,2021,16907,51.0,23.2,4.3,No,Vulnerable
+Red-eyed Tree Frog,Amphibian,Sundarbans,23.1401,88.8286,2020,55000,13.5,25.8,1.7,Yes,Least Concern
+Chinese Giant Salamander,Amphibian,Western Ghats,11.7954,76.6511,2020,6201,54.3,25.8,7.4,No,Endangered
+Indian Rhinoceros,Mammal,Western Ghats,10.6415,76.9783,2018,38059,28.2,22.0,4.8,Yes,Least Concern
+Gharial,Reptile,Sundarbans,23.3627,89.3271,2023,41386,25.9,26.6,2.5,Yes,Least Concern
+Great Indian Bustard,Bird,Sundarbans,22.389,88.5469,2021,18273,29.1,29.6,4.8,Yes,Least Concern
+Komodo Dragon,Reptile,Sundarbans,23.1208,89.0991,2021,2072,57.7,26.9,8.0,No,Endangered
+Orinoco Crocodile,Reptile,Pantanal Wetlands,-17.7429,-57.042,2021,16090,37.7,25.8,5.1,Yes,Least Concern
+King Cobra,Reptile,Borneo Rainforest,2.3545,113.3151,2015,34669,26.7,26.1,1.8,Yes,Least Concern
+King Cobra,Reptile,Pantanal Wetlands,-18.3163,-56.2162,2021,6539,62.7,23.7,7.4,No,Endangered
+Axolotl,Amphibian,Eastern Himalayas,26.8247,89.367,2018,10477,63.8,12.4,4.0,No,Vulnerable
+White-bellied Heron,Bird,Arctic Tundra,67.5137,-131.8232,2018,3144,64.7,-4.5,8.8,No,Endangered
+Red Sandalwood,Plant,Western Ghats,11.8067,75.7842,2018,11750,58.8,24.7,4.2,No,Vulnerable
+Ganges River Dolphin,Mammal,Sundarbans,21.9666,89.3594,2024,55000,16.5,27.2,5.7,Yes,Least Concern
+Axolotl,Amphibian,Serengeti,-3.7545,36.1627,2019,28140,10.8,21.9,3.2,Yes,Least Concern
+White-bellied Heron,Bird,Eastern Himalayas,27.2302,87.3721,2024,13615,36.1,15.4,9.6,No,Vulnerable
+Chinese Giant Salamander,Amphibian,Amazon Rainforest,-3.0098,-61.5504,2019,15863,8.1,26.7,2.5,Yes,Least Concern
+Indian Rhinoceros,Mammal,Borneo Rainforest,0.1057,115.3069,2024,6963,30.3,28.1,2.2,Yes,Least Concern
+California Condor,Bird,Madagascar,-17.6033,45.8094,2024,3969,75.7,23.4,6.4,No,Endangered
+Nilgiri Tahr,Mammal,Arctic Tundra,67.1906,-132.5245,2017,32387,19.6,-8.5,1.3,Yes,Least Concern
+Red Sandalwood,Plant,Congo Basin,-1.2913,22.3379,2018,6582,74.1,24.9,6.0,No,Endangered
+Orinoco Crocodile,Reptile,Serengeti,-2.7176,33.8494,2019,36649,26.5,23.2,2.0,Yes,Least Concern
+Hellbender,Amphibian,Congo Basin,-1.9449,21.7483,2015,9239,64.9,24.0,4.3,No,Vulnerable
+Red-eyed Tree Frog,Amphibian,Borneo Rainforest,-0.2058,114.1144,2015,7547,62.3,28.1,9.5,No,Endangered
+Rafflesia Arnoldii,Plant,Pantanal Wetlands,-18.1072,-55.5087,2022,23726,38.8,29.0,7.3,No,Vulnerable
+Dragon Blood Tree,Plant,Amazon Rainforest,-4.8593,-62.9352,2015,40813,22.7,29.7,2.5,Yes,Least Concern
+Great Hornbill,Bird,Madagascar,-17.7901,46.4825,2015,12224,42.7,25.4,4.0,No,Vulnerable
+Forest Owlet,Bird,Western Ghats,9.5859,76.9093,2015,20392,23.4,25.5,1.3,Yes,Least Concern
+Leatherback Turtle,Reptile,Arctic Tundra,67.6701,-133.1907,2016,18602,44.1,-6.6,2.8,Yes,Least Concern
+Rafflesia Arnoldii,Plant,Arctic Tundra,69.186,-131.7737,2015,6220,64.2,-5.1,7.0,No,Endangered
+Giant Panda,Mammal,Madagascar,-18.7478,46.2301,2015,11571,16.8,23.9,5.0,Yes,Least Concern
+Venus Flytrap,Plant,Amazon Rainforest,-3.5799,-63.1746,2021,4779,33.7,20.1,1.3,Yes,Least Concern
+Cheetah,Mammal,Sundarbans,21.635,90.071,2024,26802,19.8,26.4,5.4,Yes,Least Concern
+Chinese Giant Salamander,Amphibian,Amazon Rainforest,-1.9984,-63.6565,2015,40728,17.9,27.6,5.8,Yes,Least Concern
+Asian Elephant,Mammal,Pantanal Wetlands,-16.0269,-56.7776,2023,12862,36.3,27.4,5.9,No,Vulnerable
+Asian Elephant,Mammal,Amazon Rainforest,-3.6168,-62.0017,2015,6238,73.3,25.4,5.0,No,Vulnerable
+White-bellied Heron,Bird,Madagascar,-18.4331,46.1249,2022,5768,30.0,20.7,4.2,Yes,Least Concern
+Bornean Orangutan,Mammal,Congo Basin,0.0845,22.5985,2023,4209,45.7,23.5,7.4,No,Vulnerable
+Fire Salamander,Amphibian,Eastern Himalayas,28.9787,88.8864,2020,47921,20.8,15.4,4.4,Yes,Least Concern
+Sarus Crane,Bird,Eastern Himalayas,26.5014,87.7587,2019,5831,61.2,15.9,6.6,No,Endangered
+Spix's Macaw,Bird,Madagascar,-18.8306,45.6225,2021,37354,18.5,22.5,3.8,Yes,Least Concern
+Gharial,Reptile,Madagascar,-17.9907,46.2996,2023,2672,80.3,23.9,9.4,No,Critically Endangered
+Harpy Eagle,Bird,Congo Basin,-1.1478,21.2948,2022,19559,48.0,25.4,6.7,No,Vulnerable
+Hawksbill Sea Turtle,Reptile,Serengeti,-1.99,35.3845,2021,6977,63.4,25.1,6.7,No,Endangered
+Indian Rhinoceros,Mammal,Madagascar,-19.3769,46.5709,2017,8566,22.4,24.3,3.5,Yes,Least Concern
+Leatherback Turtle,Reptile,Western Ghats,9.834,77.3391,2015,17392,38.8,25.3,2.4,Yes,Least Concern
+Hawksbill Sea Turtle,Reptile,Sundarbans,23.0121,88.7793,2022,2083,66.8,31.0,4.6,No,Endangered
+Bengal Florican,Bird,Western Ghats,9.1831,77.572,2017,1438,69.7,22.0,9.8,No,Critically Endangered
+Tuatara,Reptile,Sundarbans,21.4833,89.5526,2024,5253,49.3,24.9,9.7,No,Endangered
+Red Panda,Mammal,Sundarbans,22.6256,89.4488,2018,15962,47.8,27.0,4.0,No,Vulnerable
+Nilgiri Tahr,Mammal,Sundarbans,22.6972,88.2126,2015,6956,45.1,26.8,6.6,No,Vulnerable
+Golden Poison Frog,Amphibian,Madagascar,-19.8532,46.9744,2019,10663,66.6,21.9,8.3,No,Endangered
+Hawksbill Sea Turtle,Reptile,Madagascar,-19.6119,46.0455,2020,20189,47.0,23.1,4.4,No,Least Concern
+Black Rhino,Mammal,Borneo Rainforest,2.4398,112.9389,2021,13233,42.9,26.8,4.8,No,Least Concern
+Black Rhino,Mammal,Arctic Tundra,68.1642,-133.9915,2021,10147,48.2,-6.5,6.7,No,Vulnerable
+White-bellied Heron,Bird,Madagascar,-17.4506,47.8493,2021,8260,59.4,19.0,9.5,No,Endangered
+Spix's Macaw,Bird,Congo Basin,-2.1304,21.4969,2024,4238,66.2,25.0,4.8,No,Endangered
